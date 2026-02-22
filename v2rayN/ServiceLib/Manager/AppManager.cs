@@ -309,6 +309,7 @@ public sealed class AppManager
         {
             try
             {
+#pragma warning disable CS0618
                 var extra = item.GetProtocolExtra();
                 switch (item.ConfigType)
                 {
@@ -372,6 +373,7 @@ public sealed class AppManager
                 item.ConfigVersion = 3;
 
                 updateProfileItems.Add(item);
+#pragma warning restore CS0618
             }
             catch (Exception ex)
             {
