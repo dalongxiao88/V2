@@ -1,0 +1,379 @@
+<reactiveui:ReactiveUserControl
+    x:Class="v2rayN.Views.ProfilesView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:base="clr-namespace:v2rayN.Base"
+    xmlns:conv="clr-namespace:v2rayN.Converters"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:reactiveui="http://reactiveui.net"
+    xmlns:resx="clr-namespace:ServiceLib.Resx;assembly=ServiceLib"
+    xmlns:vms="clr-namespace:ServiceLib.ViewModels;assembly=ServiceLib"
+    d:DesignHeight="450"
+    d:DesignWidth="800"
+    x:TypeArguments="vms:ProfilesViewModel"
+    Style="{StaticResource ViewGlobal}"
+    mc:Ignorable="d">
+    <UserControl.Resources>
+        <BooleanToVisibilityConverter x:Key="BoolToVisConverter" />
+        <conv:DelayColorConverter x:Key="DelayColorConverter" />
+    </UserControl.Resources>
+    <Grid>
+        <DockPanel>
+            <WrapPanel Margin="{StaticResource Margin4}" DockPanel.Dock="Top">
+                <ListBox
+                    x:Name="lstGroup"
+                    MaxHeight="200"
+                    AutomationProperties.Name="{DynamicResource String_menuSubscription}"
+                    FontSize="{DynamicResource StdFontSize}"
+                    ItemContainerStyle="{StaticResource MyChipListBoxItem}"
+                    Style="{StaticResource MaterialDesignChoiceChipPrimaryOutlineListBox}">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding Remarks}" />
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+
+                <Button
+                    x:Name="btnEditSub"
+                    Width="30"
+                    Height="30"
+                    Margin="{StaticResource MarginLeftRight4}"
+                    AutomationProperties.Name="{DynamicResource String_menuSubEdit}"
+                    Style="{StaticResource MaterialDesignFloatingActionMiniLightButton}"
+                    ToolTip="{DynamicResource String_menuSubEdit}">
+                    <materialDesign:PackIcon VerticalAlignment="Center" Kind="Edit" />
+                </Button>
+                <Button
+                    x:Name="btnAddSub"
+                    Width="30"
+                    Height="30"
+                    Margin="{StaticResource MarginLeftRight4}"
+                    AutomationProperties.Name="{DynamicResource String_menuSubAdd}"
+                    Style="{StaticResource MaterialDesignFloatingActionMiniLightButton}"
+                    ToolTip="{DynamicResource String_menuSubAdd}">
+                    <materialDesign:PackIcon VerticalAlignment="Center" Kind="Plus" />
+                </Button>
+
+                <TextBox
+                    x:Name="txtServerFilter"
+                    Width="200"
+                    Margin="{StaticResource MarginLeftRight4}"
+                    VerticalContentAlignment="Center"
+                    materialDesign:HintAssist.Hint="{DynamicResource String_MsgServerTitle}"
+                    materialDesign:TextFieldAssist.HasClearButton="True"
+                    AutomationProperties.Name="{DynamicResource String_MsgServerTitle}"
+                    Style="{StaticResource DefTextBox}" />
+
+                <Button
+                    x:Name="btnAutofitColumnWidth"
+                    Width="30"
+                    Height="30"
+                    Margin="{StaticResource MarginLeftRight4}"
+                    AutomationProperties.Name="{DynamicResource String_menuProfileAutofitColumnWidth}"
+                    Style="{StaticResource MaterialDesignFloatingActionMiniLightButton}"
+                    ToolTip="{DynamicResource String_menuProfileAutofitColumnWidth}">
+                    <materialDesign:PackIcon VerticalAlignment="Center" Kind="ArrowSplitVertical" />
+                </Button>
+
+                <Button
+                    x:Name="btnFastRealPing"
+                    Width="30"
+                    Height="30"
+                    Margin="{StaticResource MarginLeftRight4}"
+                    Style="{StaticResource MaterialDesignFloatingActionMiniLightButton}"
+                    ToolTip="{DynamicResource String_menuFastRealPing}">
+                    <materialDesign:PackIcon VerticalAlignment="Center" Kind="LightningBolt" />
+                </Button>
+                <Button
+                    x:Name="menuMixedTestServer"
+                    Width="30"
+                    Height="30"
+                    Margin="{StaticResource MarginLeftRight4}"
+                    Style="{StaticResource MaterialDesignFloatingActionMiniLightButton}"
+                    ToolTip="{DynamicResource String_menuMixedTestServer}">
+                    <materialDesign:PackIcon VerticalAlignment="Center" Kind="Speedometer" />
+                </Button>
+            </WrapPanel>
+            <DataGrid
+                x:Name="lstProfiles"
+                materialDesign:DataGridAssist.CellPadding="2,2"
+                AutoGenerateColumns="False"
+                BorderThickness="1"
+                CanUserAddRows="False"
+                CanUserResizeRows="False"
+                CanUserSortColumns="False"
+                EnableRowVirtualization="True"
+                Focusable="True"
+                GridLinesVisibility="All"
+                HeadersVisibility="All"
+                IsReadOnly="True"
+                RowHeaderWidth="40"
+                Style="{StaticResource DefDataGrid}">
+                <DataGrid.InputBindings>
+                    <KeyBinding Command="ApplicationCommands.NotACommand" Gesture="Ctrl+C" />
+                    <KeyBinding Command="ApplicationCommands.NotACommand" Gesture="Ctrl+V" />
+                    <KeyBinding Command="ApplicationCommands.NotACommand" Gesture="Delete" />
+                    <KeyBinding Command="ApplicationCommands.NotACommand" Gesture="Enter" />
+                </DataGrid.InputBindings>
+                <DataGrid.ContextMenu>
+                    <ContextMenu Style="{StaticResource DefContextMenu}">
+                        <MenuItem
+                            x:Name="menuSetDefaultServer"
+                            Height="{StaticResource MenuItemHeight}"
+                            Header="{DynamicResource String_menuSetDefaultServer}"
+                            InputGestureText="Enter" />
+                        <MenuItem
+                            x:Name="menuEditServer"
+                            Height="{StaticResource MenuItemHeight}"
+                            Header="{DynamicResource String_menuEditServer}"
+                            InputGestureText="Ctrl+D" />
+                        <MenuItem
+                            x:Name="menuCopyServer"
+                            Height="{StaticResource MenuItemHeight}"
+                            Header="{DynamicResource String_menuCopyServer}" />
+                        <MenuItem
+                            x:Name="menuRemoveServer"
+                            Height="{StaticResource MenuItemHeight}"
+                            Header="{DynamicResource String_menuRemoveServer}"
+                            InputGestureText="Back" />
+                        <MenuItem
+                            x:Name="menuRemoveDuplicateServer"
+                            Height="{StaticResource MenuItemHeight}"
+                            Header="{DynamicResource String_menuRemoveDuplicateServer}" />
+                        <MenuItem
+                            x:Name="menuRemoveInvalidServerResult"
+                            Height="{StaticResource MenuItemHeight}"
+                            Header="{DynamicResource String_menuRemoveInvalidServerResult}" />
+                        <Separator />
+                        <MenuItem
+                            x:Name="menuTcpingServer"
+                            Height="{StaticResource MenuItemHeight}"
+                            Header="{DynamicResource String_menuTcpingServer}"
+                            InputGestureText="Ctrl+O" />
+                        <MenuItem
+                            x:Name="menuRealPingServer"
+                            Height="{StaticResource MenuItemHeight}"
+                            Header="{DynamicResource String_menuRealPingServer}"
+                            InputGestureText="Ctrl+R" />
+                        <MenuItem
+                            x:Name="menuSpeedServer"
+                            Height="{StaticResource MenuItemHeight}"
+                            Header="{DynamicResource String_menuSpeedServer}"
+                            InputGestureText="Ctrl+T" />
+                        <MenuItem
+                            x:Name="menuSortServerResult"
+                            Height="{StaticResource MenuItemHeight}"
+                            Header="{DynamicResource String_menuSortServerResult}" />
+                        <Separator />
+                        <MenuItem
+                            x:Name="menuMoveToGroup"
+                            Height="{StaticResource MenuItemHeight}"
+                            Header="{DynamicResource String_menuMoveToGroup}">
+                            <MenuItem Height="Auto">
+                                <MenuItem.Header>
+                                    <DockPanel>
+                                        <ComboBox
+                                            x:Name="cmbMoveToGroup"
+                                            Width="200"
+                                            materialDesign:HintAssist.Hint="{DynamicResource String_menuSubscription}"
+                                            DisplayMemberPath="Remarks"
+                                            FontSize="{DynamicResource StdFontSize}"
+                                            Style="{StaticResource MaterialDesignFilledComboBox}" />
+                                    </DockPanel>
+                                </MenuItem.Header>
+                            </MenuItem>
+                        </MenuItem>
+                        <MenuItem Header="{DynamicResource String_menuMoveTo}">
+                            <MenuItem
+                                x:Name="menuMoveTop"
+                                Height="{StaticResource MenuItemHeight}"
+                                Header="{DynamicResource String_menuMoveTop}"
+                                InputGestureText="T" />
+                            <MenuItem
+                                x:Name="menuMoveUp"
+                                Height="{StaticResource MenuItemHeight}"
+                                Header="{DynamicResource String_menuMoveUp}"
+                                InputGestureText="U" />
+                            <MenuItem
+                                x:Name="menuMoveDown"
+                                Height="{StaticResource MenuItemHeight}"
+                                Header="{DynamicResource String_menuMoveDown}"
+                                InputGestureText="D" />
+                            <MenuItem
+                                x:Name="menuMoveBottom"
+                                Height="{StaticResource MenuItemHeight}"
+                                Header="{DynamicResource String_menuMoveBottom}"
+                                InputGestureText="B" />
+                        </MenuItem>
+                        <MenuItem
+                            x:Name="menuSelectAll"
+                            Height="{StaticResource MenuItemHeight}"
+                            Header="{DynamicResource String_menuSelectAll}"
+                            InputGestureText="Ctrl+A" />
+                        <Separator />
+                        <MenuItem
+                            x:Name="menuShareServer"
+                            Height="{StaticResource MenuItemHeight}"
+                            Header="{DynamicResource String_menuShareServer}"
+                            InputGestureText="Ctrl+F" />
+                        <MenuItem Header="{DynamicResource String_menuExportConfig}">
+                            <MenuItem
+                                x:Name="menuExport2ClientConfig"
+                                Height="{StaticResource MenuItemHeight}"
+                                Header="{DynamicResource String_menuExport2ClientConfig}" />
+                            <MenuItem
+                                x:Name="menuExport2ClientConfigClipboard"
+                                Height="{StaticResource MenuItemHeight}"
+                                Header="{DynamicResource String_menuExport2ClientConfigClipboard}" />
+                            <Separator />
+                            <MenuItem
+                                x:Name="menuExport2ShareUrl"
+                                Height="{StaticResource MenuItemHeight}"
+                                Header="{DynamicResource String_menuExport2ShareUrl}"
+                                InputGestureText="Ctrl+C" />
+                            <MenuItem
+                                x:Name="menuExport2ShareUrlBase64"
+                                Height="{StaticResource MenuItemHeight}"
+                                Header="{DynamicResource String_menuExport2ShareUrlBase64}" />
+                        </MenuItem>
+                        <Separator />
+                        <MenuItem Header="{DynamicResource String_menuGenGroupMultipleServer}">
+                            <MenuItem
+                                x:Name="menuGenGroupMultipleServerXrayRandom"
+                                Height="{StaticResource MenuItemHeight}"
+                                Header="{DynamicResource String_menuGenGroupMultipleServerXrayRandom}" />
+                            <MenuItem
+                                x:Name="menuGenGroupMultipleServerXrayRoundRobin"
+                                Height="{StaticResource MenuItemHeight}"
+                                Header="{DynamicResource String_menuGenGroupMultipleServerXrayRoundRobin}" />
+                            <MenuItem
+                                x:Name="menuGenGroupMultipleServerXrayLeastPing"
+                                Height="{StaticResource MenuItemHeight}"
+                                Header="{DynamicResource String_menuGenGroupMultipleServerXrayLeastPing}" />
+                            <MenuItem
+                                x:Name="menuGenGroupMultipleServerXrayLeastLoad"
+                                Height="{StaticResource MenuItemHeight}"
+                                Header="{DynamicResource String_menuGenGroupMultipleServerXrayLeastLoad}" />
+                            <Separator />
+                            <MenuItem
+                                x:Name="menuGenGroupMultipleServerSingBoxLeastPing"
+                                Height="{StaticResource MenuItemHeight}"
+                                Header="{DynamicResource String_menuGenGroupMultipleServerSingBoxLeastPing}" />
+                            <MenuItem
+                                x:Name="menuGenGroupMultipleServerSingBoxFallback"
+                                Height="{StaticResource MenuItemHeight}"
+                                Header="{DynamicResource String_menuGenGroupMultipleServerSingBoxFallback}" />
+                        </MenuItem>
+                    </ContextMenu>
+                </DataGrid.ContextMenu>
+                <DataGrid.Resources>
+                    <Style BasedOn="{StaticResource MaterialDesignDataGridRow}" TargetType="DataGridRow">
+                        <EventSetter Event="MouseDoubleClick" Handler="LstProfiles_MouseDoubleClick" />
+                    </Style>
+                    <Style BasedOn="{StaticResource MaterialDesignDataGridColumnHeader}" TargetType="DataGridColumnHeader">
+                        <EventSetter Event="Click" Handler="LstProfiles_ColumnHeader_Click" />
+                    </Style>
+
+                    <Style BasedOn="{StaticResource MaterialDesignDataGridCell}" TargetType="DataGridCell">
+                        <Style.Triggers>
+                            <DataTrigger Binding="{Binding IsActive}" Value="True">
+                                <Setter Property="Background" Value="{DynamicResource MaterialDesign.Brush.Primary.Light}" />
+                                <Setter Property="Foreground" Value="Black" />
+                                <Setter Property="BorderBrush" Value="{DynamicResource MaterialDesign.Brush.Primary.Light}" />
+                            </DataTrigger>
+                        </Style.Triggers>
+                    </Style>
+                </DataGrid.Resources>
+                <DataGrid.Columns>
+                    <base:MyDGTextColumn
+                        Width="80"
+                        Binding="{Binding ConfigType}"
+                        ExName="ConfigType"
+                        Header="{DynamicResource String_LvServiceType}" />
+                    <base:MyDGTextColumn
+                        Width="150"
+                        Binding="{Binding Remarks}"
+                        ExName="Remarks"
+                        Header="{DynamicResource String_LvRemarks}" />
+                    <base:MyDGTextColumn
+                        Width="120"
+                        Binding="{Binding Address}"
+                        ExName="Address"
+                        Header="{DynamicResource String_LvAddress}" />
+                    <base:MyDGTextColumn
+                        Width="60"
+                        Binding="{Binding Port}"
+                        ExName="Port"
+                        Header="{DynamicResource String_LvPort}" />
+                    <base:MyDGTextColumn
+                        Width="100"
+                        Binding="{Binding Network}"
+                        ExName="Network"
+                        Header="{DynamicResource String_LvTransportProtocol}" />
+                    <base:MyDGTextColumn
+                        Width="100"
+                        Binding="{Binding StreamSecurity}"
+                        ExName="StreamSecurity"
+                        Header="{DynamicResource String_LvTLS}" />
+                    <base:MyDGTextColumn
+                        Width="100"
+                        Binding="{Binding SubRemarks}"
+                        ExName="SubRemarks"
+                        Header="{DynamicResource String_LvSubscription}" />
+                    <base:MyDGTextColumn
+                        Width="100"
+                        Binding="{Binding DelayVal}"
+                        ExName="DelayVal"
+                        Header="{DynamicResource String_LvTestDelay}"
+                        SortMemberPath="Delay">
+                        <DataGridTextColumn.ElementStyle>
+                            <Style TargetType="{x:Type TextBlock}">
+                                <Setter Property="HorizontalAlignment" Value="Right" />
+                                <Setter Property="Foreground" Value="{Binding Delay, Converter={StaticResource DelayColorConverter}}" />
+                            </Style>
+                        </DataGridTextColumn.ElementStyle>
+                    </base:MyDGTextColumn>
+                    <base:MyDGTextColumn
+                        Width="100"
+                        Binding="{Binding SpeedVal}"
+                        ExName="SpeedVal"
+                        Header="{DynamicResource String_LvTestSpeed}">
+                        <DataGridTextColumn.ElementStyle>
+                            <Style TargetType="{x:Type TextBlock}">
+                                <Setter Property="HorizontalAlignment" Value="Right" />
+                            </Style>
+                        </DataGridTextColumn.ElementStyle>
+                    </base:MyDGTextColumn>
+
+                    <base:MyDGTextColumn
+                        x:Name="colTodayUp"
+                        Width="100"
+                        Binding="{Binding TodayUp}"
+                        ExName="TodayUp"
+                        Header="{DynamicResource String_LvTodayUploadDataAmount}" />
+                    <base:MyDGTextColumn
+                        x:Name="colTodayDown"
+                        Width="100"
+                        Binding="{Binding TodayDown}"
+                        ExName="TodayDown"
+                        Header="{DynamicResource String_LvTodayDownloadDataAmount}" />
+                    <base:MyDGTextColumn
+                        x:Name="colTotalUp"
+                        Width="100"
+                        Binding="{Binding TotalUp}"
+                        ExName="TotalUp"
+                        Header="{DynamicResource String_LvTotalUploadDataAmount}" />
+                    <base:MyDGTextColumn
+                        x:Name="colTotalDown"
+                        Width="100"
+                        Binding="{Binding TotalDown}"
+                        ExName="TotalDown"
+                        Header="{DynamicResource String_LvTotalDownloadDataAmount}" />
+                </DataGrid.Columns>
+            </DataGrid>
+        </DockPanel>
+    </Grid>
+</reactiveui:ReactiveUserControl>

@@ -1,0 +1,121 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+
+    <!-- 主窗口 -->
+    <system:String x:Key="StringMainWindowTitle">v2rayN</system:String>
+    
+    <!-- 菜单 - 服务器 -->
+    <system:String x:Key="StringMenuServers">服务器</system:String>
+    <system:String x:Key="StringMenuAddServerViaClipboard">从剪贴板导入</system:String>
+    <system:String x:Key="StringMenuAddServerViaScan">扫描屏幕二维码</system:String>
+    <system:String x:Key="StringMenuAddServerViaImage">从图片导入</system:String>
+    <system:String x:Key="StringMenuAddCustomServer">添加自定义配置服务器</system:String>
+    <system:String x:Key="StringMenuAddPolicyGroupServer">添加策略组服务器</system:String>
+    <system:String x:Key="StringMenuAddProxyChainServer">添加代理链服务器</system:String>
+    
+    <!-- 菜单 - 订阅 -->
+    <system:String x:Key="StringMenuSubscription">订阅</system:String>
+    <system:String x:Key="StringMenuSubSetting">订阅设置</system:String>
+    <system:String x:Key="StringMenuSubUpdate">更新订阅</system:String>
+    <system:String x:Key="StringMenuSubUpdateViaProxy">更新订阅（通过代理）</system:String>
+    <system:String x:Key="StringMenuSubGroupUpdate">更新当前订阅</system:String>
+    <system:String x:Key="StringMenuSubGroupUpdateViaProxy">更新当前订阅（通过代理）</system:String>
+    
+    <!-- 菜单 - 设置 -->
+    <system:String x:Key="StringMenuSetting">设置</system:String>
+    <system:String x:Key="StringMenuOptionSetting">参数设置</system:String>
+    <system:String x:Key="StringMenuRoutingSetting">路由设置</system:String>
+    <system:String x:Key="StringMenuDNSSetting">DNS 设置</system:String>
+    <system:String x:Key="StringMenuFullConfigTemplate">完整配置模板</system:String>
+    <system:String x:Key="StringMenuGlobalHotkeySetting">全局热键设置</system:String>
+    <system:String x:Key="StringMenuRebootAsAdmin">以管理员身份重启</system:String>
+    <system:String x:Key="StringMenuClearServerStatistics">清除服务器统计</system:String>
+    <system:String x:Key="StringMenuOpenTheFileLocation">打开文件位置</system:String>
+    
+    <!-- 菜单 - 帮助 -->
+    <system:String x:Key="StringMenuHelp">帮助</system:String>
+    <system:String x:Key="StringMenuCheckUpdate">检查更新</system:String>
+    
+    <!-- 菜单 - 其他 -->
+    <system:String x:Key="StringMenuReload">重载</system:String>
+    <system:String x:Key="StringMenuPromotion">推广</system:String>
+    <system:String x:Key="StringMenuClose">最小化</system:String>
+    
+    <!-- 服务器列表 -->
+    <system:String x:Key="StringServerList">服务器列表</system:String>
+    <system:String x:Key="StringColumnConfigType">类型</system:String>
+    <system:String x:Key="StringColumnRemarks">别名</system:String>
+    <system:String x:Key="StringColumnAddress">地址</system:String>
+    <system:String x:Key="StringColumnPort">端口</system:String>
+    <system:String x:Key="StringColumnNetwork">传输协议</system:String>
+    <system:String x:Key="StringColumnStreamSecurity">TLS</system:String>
+    <system:String x:Key="StringColumnSubscription">订阅</system:String>
+    <system:String x:Key="StringColumnTestDelay">延迟</system:String>
+    <system:String x:Key="StringColumnTestSpeed">速度</system:String>
+    <system:String x:Key="StringColumnTodayUp">今日上传</system:String>
+    <system:String x:Key="StringColumnTodayDown">今日下载</system:String>
+    <system:String x:Key="StringColumnTotalUp">总上传</system:String>
+    <system:String x:Key="StringColumnTotalDown">总下载</system:String>
+    
+    <!-- 日志面板 -->
+    <system:String x:Key="StringLogPanel">日志</system:String>
+    <system:String x:Key="StringLogFilter">日志过滤</system:String>
+    <system:String x:Key="StringLogCopyAll">复制全部</system:String>
+    <system:String x:Key="StringLogClear">清空</system:String>
+    <system:String x:Key="StringLogAutoRefresh">自动刷新</system:String>
+    <system:String x:Key="StringLogAutoScrollToEnd">自动滚动到底部</system:String>
+    
+    <!-- 标签页 -->
+    <system:String x:Key="StringTabMessage">消息</system:String>
+    <system:String x:Key="StringTabProxies">代理</system:String>
+    <system:String x:Key="StringTabConnections">连接</system:String>
+    
+    <!-- 通用 -->
+    <system:String x:Key="StringOK">确定</system:String>
+    <system:String x:Key="StringCancel">取消</system:String>
+    <system:String x:Key="StringYes">是</system:String>
+    <system:String x:Key="StringNo">否</system:String>
+    <system:String x:Key="StringSave">保存</system:String>
+    <system:String x:Key="StringClose">关闭</system:String>
+    <system:String x:Key="StringApply">应用</system:String>
+    <system:String x:Key="StringRefresh">刷新</system:String>
+    <system:String x:Key="StringSearch">搜索</system:String>
+    <system:String x:Key="StringFilter">过滤</system:String>
+    
+    <!-- 状态栏 -->
+    <system:String x:Key="StringStatusConnected">已连接</system:String>
+    <system:String x:Key="StringStatusDisconnected">未连接</system:String>
+    <system:String x:Key="StringStatusConnecting">连接中...</system:String>
+    <system:String x:Key="StringStatusSystemProxy">系统代理</system:String>
+    <system:String x:Key="StringStatusSpeed">速度</system:String>
+    
+    <!-- 语言菜单 -->
+    <system:String x:Key="StringMenuLanguage">语言</system:String>
+    <system:String x:Key="StringLanguageSimplifiedChinese">简体中文</system:String>
+    <system:String x:Key="StringLanguageEnglish">English</system:String>
+    
+    <!-- 日志翻译资源（状态标签） -->
+    <system:String x:Key="String_Log_Accepted">[访问]</system:String>
+    <system:String x:Key="String_Log_Rejected">[拒绝]</system:String>
+    <system:String x:Key="String_Log_Closed">[关闭]</system:String>
+    <system:String x:Key="String_Log_Timeout">[超时]</system:String>
+    <system:String x:Key="String_Log_Failed">[失败]</system:String>
+    <system:String x:Key="String_Log_Error">[错误]</system:String>
+    <system:String x:Key="String_Log_Denied">[禁止]</system:String>
+    <system:String x:Key="String_Log_Success">[成功]</system:String>
+    <system:String x:Key="String_Log_Connected">[连接]</system:String>
+    <system:String x:Key="String_Log_Established">[建立]</system:String>
+    <system:String x:Key="String_Log_DnsQuery">[查询]</system:String>
+    <system:String x:Key="String_Log_DnsResponse">[响应]</system:String>
+    <system:String x:Key="String_Log_Proxy">[代理]</system:String>
+    <system:String x:Key="String_Log_Direct">[直连]</system:String>
+    <system:String x:Key="String_Log_Blocked">[阻止]</system:String>
+    
+    <!-- 日志设置 -->
+    <system:String x:Key="String_TbSettingsLogSettings">日志设置</system:String>
+    <system:String x:Key="String_TbSettingsEnableLogTranslation">启用日志智能翻译</system:String>
+    <system:String x:Key="String_TbSettingsShowTechnicalDetails">显示技术细节（专业模式）</system:String>
+    <system:String x:Key="String_ClearLog">清空日志</system:String>
+    
+</ResourceDictionary>

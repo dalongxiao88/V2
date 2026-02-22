@@ -1,0 +1,8 @@
+2026-02-22 18:16:19.6199-INFO [Info] v2rayN start up | v2rayN - V7.18.0 - X64 | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN.Desktop\bin\Release\net8.0\ | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN.Desktop\bin\Release\net8.0\v2rayN.exe | Microsoft Windows NT 10.0.19044.0
+2026-02-22 18:16:19.6655-INFO [Info] MigrateProfileExtraGroup: No items to migrate.
+2026-02-22 18:16:21.9647-INFO [Info] Setup Scheduled Tasks
+2026-02-22 18:17:13.5952-INFO [Info] OnClosing -> WindowClosing
+2026-02-22 18:22:24.5695-INFO [Info] OnClosing -> WindowClosing
+2026-02-22 18:44:11.1059-INFO [Info] OnClosing -> WindowClosing
+2026-02-22 18:45:18.2917-INFO [Info] AppExitAsync Begin
+2026-02-22 18:45:18.3702-INFO [Info] AppExitAsync End

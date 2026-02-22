@@ -1,0 +1,121 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+
+    <!-- Main Window -->
+    <system:String x:Key="StringMainWindowTitle">v2rayN</system:String>
+    
+    <!-- Menu - Servers -->
+    <system:String x:Key="StringMenuServers">Servers</system:String>
+    <system:String x:Key="StringMenuAddServerViaClipboard">Import from Clipboard</system:String>
+    <system:String x:Key="StringMenuAddServerViaScan">Scan QR Code from Screen</system:String>
+    <system:String x:Key="StringMenuAddServerViaImage">Import from Image</system:String>
+    <system:String x:Key="StringMenuAddCustomServer">Add Custom Config Server</system:String>
+    <system:String x:Key="StringMenuAddPolicyGroupServer">Add Policy Group Server</system:String>
+    <system:String x:Key="StringMenuAddProxyChainServer">Add Proxy Chain Server</system:String>
+    
+    <!-- Menu - Subscription -->
+    <system:String x:Key="StringMenuSubscription">Subscription</system:String>
+    <system:String x:Key="StringMenuSubSetting">Subscription Settings</system:String>
+    <system:String x:Key="StringMenuSubUpdate">Update Subscription</system:String>
+    <system:String x:Key="StringMenuSubUpdateViaProxy">Update Subscription (via Proxy)</system:String>
+    <system:String x:Key="StringMenuSubGroupUpdate">Update Current Subscription</system:String>
+    <system:String x:Key="StringMenuSubGroupUpdateViaProxy">Update Current Subscription (via Proxy)</system:String>
+    
+    <!-- Menu - Settings -->
+    <system:String x:Key="StringMenuSetting">Settings</system:String>
+    <system:String x:Key="StringMenuOptionSetting">Options</system:String>
+    <system:String x:Key="StringMenuRoutingSetting">Routing Settings</system:String>
+    <system:String x:Key="StringMenuDNSSetting">DNS Settings</system:String>
+    <system:String x:Key="StringMenuFullConfigTemplate">Full Config Template</system:String>
+    <system:String x:Key="StringMenuGlobalHotkeySetting">Global Hotkey Settings</system:String>
+    <system:String x:Key="StringMenuRebootAsAdmin">Restart as Administrator</system:String>
+    <system:String x:Key="StringMenuClearServerStatistics">Clear Server Statistics</system:String>
+    <system:String x:Key="StringMenuOpenTheFileLocation">Open File Location</system:String>
+    
+    <!-- Menu - Help -->
+    <system:String x:Key="StringMenuHelp">Help</system:String>
+    <system:String x:Key="StringMenuCheckUpdate">Check for Updates</system:String>
+    
+    <!-- Menu - Others -->
+    <system:String x:Key="StringMenuReload">Reload</system:String>
+    <system:String x:Key="StringMenuPromotion">Promotion</system:String>
+    <system:String x:Key="StringMenuClose">Minimize</system:String>
+    
+    <!-- Server List -->
+    <system:String x:Key="StringServerList">Server List</system:String>
+    <system:String x:Key="StringColumnConfigType">Type</system:String>
+    <system:String x:Key="StringColumnRemarks">Remarks</system:String>
+    <system:String x:Key="StringColumnAddress">Address</system:String>
+    <system:String x:Key="StringColumnPort">Port</system:String>
+    <system:String x:Key="StringColumnNetwork">Network</system:String>
+    <system:String x:Key="StringColumnStreamSecurity">TLS</system:String>
+    <system:String x:Key="StringColumnSubscription">Subscription</system:String>
+    <system:String x:Key="StringColumnTestDelay">Delay</system:String>
+    <system:String x:Key="StringColumnTestSpeed">Speed</system:String>
+    <system:String x:Key="StringColumnTodayUp">Today Upload</system:String>
+    <system:String x:Key="StringColumnTodayDown">Today Download</system:String>
+    <system:String x:Key="StringColumnTotalUp">Total Upload</system:String>
+    <system:String x:Key="StringColumnTotalDown">Total Download</system:String>
+    
+    <!-- Log Panel -->
+    <system:String x:Key="StringLogPanel">Log</system:String>
+    <system:String x:Key="StringLogFilter">Log Filter</system:String>
+    <system:String x:Key="StringLogCopyAll">Copy All</system:String>
+    <system:String x:Key="StringLogClear">Clear</system:String>
+    <system:String x:Key="StringLogAutoRefresh">Auto Refresh</system:String>
+    <system:String x:Key="StringLogAutoScrollToEnd">Auto Scroll to End</system:String>
+    
+    <!-- Tabs -->
+    <system:String x:Key="StringTabMessage">Message</system:String>
+    <system:String x:Key="StringTabProxies">Proxies</system:String>
+    <system:String x:Key="StringTabConnections">Connections</system:String>
+    
+    <!-- Common -->
+    <system:String x:Key="StringOK">OK</system:String>
+    <system:String x:Key="StringCancel">Cancel</system:String>
+    <system:String x:Key="StringYes">Yes</system:String>
+    <system:String x:Key="StringNo">No</system:String>
+    <system:String x:Key="StringSave">Save</system:String>
+    <system:String x:Key="StringClose">Close</system:String>
+    <system:String x:Key="StringApply">Apply</system:String>
+    <system:String x:Key="StringRefresh">Refresh</system:String>
+    <system:String x:Key="StringSearch">Search</system:String>
+    <system:String x:Key="StringFilter">Filter</system:String>
+    
+    <!-- Status Bar -->
+    <system:String x:Key="StringStatusConnected">Connected</system:String>
+    <system:String x:Key="StringStatusDisconnected">Disconnected</system:String>
+    <system:String x:Key="StringStatusConnecting">Connecting...</system:String>
+    <system:String x:Key="StringStatusSystemProxy">System Proxy</system:String>
+    <system:String x:Key="StringStatusSpeed">Speed</system:String>
+    
+    <!-- Language Menu -->
+    <system:String x:Key="StringMenuLanguage">Language</system:String>
+    <system:String x:Key="StringLanguageSimplifiedChinese">简体中文</system:String>
+    <system:String x:Key="StringLanguageEnglish">English</system:String>
+    
+    <!-- Log Translation Resources (Status Tags) -->
+    <system:String x:Key="String_Log_Accepted">[ACCESS]</system:String>
+    <system:String x:Key="String_Log_Rejected">[REJECT]</system:String>
+    <system:String x:Key="String_Log_Closed">[CLOSE]</system:String>
+    <system:String x:Key="String_Log_Timeout">[TIMEOUT]</system:String>
+    <system:String x:Key="String_Log_Failed">[FAIL]</system:String>
+    <system:String x:Key="String_Log_Error">[ERROR]</system:String>
+    <system:String x:Key="String_Log_Denied">[DENY]</system:String>
+    <system:String x:Key="String_Log_Success">[OK]</system:String>
+    <system:String x:Key="String_Log_Connected">[CONN]</system:String>
+    <system:String x:Key="String_Log_Established">[ESTAB]</system:String>
+    <system:String x:Key="String_Log_DnsQuery">[QUERY]</system:String>
+    <system:String x:Key="String_Log_DnsResponse">[RESP]</system:String>
+    <system:String x:Key="String_Log_Proxy">[PROXY]</system:String>
+    <system:String x:Key="String_Log_Direct">[DIRECT]</system:String>
+    <system:String x:Key="String_Log_Blocked">[BLOCK]</system:String>
+    
+    <!-- Log Settings -->
+    <system:String x:Key="String_TbSettingsLogSettings">Log Settings</system:String>
+    <system:String x:Key="String_TbSettingsEnableLogTranslation">Enable smart log translation</system:String>
+    <system:String x:Key="String_TbSettingsShowTechnicalDetails">Show technical details (Professional mode)</system:String>
+    <system:String x:Key="String_ClearLog">Clear Log</system:String>
+    
+</ResourceDictionary>

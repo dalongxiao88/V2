@@ -1,0 +1,571 @@
+<base:WindowBase
+    x:Class="v2rayN.Views.DNSSettingWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:base="clr-namespace:v2rayN.Base"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:reactiveui="http://reactiveui.net"
+    xmlns:resx="clr-namespace:ServiceLib.Resx;assembly=ServiceLib"
+    xmlns:vms="clr-namespace:ServiceLib.ViewModels;assembly=ServiceLib"
+    Title="{DynamicResource String_menuDNSSetting}"
+    Width="1000"
+    Height="700"
+    x:TypeArguments="vms:DNSSettingViewModel"
+    ShowInTaskbar="False"
+    Style="{StaticResource WindowGlobal}"
+    WindowStartupLocation="CenterScreen"
+    mc:Ignorable="d">
+    <DockPanel Margin="{StaticResource Margin8}">
+        <StackPanel
+            Margin="{StaticResource Margin4}"
+            HorizontalAlignment="Center"
+            DockPanel.Dock="Bottom"
+            Orientation="Horizontal">
+            <Button
+                x:Name="btnSave"
+                Width="100"
+                Content="{DynamicResource String_TbConfirm}"
+                IsDefault="True"
+                Style="{StaticResource DefButton}" />
+            <Button
+                x:Name="btnCancel"
+                Width="100"
+                Margin="{StaticResource MarginLeftRight8}"
+                Content="{DynamicResource String_TbCancel}"
+                IsCancel="true"
+                Style="{StaticResource DefButton}" />
+        </StackPanel>
+
+        <TabControl HorizontalContentAlignment="Left">
+            <TabItem Header="{DynamicResource String_ThBasicDNSSettings}">
+                <ScrollViewer VerticalScrollBarVisibility="Visible">
+                    <Grid x:Name="gridBasicDNSSettings" Margin="{StaticResource Margin8}">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto" />
+                            <ColumnDefinition Width="Auto" />
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+
+                        <TextBlock
+                            x:Name="txtBasicDNSSettingsInvalid"
+                            Grid.Row="0"
+                            Grid.Column="0"
+                            Grid.ColumnSpan="3"
+                            Margin="{StaticResource Margin8}"
+                            VerticalAlignment="Center"
+                            Style="{StaticResource ToolbarTextBlock}"
+                            Text="{DynamicResource String_TbCustomDNSEnabledPageInvalid}" />
+
+                        <TextBlock
+                            Grid.Row="1"
+                            Grid.Column="0"
+                            Margin="{StaticResource Margin8}"
+                            VerticalAlignment="Center"
+                            Style="{StaticResource ToolbarTextBlock}"
+                            Text="{DynamicResource String_TbDomesticDNS}" />
+                        <ComboBox
+                            x:Name="cmbDirectDNS"
+                            Grid.Row="1"
+                            Grid.Column="1"
+                            Width="300"
+                            Margin="{StaticResource Margin8}"
+                            IsEditable="True"
+                            Style="{StaticResource DefComboBox}" />
+                        <TextBlock
+                            Grid.Row="1"
+                            Grid.Column="2"
+                            Margin="{StaticResource Margin8}"
+                            VerticalAlignment="Center"
+                            Style="{StaticResource ToolbarTextBlock}"
+                            Text="{DynamicResource String_TbDomesticDNSTips}"
+                            TextWrapping="Wrap" />
+
+                        <TextBlock
+                            Grid.Row="2"
+                            Grid.Column="0"
+                            Margin="{StaticResource Margin8}"
+                            VerticalAlignment="Center"
+                            Style="{StaticResource ToolbarTextBlock}"
+                            Text="{DynamicResource String_TbRemoteDNS}" />
+                        <ComboBox
+                            x:Name="cmbRemoteDNS"
+                            Grid.Row="2"
+                            Grid.Column="1"
+                            Width="300"
+                            Margin="{StaticResource Margin8}"
+                            IsEditable="True"
+                            Style="{StaticResource DefComboBox}" />
+                        <TextBlock
+                            Grid.Row="2"
+                            Grid.Column="2"
+                            Margin="{StaticResource Margin8}"
+                            VerticalAlignment="Center"
+                            Style="{StaticResource ToolbarTextBlock}"
+                            Text="{DynamicResource String_TbRemoteDNSTips}"
+                            TextWrapping="Wrap" />
+
+                        <TextBlock
+                            Grid.Row="3"
+                            Grid.Column="0"
+                            Margin="{StaticResource Margin8}"
+                            VerticalAlignment="Center"
+                            Style="{StaticResource ToolbarTextBlock}"
+                            Text="{DynamicResource String_TbBootstrapDNS}" />
+                        <ComboBox
+                            x:Name="cmbBootstrapDNS"
+                            Grid.Row="3"
+                            Grid.Column="1"
+                            Width="300"
+                            Margin="{StaticResource Margin8}"
+                            IsEditable="True"
+                            Style="{StaticResource DefComboBox}" />
+                        <TextBlock
+                            Grid.Row="3"
+                            Grid.Column="2"
+                            Margin="{StaticResource Margin8}"
+                            VerticalAlignment="Center"
+                            Style="{StaticResource ToolbarTextBlock}"
+                            Text="{DynamicResource String_TbBootstrapDNSTips}"
+                            TextWrapping="Wrap" />
+
+                        <TextBlock
+                            Grid.Row="5"
+                            Grid.Column="0"
+                            Margin="{StaticResource Margin8}"
+                            VerticalAlignment="Center"
+                            Style="{StaticResource ToolbarTextBlock}"
+                            Text="{DynamicResource String_TbDirectResolveStrategy}" />
+                        <ComboBox
+                            x:Name="cmbDirectDNSStrategy"
+                            Grid.Row="5"
+                            Grid.Column="1"
+                            Width="200"
+                            Margin="{StaticResource Margin8}"
+                            materialDesign:HintAssist.Hint="Default"
+                            Style="{StaticResource DefComboBox}" />
+                        <TextBlock
+                            Grid.Row="5"
+                            Grid.Column="2"
+                            Margin="{StaticResource Margin8}"
+                            VerticalAlignment="Center"
+                            Style="{StaticResource ToolbarTextBlock}"
+                            Text="{DynamicResource String_TbDirectResolveStrategyTips}"
+                            TextWrapping="Wrap" />
+
+                        <TextBlock
+                            Grid.Row="6"
+                            Grid.Column="0"
+                            Margin="{StaticResource Margin8}"
+                            VerticalAlignment="Center"
+                            Style="{StaticResource ToolbarTextBlock}"
+                            Text="{DynamicResource String_TbRemoteResolveStrategy}" />
+                        <ComboBox
+                            x:Name="cmbRemoteDNSStrategy"
+                            Grid.Row="6"
+                            Grid.Column="1"
+                            Width="200"
+                            Margin="{StaticResource Margin8}"
+                            materialDesign:HintAssist.Hint="Default"
+                            Style="{StaticResource DefComboBox}" />
+                        <TextBlock
+                            Grid.Row="6"
+                            Grid.Column="2"
+                            Margin="{StaticResource Margin8}"
+                            VerticalAlignment="Center"
+                            Style="{StaticResource ToolbarTextBlock}"
+                            Text="{DynamicResource String_TbRemoteResolveStrategyTips}"
+                            TextWrapping="Wrap" />
+
+                        <TextBlock
+                            Grid.Row="7"
+                            Grid.Column="0"
+                            Margin="{StaticResource Margin8}"
+                            VerticalAlignment="Center"
+                            Style="{StaticResource ToolbarTextBlock}"
+                            Text="{DynamicResource String_TbParallelQuery}" />
+                        <ToggleButton
+                            x:Name="togParallelQuery"
+                            Grid.Row="7"
+                            Grid.Column="1"
+                            Margin="{StaticResource Margin8}"
+                            HorizontalAlignment="Left" />
+
+                        <TextBlock
+                            Grid.Row="8"
+                            Grid.Column="0"
+                            Margin="{StaticResource Margin8}"
+                            VerticalAlignment="Center"
+                            Style="{StaticResource ToolbarTextBlock}"
+                            Text="{DynamicResource String_TbServeStale}" />
+                        <ToggleButton
+                            x:Name="togServeStale"
+                            Grid.Row="8"
+                            Grid.Column="1"
+                            Margin="{StaticResource Margin8}"
+                            HorizontalAlignment="Left" />
+                    </Grid>
+                </ScrollViewer>
+            </TabItem>
+            <TabItem Header="{DynamicResource String_ThAdvancedDNSSettings}">
+                <ScrollViewer VerticalScrollBarVisibility="Visible">
+                    <Grid x:Name="gridAdvancedDNSSettings" Margin="{StaticResource Margin8}">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="*" />
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto" />
+                            <ColumnDefinition Width="Auto" />
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+
+                        <TextBlock
+                            x:Name="txtAdvancedDNSSettingsInvalid"
+                            Grid.Row="0"
+                            Grid.Column="0"
+                            Grid.ColumnSpan="3"
+                            Margin="{StaticResource Margin8}"
+                            VerticalAlignment="Center"
+                            Style="{StaticResource ToolbarTextBlock}"
+                            Text="{DynamicResource String_TbCustomDNSEnabledPageInvalid}" />
+
+                        <TextBlock
+                            Grid.Row="1"
+                            Grid.Column="0"
+                            Margin="{StaticResource Margin8}"
+                            VerticalAlignment="Center"
+                            Style="{StaticResource ToolbarTextBlock}"
+                            Text="{DynamicResource String_TbSettingsUseSystemHosts}" />
+                        <ToggleButton
+                            x:Name="togUseSystemHosts"
+                            Grid.Row="1"
+                            Grid.Column="1"
+                            Margin="{StaticResource Margin8}"
+                            HorizontalAlignment="Left" />
+
+                        <TextBlock
+                            Grid.Row="2"
+                            Grid.Column="0"
+                            Margin="{StaticResource Margin8}"
+                            VerticalAlignment="Center"
+                            Style="{StaticResource ToolbarTextBlock}"
+                            Text="{DynamicResource String_TbAddCommonDNSHosts}" />
+                        <ToggleButton
+                            x:Name="togAddCommonHosts"
+                            Grid.Row="2"
+                            Grid.Column="1"
+                            Margin="{StaticResource Margin8}"
+                            HorizontalAlignment="Left" />
+
+                        <TextBlock
+                            Grid.Row="3"
+                            Grid.Column="0"
+                            Margin="{StaticResource Margin8}"
+                            VerticalAlignment="Center"
+                            Style="{StaticResource ToolbarTextBlock}"
+                            Text="{DynamicResource String_TbFakeIP}" />
+                        <ToggleButton
+                            x:Name="togFakeIP"
+                            Grid.Row="3"
+                            Grid.Column="1"
+                            Margin="{StaticResource Margin8}"
+                            HorizontalAlignment="Left" />
+                        <TextBlock
+                            Grid.Row="3"
+                            Grid.Column="2"
+                            Margin="{StaticResource Margin8}"
+                            VerticalAlignment="Center"
+                            Style="{StaticResource ToolbarTextBlock}"
+                            Text="{DynamicResource String_TbFakeIPTips}"
+                            TextWrapping="Wrap" />
+
+                        <TextBlock
+                            Grid.Row="4"
+                            Grid.Column="0"
+                            Margin="{StaticResource Margin8}"
+                            VerticalAlignment="Center"
+                            Style="{StaticResource ToolbarTextBlock}"
+                            Text="{DynamicResource String_TbBlockSVCBHTTPSQueries}" />
+                        <ToggleButton
+                            x:Name="togBlockBindingQuery"
+                            Grid.Row="4"
+                            Grid.Column="1"
+                            Margin="{StaticResource Margin8}"
+                            HorizontalAlignment="Left" />
+                        <TextBlock
+                            Grid.Row="4"
+                            Grid.Column="2"
+                            Margin="{StaticResource Margin8}"
+                            VerticalAlignment="Center"
+                            Style="{StaticResource ToolbarTextBlock}"
+                            Text="{DynamicResource String_TbBlockSVCBHTTPSQueriesTips}"
+                            TextWrapping="Wrap" />
+
+                        <TextBlock
+                            Grid.Row="5"
+                            Grid.Column="0"
+                            Margin="{StaticResource Margin8}"
+                            VerticalAlignment="Center"
+                            Style="{StaticResource ToolbarTextBlock}"
+                            Text="{DynamicResource String_TbValidateDirectExpectedIPs}" />
+                        <ComboBox
+                            x:Name="cmbDirectExpectedIPs"
+                            Grid.Row="5"
+                            Grid.Column="1"
+                            Width="200"
+                            Margin="{StaticResource Margin8}"
+                            IsEditable="True"
+                            Style="{StaticResource DefComboBox}" />
+                        <TextBlock
+                            Grid.Row="5"
+                            Grid.Column="2"
+                            Margin="{StaticResource Margin8}"
+                            VerticalAlignment="Center"
+                            Style="{StaticResource ToolbarTextBlock}"
+                            Text="{DynamicResource String_TbValidateDirectExpectedIPsDesc}"
+                            TextWrapping="Wrap" />
+
+                        <TextBlock
+                            Grid.Row="6"
+                            Grid.Column="0"
+                            Grid.ColumnSpan="3"
+                            Margin="{StaticResource Margin8}"
+                            VerticalAlignment="Center"
+                            Style="{StaticResource ToolbarTextBlock}"
+                            Text="{DynamicResource String_TbDNSHostsConfig}" />
+                        <TextBox
+                            x:Name="txtHosts"
+                            Grid.Row="7"
+                            Grid.Column="0"
+                            Grid.ColumnSpan="3"
+                            Margin="{StaticResource Margin8}"
+                            VerticalAlignment="Stretch"
+                            materialDesign:HintAssist.Hint="{DynamicResource String_TbDNSHostsConfig}"
+                            AcceptsReturn="True"
+                            BorderThickness="1"
+                            Style="{StaticResource MaterialDesignOutlinedTextBox}"
+                            TextWrapping="Wrap"
+                            VerticalScrollBarVisibility="Auto" />
+                    </Grid>
+                </ScrollViewer>
+            </TabItem>
+
+            <TabItem Header="{DynamicResource String_TbCustomDnsRay}">
+                <DockPanel Margin="{StaticResource Margin8}">
+                    <Grid DockPanel.Dock="Top">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                        </Grid.RowDefinitions>
+
+                        <StackPanel Grid.Row="0" Orientation="Horizontal">
+                            <TextBlock
+                                Margin="{StaticResource Margin8}"
+                                VerticalAlignment="Center"
+                                Style="{StaticResource ToolbarTextBlock}"
+                                Text="{DynamicResource String_TbCustomDNSEnable}" />
+                            <ToggleButton
+                                x:Name="togRayCustomDNSEnableCompatible"
+                                Margin="{StaticResource Margin8}"
+                                HorizontalAlignment="Left" />
+                        </StackPanel>
+
+                        <StackPanel Grid.Row="1" Orientation="Horizontal">
+                            <TextBlock
+                                Margin="{StaticResource Margin8}"
+                                VerticalAlignment="Center"
+                                Style="{StaticResource ToolbarTextBlock}"
+                                Text="{DynamicResource String_TbSettingsRemoteDNS}" />
+                            <TextBlock
+                                Margin="{StaticResource Margin8}"
+                                VerticalAlignment="Center"
+                                Style="{StaticResource ToolbarTextBlock}">
+                                <Hyperlink Click="linkDnsObjectDoc_Click">
+                                    <TextBlock Text="{DynamicResource String_TbDnsObjectDoc}" />
+                                    <materialDesign:PackIcon Kind="Link" />
+                                </Hyperlink>
+                            </TextBlock>
+                            <Button
+                                x:Name="btnImportDefConfig4V2rayCompatible"
+                                Margin="{StaticResource Margin8}"
+                                Content="{DynamicResource String_TbSettingDnsImportDefConfig}"
+                                Style="{StaticResource DefButton}" />
+                        </StackPanel>
+                    </Grid>
+
+                    <WrapPanel DockPanel.Dock="Bottom" Orientation="Horizontal">
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock
+                                Margin="{StaticResource Margin8}"
+                                VerticalAlignment="Center"
+                                Style="{StaticResource ToolbarTextBlock}"
+                                Text="{DynamicResource String_TbSettingsUseSystemHosts}" />
+                            <ToggleButton
+                                x:Name="togUseSystemHostsCompatible"
+                                Margin="{StaticResource Margin8}"
+                                HorizontalAlignment="Left" />
+                        </StackPanel>
+
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock
+                                Margin="{StaticResource Margin8}"
+                                VerticalAlignment="Center"
+                                Style="{StaticResource ToolbarTextBlock}"
+                                Text="{DynamicResource String_TbSettingsDomainStrategy4Freedom}" />
+                            <ComboBox
+                                x:Name="cmbdomainStrategy4FreedomCompatible"
+                                Width="150"
+                                Margin="{StaticResource Margin8}"
+                                Style="{StaticResource DefComboBox}" />
+                        </StackPanel>
+
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock
+                                Margin="{StaticResource Margin8}"
+                                VerticalAlignment="Center"
+                                Style="{StaticResource ToolbarTextBlock}"
+                                Text="{DynamicResource String_TbSettingsDomainDNSAddress}" />
+                            <ComboBox
+                                x:Name="cmbdomainDNSAddressCompatible"
+                                Width="150"
+                                Margin="{StaticResource Margin8}"
+                                IsEditable="True"
+                                Style="{StaticResource DefComboBox}" />
+                        </StackPanel>
+                    </WrapPanel>
+
+                    <TextBox
+                        x:Name="txtnormalDNSCompatible"
+                        Margin="{StaticResource Margin8}"
+                        VerticalAlignment="Stretch"
+                        materialDesign:HintAssist.Hint="HTTP/SOCKS"
+                        AcceptsReturn="True"
+                        BorderThickness="1"
+                        Style="{StaticResource MaterialDesignOutlinedTextBox}"
+                        TextWrapping="Wrap"
+                        VerticalScrollBarVisibility="Auto" />
+                </DockPanel>
+            </TabItem>
+
+            <TabItem Header="{DynamicResource String_TbCustomDnsSingbox}">
+                <DockPanel Margin="{StaticResource Margin8}">
+                    <Grid DockPanel.Dock="Top">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                        </Grid.RowDefinitions>
+
+                        <StackPanel Grid.Row="0" Orientation="Horizontal">
+                            <TextBlock
+                                Margin="{StaticResource Margin8}"
+                                VerticalAlignment="Center"
+                                Style="{StaticResource ToolbarTextBlock}"
+                                Text="{DynamicResource String_TbCustomDNSEnable}" />
+                            <ToggleButton
+                                x:Name="togSBCustomDNSEnableCompatible"
+                                Margin="{StaticResource Margin8}"
+                                HorizontalAlignment="Left" />
+                        </StackPanel>
+
+                        <StackPanel Grid.Row="1" Orientation="Horizontal">
+                            <TextBlock
+                                Margin="{StaticResource Margin8}"
+                                VerticalAlignment="Center"
+                                Style="{StaticResource ToolbarTextBlock}">
+                                <Hyperlink Click="linkDnsSingboxObjectDoc_Click">
+                                    <TextBlock Text="{DynamicResource String_TbDnsSingboxObjectDoc}" />
+                                    <materialDesign:PackIcon Kind="Link" />
+                                </Hyperlink>
+                            </TextBlock>
+                            <Button
+                                x:Name="btnImportDefConfig4SingboxCompatible"
+                                Margin="{StaticResource Margin8}"
+                                Content="{DynamicResource String_TbSettingDnsImportDefConfig}"
+                                Style="{StaticResource DefButton}" />
+                        </StackPanel>
+                    </Grid>
+
+                    <WrapPanel DockPanel.Dock="Bottom" Orientation="Horizontal">
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock
+                                Margin="{StaticResource Margin8}"
+                                VerticalAlignment="Center"
+                                Style="{StaticResource ToolbarTextBlock}"
+                                Text="{DynamicResource String_TbSettingsDomainStrategy4Out}" />
+                            <ComboBox
+                                x:Name="cmbdomainStrategy4OutCompatible"
+                                Width="150"
+                                Margin="{StaticResource Margin8}"
+                                Style="{StaticResource DefComboBox}" />
+                        </StackPanel>
+
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock
+                                Margin="{StaticResource Margin8}"
+                                VerticalAlignment="Center"
+                                Style="{StaticResource ToolbarTextBlock}"
+                                Text="{DynamicResource String_TbSettingsDomainDNSAddress}" />
+                            <ComboBox
+                                x:Name="cmbdomainDNSAddress2Compatible"
+                                Width="150"
+                                Margin="{StaticResource Margin8}"
+                                IsEditable="True"
+                                Style="{StaticResource DefComboBox}" />
+                        </StackPanel>
+                    </WrapPanel>
+
+                    <Grid Margin="{StaticResource Margin8}">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="1*" />
+                            <ColumnDefinition Width="10" />
+                            <ColumnDefinition Width="1*" />
+                        </Grid.ColumnDefinitions>
+
+                        <TextBox
+                            x:Name="txtnormalDNS2Compatible"
+                            Grid.Column="0"
+                            VerticalAlignment="Stretch"
+                            materialDesign:HintAssist.Hint="HTTP/SOCKS"
+                            AcceptsReturn="True"
+                            BorderThickness="1"
+                            Style="{StaticResource MaterialDesignOutlinedTextBox}"
+                            TextWrapping="Wrap"
+                            VerticalScrollBarVisibility="Auto" />
+
+                        <GridSplitter Grid.Column="1" HorizontalAlignment="Stretch" />
+
+                        <TextBox
+                            x:Name="txttunDNS2Compatible"
+                            Grid.Column="2"
+                            VerticalAlignment="Stretch"
+                            materialDesign:HintAssist.Hint="{DynamicResource String_TbSettingsTunMode}"
+                            AcceptsReturn="True"
+                            BorderThickness="1"
+                            Style="{StaticResource MaterialDesignOutlinedTextBox}"
+                            TextWrapping="Wrap"
+                            VerticalScrollBarVisibility="Auto" />
+                    </Grid>
+                </DockPanel>
+            </TabItem>
+        </TabControl>
+    </DockPanel>
+</base:WindowBase>

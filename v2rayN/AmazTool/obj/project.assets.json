@@ -1,0 +1,171 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Microsoft.NET.ILLink.Tasks/8.0.23": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.NET.ILLink.Tasks.props": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.NET.ILLink.Tasks/8.0.23": {
+      "sha512": "GqHiB1HbbODWPbY/lc5xLQH8siEEhNA0ptpJCC6X6adtAYNEzu5ZlqV3YHA3Gh7fuEwgA8XqVwMtH2KNtuQM1Q==",
+      "type": "package",
+      "path": "microsoft.net.illink.tasks/8.0.23",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "Sdk/Sdk.props",
+        "THIRD-PARTY-NOTICES.TXT",
+        "analyzers/dotnet/cs/ILLink.CodeFixProvider.dll",
+        "analyzers/dotnet/cs/ILLink.RoslynAnalyzer.dll",
+        "build/Microsoft.NET.ILLink.Analyzers.props",
+        "build/Microsoft.NET.ILLink.Tasks.props",
+        "build/Microsoft.NET.ILLink.targets",
+        "microsoft.net.illink.tasks.8.0.23.nupkg.sha512",
+        "microsoft.net.illink.tasks.nuspec",
+        "tools/net472/ILLink.Tasks.dll",
+        "tools/net472/ILLink.Tasks.dll.config",
+        "tools/net472/Mono.Cecil.Mdb.dll",
+        "tools/net472/Mono.Cecil.Pdb.dll",
+        "tools/net472/Mono.Cecil.Rocks.dll",
+        "tools/net472/Mono.Cecil.dll",
+        "tools/net472/Sdk/Sdk.props",
+        "tools/net472/System.Buffers.dll",
+        "tools/net472/System.Collections.Immutable.dll",
+        "tools/net472/System.Memory.dll",
+        "tools/net472/System.Numerics.Vectors.dll",
+        "tools/net472/System.Reflection.Metadata.dll",
+        "tools/net472/System.Runtime.CompilerServices.Unsafe.dll",
+        "tools/net472/build/Microsoft.NET.ILLink.Analyzers.props",
+        "tools/net472/build/Microsoft.NET.ILLink.Tasks.props",
+        "tools/net472/build/Microsoft.NET.ILLink.targets",
+        "tools/net8.0/ILLink.Tasks.deps.json",
+        "tools/net8.0/ILLink.Tasks.dll",
+        "tools/net8.0/Mono.Cecil.Mdb.dll",
+        "tools/net8.0/Mono.Cecil.Pdb.dll",
+        "tools/net8.0/Mono.Cecil.Rocks.dll",
+        "tools/net8.0/Mono.Cecil.dll",
+        "tools/net8.0/Sdk/Sdk.props",
+        "tools/net8.0/build/Microsoft.NET.ILLink.Analyzers.props",
+        "tools/net8.0/build/Microsoft.NET.ILLink.Tasks.props",
+        "tools/net8.0/build/Microsoft.NET.ILLink.targets",
+        "tools/net8.0/illink.deps.json",
+        "tools/net8.0/illink.dll",
+        "tools/net8.0/illink.runtimeconfig.json",
+        "useSharedDesignerContext.txt"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Microsoft.NET.ILLink.Tasks >= 8.0.23"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "7.18.0",
+    "restore": {
+      "projectUniqueName": "c:\\Users\\Administrator\\Desktop\\v2rayN-master\\v2rayN\\AmazTool\\AmazTool.csproj",
+      "projectName": "AmazTool",
+      "projectPath": "c:\\Users\\Administrator\\Desktop\\v2rayN-master\\v2rayN\\AmazTool\\AmazTool.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\Administrator\\Desktop\\v2rayN-master\\v2rayN\\AmazTool\\obj\\",
+      "projectStyle": "PackageReference",
+      "centralPackageVersionsManagementEnabled": true,
+      "centralPackageVersionOverrideDisabled": true,
+      "CentralPackageTransitivePinningEnabled": true,
+      "configFilePaths": [
+        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "noWarn": [
+          "NU1507"
+        ],
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "Microsoft.NET.ILLink.Tasks": {
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[8.0.23, )",
+            "autoReferenced": true
+          }
+        },
+        "centralPackageVersions": {
+          "Avalonia.AvaloniaEdit": "11.4.0",
+          "Avalonia.Controls.DataGrid": "11.3.11",
+          "Avalonia.Desktop": "11.3.11",
+          "Avalonia.Diagnostics": "11.3.11",
+          "CliWrap": "3.10.0",
+          "Downloader": "4.0.3",
+          "H.NotifyIcon.Wpf": "2.4.1",
+          "MaterialDesignThemes": "5.3.0",
+          "MessageBox.Avalonia": "3.3.1.1",
+          "NLog": "6.1.0",
+          "QRCoder": "1.7.0",
+          "ReactiveUI": "22.3.1",
+          "ReactiveUI.Avalonia": "11.3.8",
+          "ReactiveUI.Fody": "19.5.41",
+          "ReactiveUI.WPF": "22.3.1",
+          "Semi.Avalonia": "11.3.7.2",
+          "Semi.Avalonia.AvaloniaEdit": "11.2.0.1",
+          "Semi.Avalonia.DataGrid": "11.3.7.2",
+          "sqlite-net-pcl": "1.9.172",
+          "TaskScheduler": "2.12.2",
+          "WebDav.Client": "2.9.0",
+          "YamlDotNet": "16.3.0",
+          "ZXing.Net.Bindings.SkiaSharp": "0.16.14"
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.417/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

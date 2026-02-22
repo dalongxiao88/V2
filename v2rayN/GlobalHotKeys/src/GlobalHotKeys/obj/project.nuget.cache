@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MyENwIYUfTY=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Administrator\\Desktop\\v2rayN-master\\v2rayN\\GlobalHotKeys\\src\\GlobalHotKeys\\GlobalHotKeys.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.23\\microsoft.net.illink.tasks.8.0.23.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.reactive\\6.1.0\\system.reactive.6.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

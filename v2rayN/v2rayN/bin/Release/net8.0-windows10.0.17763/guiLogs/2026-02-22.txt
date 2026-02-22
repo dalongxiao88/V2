@@ -1,0 +1,1889 @@
+2026-02-22 11:51:34.9934-INFO Language changed to: zh-CN
+2026-02-22 11:51:35.0162-INFO v2rayN start up | v2rayN - V7.18.0 - X64 | c:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\ | c:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\v2rayN.exe | Microsoft Windows NT 10.0.19044.0
+2026-02-22 11:51:35.0392-INFO MigrateProfileExtraGroup: No items to migrate.
+2026-02-22 11:51:37.5476-INFO Setup Scheduled Tasks
+2026-02-22 11:57:33.5605-INFO Language changed to: zh-CN
+2026-02-22 11:57:33.5805-INFO v2rayN start up | v2rayN - V7.18.0 - X64 | c:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\ | c:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\v2rayN.exe | Microsoft Windows NT 10.0.19044.0
+2026-02-22 11:57:33.6098-INFO MigrateProfileExtraGroup: No items to migrate.
+2026-02-22 11:57:35.1008-INFO Setup Scheduled Tasks
+2026-02-22 11:57:58.4362-INFO AppExitAsync Begin
+2026-02-22 11:57:58.5034-INFO AppExitAsync End
+2026-02-22 11:57:58.5144-INFO OnExit
+2026-02-22 11:58:36.0480-INFO Language changed to: zh-CN
+2026-02-22 11:58:36.0764-INFO v2rayN start up | v2rayN - V7.18.0 - X64 | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\ | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\v2rayN.exe | Microsoft Windows NT 10.0.19044.0
+2026-02-22 11:58:36.1035-INFO MigrateProfileExtraGroup: No items to migrate.
+2026-02-22 11:58:37.8147-INFO Setup Scheduled Tasks
+2026-02-22 11:59:02.9159-INFO Language changed to: en-US
+2026-02-22 11:59:09.9269-INFO Language changed to: zh-CN
+2026-02-22 12:00:08.3115-INFO AppExitAsync Begin
+2026-02-22 12:00:08.3803-INFO AppExitAsync End
+2026-02-22 12:00:08.4251-INFO OnExit
+2026-02-22 12:00:12.7710-INFO Language changed to: zh-CN
+2026-02-22 12:00:12.7873-INFO v2rayN start up | v2rayN - V7.18.0 - X64 | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\ | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\v2rayN.exe | Microsoft Windows NT 10.0.19044.0
+2026-02-22 12:00:12.8158-INFO MigrateProfileExtraGroup: No items to migrate.
+2026-02-22 12:00:14.1665-INFO Setup Scheduled Tasks
+2026-02-22 12:00:26.5249-INFO Language changed to: en-US
+2026-02-22 12:45:45.7195-INFO AppExitAsync Begin
+2026-02-22 12:45:45.7968-INFO AppExitAsync End
+2026-02-22 12:45:45.8106-INFO OnExit
+2026-02-22 12:46:42.2359-INFO [INFO] Language changed to: en-US (English)
+2026-02-22 12:46:42.2534-INFO [INFO] v2rayN start up | v2rayN - V7.18.0 - X64 | c:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\ | c:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\v2rayN.exe | Microsoft Windows NT 10.0.19044.0
+2026-02-22 12:46:42.2819-INFO [INFO] MigrateProfileExtraGroup: No items to migrate.
+2026-02-22 12:46:43.6177-INFO [INFO] Setup Scheduled Tasks
+2026-02-22 12:47:06.9108-INFO [INFO] Language changed to: zh-CN (简体中文)
+2026-02-22 12:47:20.0467-INFO [INFO] Language changed to: en-US (English)
+2026-02-22 12:50:17.9640-INFO [INFO] AppExitAsync Begin
+2026-02-22 12:50:18.0262-INFO [INFO] AppExitAsync End
+2026-02-22 12:50:18.0671-INFO [INFO] OnExit
+2026-02-22 12:51:58.6911-INFO [INFO] Language changed to: en-US (English)
+2026-02-22 12:51:58.7064-INFO [INFO] v2rayN start up | v2rayN - V7.18.0 - X64 | c:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\ | c:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\v2rayN.exe | Microsoft Windows NT 10.0.19044.0
+2026-02-22 12:51:58.7390-INFO [INFO] MigrateProfileExtraGroup: No items to migrate.
+2026-02-22 12:51:59.9956-INFO [INFO] Setup Scheduled Tasks
+2026-02-22 12:52:07.8139-INFO [INFO] Language changed to: zh-CN (简体中文)
+2026-02-22 12:52:13.9900-INFO [INFO] Language changed to: en-US (English)
+2026-02-22 12:52:19.7507-INFO [INFO] Language changed to: zh-CN (简体中文)
+2026-02-22 12:57:56.1346-INFO [INFO] AppExitAsync Begin
+2026-02-22 12:57:56.1965-INFO [INFO] AppExitAsync End
+2026-02-22 12:57:56.2091-INFO [INFO] OnExit
+2026-02-22 13:03:03.5506-INFO [INFO] Language changed to: zh-CN (简体中文)
+2026-02-22 13:03:03.5662-INFO [INFO] v2rayN start up | v2rayN - V7.18.0 - X64 | c:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\ | c:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\v2rayN.exe | Microsoft Windows NT 10.0.19044.0
+2026-02-22 13:03:03.5947-INFO [INFO] MigrateProfileExtraGroup: No items to migrate.
+2026-02-22 13:03:04.8539-INFO [INFO] Setup Scheduled Tasks
+2026-02-22 13:03:48.2005-INFO [INFO] Language changed to: en-US (English)
+2026-02-22 13:04:00.3404-INFO [INFO] Language changed to: zh-CN (简体中文)
+2026-02-22 13:05:30.1332-INFO [INFO] AppExitAsync Begin
+2026-02-22 13:05:30.1965-INFO [INFO] AppExitAsync End
+2026-02-22 13:05:30.2120-INFO [INFO] OnExit
+2026-02-22 13:07:27.0086-INFO [INFO] Language changed to: zh-CN (简体中文)
+2026-02-22 13:07:27.0305-INFO [INFO] v2rayN start up | v2rayN - V7.18.0 - X64 | c:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\ | c:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\v2rayN.exe | Microsoft Windows NT 10.0.19044.0
+2026-02-22 13:07:27.0531-INFO [INFO] MigrateProfileExtraGroup: No items to migrate.
+2026-02-22 13:07:28.3524-INFO [INFO] Setup Scheduled Tasks
+2026-02-22 13:07:35.1175-INFO [INFO] Language changed to: en-US (English)
+2026-02-22 13:07:49.4408-INFO [INFO] Language changed to: zh-CN (简体中文)
+2026-02-22 13:12:59.0612-INFO [INFO] AppExitAsync Begin
+2026-02-22 13:12:59.1347-INFO [INFO] AppExitAsync End
+2026-02-22 13:12:59.1431-INFO [INFO] OnExit
+2026-02-22 13:13:32.9879-INFO [INFO] Language changed to: zh-CN (简体中文)
+2026-02-22 13:13:33.0056-INFO [INFO] v2rayN start up | v2rayN - V7.18.0 - X64 | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\ | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\v2rayN.exe | Microsoft Windows NT 10.0.19044.0
+2026-02-22 13:13:33.0354-INFO [INFO] MigrateProfileExtraGroup: No items to migrate.
+2026-02-22 13:13:34.3479-INFO [INFO] Setup Scheduled Tasks
+2026-02-22 13:14:12.8233-INFO [INFO] Language changed to: en-US (English)
+2026-02-22 13:14:23.6722-INFO [INFO] Language changed to: zh-CN (简体中文)
+2026-02-22 13:30:32.4929-INFO [INFO] AppExitAsync Begin
+2026-02-22 13:30:32.5558-INFO [INFO] AppExitAsync End
+2026-02-22 13:30:32.5651-INFO [INFO] OnExit
+2026-02-22 13:31:47.5172-INFO [INFO] Language changed to: zh-CN (简体中文)
+2026-02-22 13:31:47.5340-INFO [INFO] v2rayN start up | v2rayN - V7.18.0 - X64 | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\ | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\v2rayN.exe | Microsoft Windows NT 10.0.19044.0
+2026-02-22 13:31:47.5620-INFO [INFO] MigrateProfileExtraGroup: No items to migrate.
+2026-02-22 13:31:48.8618-INFO [INFO] Setup Scheduled Tasks
+2026-02-22 13:32:43.1251-INFO [INFO] 在文件夹 (C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\bin\xray) 下未找到 Core 文件 (文件名: xray)，请下载后放入文件夹，下载地址: https://github.com/XTLS/Xray-core/releases
+2026-02-22 13:32:53.8547-INFO [INFO] 在文件夹 (C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\bin\xray) 下未找到 Core 文件 (文件名: xray)，请下载后放入文件夹，下载地址: https://github.com/XTLS/Xray-core/releases
+2026-02-22 13:34:03.4517-INFO [INFO] AppExitAsync Begin
+2026-02-22 13:34:03.5182-INFO [INFO] AppExitAsync End
+2026-02-22 13:34:03.5603-INFO [INFO] OnExit
+2026-02-22 13:40:23.0214-INFO [INFO] Language changed to: zh-CN (简体中文)
+2026-02-22 13:40:23.0486-INFO [INFO] v2rayN start up | v2rayN - V7.18.0 - X64 | c:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\ | c:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\v2rayN.exe | Microsoft Windows NT 10.0.19044.0
+2026-02-22 13:40:23.0728-INFO [INFO] MigrateProfileExtraGroup: No items to migrate.
+2026-02-22 13:40:25.5701-INFO [INFO] Setup Scheduled Tasks
+2026-02-22 13:40:26.0895-INFO [INFO] 在文件夹 (c:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\bin\xray) 下未找到 Core 文件 (文件名: xray)，请下载后放入文件夹，下载地址: https://github.com/XTLS/Xray-core/releases
+2026-02-22 13:44:54.3084-INFO [INFO] 在文件夹 (c:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\bin\xray) 下未找到 Core 文件 (文件名: xray)，请下载后放入文件夹，下载地址: https://github.com/XTLS/Xray-core/releases
+2026-02-22 13:45:02.2122-INFO [INFO] AppExitAsync Begin
+2026-02-22 13:45:02.2860-INFO [INFO] AppExitAsync End
+2026-02-22 13:45:07.9727-INFO [INFO] AppExitAsync Begin
+2026-02-22 13:45:08.0376-INFO [INFO] AppExitAsync End
+2026-02-22 13:49:31.8136-INFO [INFO] Language changed to: zh-CN (简体中文)
+2026-02-22 13:49:31.8450-INFO [INFO] v2rayN start up | v2rayN - V7.18.0 - X64 | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\ | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\v2rayN.exe | Microsoft Windows NT 10.0.19044.0
+2026-02-22 13:49:31.8733-INFO [INFO] MigrateProfileExtraGroup: No items to migrate.
+2026-02-22 13:49:34.6789-INFO [INFO] Setup Scheduled Tasks
+2026-02-22 13:49:35.1995-INFO [INFO] 在文件夹 (C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\bin\xray) 下未找到 Core 文件 (文件名: xray)，请下载后放入文件夹，下载地址: https://github.com/XTLS/Xray-core/releases
+2026-02-22 13:50:07.8294-INFO [INFO] AppExitAsync Begin
+2026-02-22 13:50:07.9096-INFO [INFO] AppExitAsync End
+2026-02-22 13:50:13.7074-INFO [INFO] AppExitAsync Begin
+2026-02-22 13:50:13.7689-INFO [INFO] AppExitAsync End
+2026-02-22 13:51:45.9533-INFO [INFO] Language changed to: zh-CN (简体中文)
+2026-02-22 13:51:45.9699-INFO [INFO] v2rayN start up | v2rayN - V7.18.0 - X64 | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\ | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\v2rayN.exe | Microsoft Windows NT 10.0.19044.0
+2026-02-22 13:51:45.9986-INFO [INFO] MigrateProfileExtraGroup: No items to migrate.
+2026-02-22 13:51:48.5091-INFO [INFO] Setup Scheduled Tasks
+2026-02-22 13:51:49.0277-INFO [INFO] 在文件夹 (C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\bin\xray) 下未找到 Core 文件 (文件名: xray)，请下载后放入文件夹，下载地址: https://github.com/XTLS/Xray-core/releases
+2026-02-22 13:53:54.3168-INFO [INFO] AppExitAsync Begin
+2026-02-22 13:53:54.3953-INFO [INFO] AppExitAsync End
+2026-02-22 13:53:54.3953-INFO [INFO] OnExit
+2026-02-22 13:54:05.6666-INFO [INFO] Language changed to: zh-CN (简体中文)
+2026-02-22 13:54:05.6884-INFO [INFO] v2rayN start up | v2rayN - V7.18.0 - X64 | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\ | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\v2rayN.exe | Microsoft Windows NT 10.0.19044.0
+2026-02-22 13:54:05.7086-INFO [INFO] MigrateProfileExtraGroup: No items to migrate.
+2026-02-22 13:54:08.2027-INFO [INFO] Setup Scheduled Tasks
+2026-02-22 13:54:08.7195-INFO [INFO] 在文件夹 (C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\bin\xray) 下未找到 Core 文件 (文件名: xray)，请下载后放入文件夹，下载地址: https://github.com/XTLS/Xray-core/releases
+2026-02-22 14:01:26.5404-INFO [INFO] AppExitAsync Begin
+2026-02-22 14:01:26.6619-INFO [INFO] AppExitAsync End
+2026-02-22 14:01:26.6619-INFO [INFO] OnExit
+2026-02-22 14:06:30.8005-INFO [INFO] Language changed to: zh-CN (简体中文)
+2026-02-22 14:06:30.8161-INFO [INFO] v2rayN start up | v2rayN - V7.18.0 - X64 | c:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\ | c:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\v2rayN.exe | Microsoft Windows NT 10.0.19044.0
+2026-02-22 14:06:30.8487-INFO [INFO] MigrateProfileExtraGroup: No items to migrate.
+2026-02-22 14:06:33.7193-INFO [INFO] Setup Scheduled Tasks
+2026-02-22 14:06:34.2557-INFO [INFO] 在文件夹 (c:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\bin\xray) 下未找到 Core 文件 (文件名: xray)，请下载后放入文件夹，下载地址: https://github.com/XTLS/Xray-core/releases
+2026-02-22 14:13:27.1718-INFO [INFO] AppExitAsync Begin
+2026-02-22 14:13:27.2847-INFO [INFO] AppExitAsync End
+2026-02-22 14:13:27.2847-INFO [INFO] OnExit
+2026-02-22 14:25:46.7315-INFO [INFO] Language changed to: zh-CN (简体中文)
+2026-02-22 14:25:46.7476-INFO [INFO] v2rayN start up | v2rayN - V7.18.0 - X64 | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\ | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\v2rayN.exe | Microsoft Windows NT 10.0.19044.0
+2026-02-22 14:25:46.7759-INFO [INFO] MigrateProfileExtraGroup: No items to migrate.
+2026-02-22 14:25:49.3144-INFO [INFO] Setup Scheduled Tasks
+2026-02-22 14:25:49.9527-DEBUG CoreHandler,运行 Core 失败，请查看提示信息
+2026-02-22 14:25:49.9527-DEBUG    at ServiceLib.Manager.CoreManager.RunProcessNormal(String fileName, CoreInfo coreInfo, String configPath, Boolean displayLog) in c:\Users\Administrator\Desktop\v2rayN-master\v2rayN\ServiceLib\Manager\CoreManager.cs:line 271
+   at ServiceLib.Manager.CoreManager.RunProcess(CoreInfo coreInfo, String configPath, Boolean displayLog, Boolean mayNeedSudo) in c:\Users\Administrator\Desktop\v2rayN-master\v2rayN\ServiceLib\Manager\CoreManager.cs:line 237
+2026-02-22 14:26:12.3806-INFO [INFO] AppExitAsync Begin
+2026-02-22 14:26:12.4620-INFO [INFO] AppExitAsync End
+2026-02-22 14:26:12.4620-INFO [INFO] OnExit
+2026-02-22 14:43:37.8565-INFO [INFO] Language changed to: zh-CN (简体中文)
+2026-02-22 14:43:37.8723-INFO [INFO] v2rayN start up | v2rayN - V7.18.0 - X64 | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\ | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\v2rayN.exe | Microsoft Windows NT 10.0.19044.0
+2026-02-22 14:43:37.8997-INFO [INFO] MigrateProfileExtraGroup: No items to migrate.
+2026-02-22 14:43:40.3379-INFO [INFO] Setup Scheduled Tasks
+2026-02-22 14:44:23.4571-INFO [INFO] 在文件夹 (C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\bin\sing_box) 下未找到 Core 文件 (文件名: sing-box)，请下载后放入文件夹，下载地址: https://github.com/SagerNet/sing-box/releases
+2026-02-22 14:49:36.9720-INFO [INFO] AppExitAsync Begin
+2026-02-22 14:49:37.1535-INFO [INFO] AppExitAsync End
+2026-02-22 14:49:37.1535-INFO [INFO] OnExit
+2026-02-22 14:49:46.7426-INFO [INFO] Language changed to: zh-CN (简体中文)
+2026-02-22 14:49:46.7660-INFO [INFO] v2rayN start up | v2rayN - V7.18.0 - X64 | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\ | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\v2rayN.exe | Microsoft Windows NT 10.0.19044.0
+2026-02-22 14:49:46.7874-INFO [INFO] MigrateProfileExtraGroup: No items to migrate.
+2026-02-22 14:49:49.1377-INFO [INFO] Setup Scheduled Tasks
+2026-02-22 14:50:10.5594-DEBUG GetCliWrapOutput,Command execution failed, see the inner exception for details.
+
+Standard error:
+
+2026-02-22 14:50:10.5724-DEBUG    at CliWrap.Buffered.BufferedCommandExtensions.<>c__DisplayClass1_0.<<ExecuteBufferedAsync>b__0>d.MoveNext() in /_/CliWrap/Buffered/BufferedCommandExtensions.cs:line 66
+--- End of stack trace from previous location ---
+   at ServiceLib.Common.Utils.GetCliWrapOutput(String filePath, IEnumerable`1 args) in c:\Users\Administrator\Desktop\v2rayN-master\v2rayN\ServiceLib\Common\Utils.cs:line 860
+2026-02-22 14:50:10.5724-ERROR CliWrap.Exceptions.CommandExecutionException: Command execution failed because the underlying process (pnputil.exe#944) returned a non-zero exit code (-536870389).
+
+Command:
+C:\Windows\System32\pnputil.exe  /remove-device  "SWD\Wintun\{b738a021-9842-444c-10b0-a4e3f65ab5b6}" 
+
+You can suppress this validation by calling `WithValidation(CommandResultValidation.None)` on the command.
+2026-02-22 14:51:44.0697-INFO [INFO] AppExitAsync Begin
+2026-02-22 14:51:44.1495-INFO [INFO] AppExitAsync End
+2026-02-22 14:51:44.1495-INFO [INFO] OnExit
+2026-02-22 14:53:45.1801-INFO [INFO] Language changed to: zh-CN (简体中文)
+2026-02-22 14:53:45.2015-INFO [INFO] v2rayN start up | v2rayN - V7.18.0 - X64 | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\ | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\v2rayN.exe | Microsoft Windows NT 10.0.19044.0
+2026-02-22 14:53:45.2229-INFO [INFO] MigrateProfileExtraGroup: No items to migrate.
+2026-02-22 14:53:47.7232-INFO [INFO] Setup Scheduled Tasks
+2026-02-22 14:54:15.2206-INFO [INFO] AppExitAsync Begin
+2026-02-22 14:54:15.5246-INFO [INFO] AppExitAsync End
+2026-02-22 14:54:15.5246-INFO [INFO] OnExit
+2026-02-22 14:56:07.7301-INFO [INFO] Language changed to: zh-CN (简体中文)
+2026-02-22 14:56:07.7469-INFO [INFO] v2rayN start up | v2rayN - V7.18.0 - X64 | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\ | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\v2rayN.exe | Microsoft Windows NT 10.0.19044.0
+2026-02-22 14:56:07.7777-INFO [INFO] MigrateProfileExtraGroup: No items to migrate.
+2026-02-22 14:56:10.3923-INFO [INFO] Setup Scheduled Tasks
+2026-02-22 14:56:11.1110-INFO [INFO] Xray 26.1.23 (Xray, Penetrates Everything.) 0a42dba (go1.25.6 windows/amd64)
+2026-02-22 14:56:11.1110-INFO [INFO] A unified platform for anti-censorship.
+2026-02-22 14:56:11.1226-INFO [INFO] 2026/02/22 14:56:11.110067 [Info] infra/conf/serial: Reading config: &{Name:config.json Format:json}
+2026-02-22 14:56:11.1615-INFO [INFO] 2026/02/22 14:56:11.160852 [Warning] core: Xray 26.1.23 started
+2026-02-22 14:56:12.3048-INFO accepted 127.0.0.1:57626
+2026-02-22 14:56:12.4900-INFO accepted 127.0.0.1:57629
+2026-02-22 14:56:13.3184-INFO accepted 127.0.0.1:57635
+2026-02-22 14:56:13.9018-INFO accepted 127.0.0.1:57645
+2026-02-22 14:56:23.7002-INFO [INFO] Xray 26.1.23 (Xray, Penetrates Everything.) 0a42dba (go1.25.6 windows/amd64)
+2026-02-22 14:56:23.7002-INFO [INFO] A unified platform for anti-censorship.
+2026-02-22 14:56:23.7002-INFO [INFO] 2026/02/22 14:56:23.699986 [Info] infra/conf/serial: Reading config: &{Name:configTest4963844104631999446.json Format:json}
+2026-02-22 14:56:23.7002-INFO [INFO] 2026/02/22 14:56:23.703248 [Warning] core: Xray 26.1.23 started
+2026-02-22 14:56:24.0533-INFO accepted 127.0.0.1:57677
+2026-02-22 14:56:24.7727-INFO accepted 127.0.0.1:57680
+2026-02-22 14:56:33.9089-INFO accepted 127.0.0.1:57684
+2026-02-22 14:56:47.3818-INFO accepted 127.0.0.1:58872
+2026-02-22 14:56:47.3818-INFO accepted 127.0.0.1:58873
+2026-02-22 14:56:49.3348-INFO accepted 127.0.0.1:58880
+2026-02-22 14:56:49.3348-INFO accepted 127.0.0.1:58881
+2026-02-22 14:56:49.6676-INFO accepted 127.0.0.1:58890
+2026-02-22 14:56:52.3932-INFO timeout 216.36.124.101:55555
+2026-02-22 14:57:03.3378-INFO closed 127.0.0.1:58872
+2026-02-22 14:57:03.3378-INFO closed 127.0.0.1:57684
+2026-02-22 14:57:03.3378-INFO closed 127.0.0.1:58881
+2026-02-22 14:59:05.2528-INFO [INFO] AppExitAsync Begin
+2026-02-22 14:59:05.3274-INFO [INFO] AppExitAsync End
+2026-02-22 14:59:05.3274-INFO [INFO] OnExit
+2026-02-22 15:00:19.3206-INFO [INFO] Language changed to: zh-CN (简体中文)
+2026-02-22 15:00:19.3456-INFO [INFO] v2rayN start up | v2rayN - V7.18.0 - X64 | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\ | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\v2rayN.exe | Microsoft Windows NT 10.0.19044.0
+2026-02-22 15:00:19.3683-INFO [INFO] MigrateProfileExtraGroup: No items to migrate.
+2026-02-22 15:00:21.8305-INFO [INFO] Setup Scheduled Tasks
+2026-02-22 15:00:22.5405-INFO [INFO] Xray 26.1.23 (Xray, Penetrates Everything.) 0a42dba (go1.25.6 windows/amd64)
+2026-02-22 15:00:22.5405-INFO [INFO] A unified platform for anti-censorship.
+2026-02-22 15:00:22.5525-INFO [INFO] 2026/02/22 15:00:22.539951 [Info] infra/conf/serial: Reading config: &{Name:config.json Format:json}
+2026-02-22 15:00:22.5925-INFO [INFO] 2026/02/22 15:00:22.592380 [Warning] core: Xray 26.1.23 started
+2026-02-22 15:00:23.7945-INFO accepted 23.785942
+2026-02-22 15:00:23.9049-INFO accepted 23.901983
+2026-02-22 15:00:26.2858-INFO failed client.wns.windows.com
+2026-02-22 15:00:26.2858-INFO error error
+2026-02-22 15:00:26.7834-INFO accepted 26.780448
+2026-02-22 15:00:27.2777-INFO accepted 27.277493
+2026-02-22 15:00:35.1887-INFO closed 8.41s
+2026-02-22 15:00:35.1887-INFO error 43.135.106.161:80
+2026-02-22 15:00:35.2070-INFO error 124.156.190.226:14000
+2026-02-22 15:00:35.6591-INFO [INFO] Xray 26.1.23 (Xray, Penetrates Everything.) 0a42dba (go1.25.6 windows/amd64)
+2026-02-22 15:00:35.6591-INFO [INFO] A unified platform for anti-censorship.
+2026-02-22 15:00:35.6753-INFO [INFO] 2026/02/22 15:00:35.659002 [Info] infra/conf/serial: Reading config: &{Name:config.json Format:json}
+2026-02-22 15:00:35.7290-INFO [INFO] 2026/02/22 15:00:35.728050 [Warning] core: Xray 26.1.23 started
+2026-02-22 15:00:36.6716-INFO accepted 36.670775
+2026-02-22 15:00:36.9094-INFO accepted 36.905971
+2026-02-22 15:00:37.8360-INFO accepted 37.835809
+2026-02-22 15:00:40.7469-INFO accepted 40.746597
+2026-02-22 15:00:42.4190-INFO accepted 42.418647
+2026-02-22 15:02:00.5728-INFO accepted 00.572363
+2026-02-22 15:02:03.6899-INFO accepted 03.689529
+2026-02-22 15:02:04.4193-INFO accepted 04.418707
+2026-02-22 15:02:04.4193-INFO accepted 04.419775
+2026-02-22 15:02:04.4193-INFO accepted 04.420305
+2026-02-22 15:02:04.5027-INFO accepted 04.501492
+2026-02-22 15:02:04.7899-INFO accepted 04.789467
+2026-02-22 15:02:04.9784-INFO accepted 04.977964
+2026-02-22 15:02:05.0074-INFO accepted 05.006833
+2026-02-22 15:02:05.1821-INFO accepted 05.181498
+2026-02-22 15:02:05.4573-INFO accepted 05.456572
+2026-02-22 15:02:07.6705-INFO accepted 07.669748
+2026-02-22 15:02:08.0489-INFO accepted 08.044294
+2026-02-22 15:02:09.4368-INFO timeout 5.0s
+2026-02-22 15:02:20.7178-INFO accepted 20.717395
+2026-02-22 15:02:27.7814-INFO accepted 27.780642
+2026-02-22 15:02:29.3375-INFO accepted 29.337227
+2026-02-22 15:02:30.5795-INFO accepted 30.579172
+2026-02-22 15:02:35.1736-INFO accepted 35.173405
+2026-02-22 15:02:40.1219-INFO accepted 40.121690
+2026-02-22 15:02:40.4945-INFO accepted 40.494148
+2026-02-22 15:02:52.0649-INFO accepted 52.061396
+2026-02-22 15:02:55.9797-INFO accepted 55.978982
+2026-02-22 15:03:00.9870-INFO closed 55.98s
+2026-02-22 15:03:00.9870-INFO closed 52.94s
+2026-02-22 15:03:00.9870-INFO closed 56.19s
+2026-02-22 15:03:00.9870-INFO closed 56.48s
+2026-02-22 15:03:00.9870-INFO closed 连接已关闭
+2026-02-22 15:03:00.9870-INFO closed 55.80s
+2026-02-22 15:03:00.9870-INFO closed 5.0s
+2026-02-22 15:03:00.9870-INFO failed oth.eve.mdt.qq.com
+2026-02-22 15:03:00.9870-INFO error error
+2026-02-22 15:03:00.9998-INFO error 43.154.240.191:8080
+2026-02-22 15:03:00.9998-INFO error 43.163.181.201:80
+2026-02-22 15:03:00.9998-INFO error 183.47.99.24:8080
+2026-02-22 15:03:00.9998-INFO error 111.206.149.168:14000
+2026-02-22 15:03:01.0146-INFO error 36.155.187.225:14000
+2026-02-22 15:03:01.0146-INFO failed msfwifi.3g.qq.com
+2026-02-22 15:03:01.0146-INFO error error
+2026-02-22 15:03:01.3208-INFO [INFO] Xray 26.1.23 (Xray, Penetrates Everything.) 0a42dba (go1.25.6 windows/amd64)
+2026-02-22 15:03:01.3208-INFO [INFO] A unified platform for anti-censorship.
+2026-02-22 15:03:01.3330-INFO [INFO] 2026/02/22 15:03:01.320628 [Info] infra/conf/serial: Reading config: &{Name:config.json Format:json}
+2026-02-22 15:03:01.3750-INFO [INFO] 2026/02/22 15:03:01.373977 [Warning] core: Xray 26.1.23 started
+2026-02-22 15:03:01.4994-INFO accepted 01.498956
+2026-02-22 15:03:02.5334-INFO accepted 02.000572
+2026-02-22 15:03:02.5334-INFO accepted 02.045080
+2026-02-22 15:03:02.5334-INFO accepted 02.404123
+2026-02-22 15:03:02.6122-INFO accepted 02.611972
+2026-02-22 15:03:02.6727-INFO accepted 02.672435
+2026-02-22 15:03:02.7026-INFO accepted 02.702399
+2026-02-22 15:03:03.4599-INFO accepted 03.459679
+2026-02-22 15:03:05.5502-INFO accepted 05.549891
+2026-02-22 15:03:06.3923-INFO accepted 06.392111
+2026-02-22 15:03:07.5962-INFO accepted 07.595941
+2026-02-22 15:05:45.9478-INFO [INFO] AppExitAsync Begin
+2026-02-22 15:05:46.0144-INFO [INFO] AppExitAsync End
+2026-02-22 15:05:46.0144-INFO [INFO] OnExit
+2026-02-22 15:12:43.6983-INFO [INFO] Language changed to: zh-CN (简体中文)
+2026-02-22 15:12:43.7165-INFO [INFO] v2rayN start up | v2rayN - V7.18.0 - X64 | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\ | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\v2rayN.exe | Microsoft Windows NT 10.0.19044.0
+2026-02-22 15:12:43.7500-INFO [INFO] MigrateProfileExtraGroup: No items to migrate.
+2026-02-22 15:12:46.5599-INFO [INFO] Setup Scheduled Tasks
+2026-02-22 15:12:47.1560-INFO [INFO] Xray 26.1.23 (Xray, Penetrates Everything.) 0a42dba (go1.25.6 windows/amd64)
+2026-02-22 15:12:47.1560-INFO [INFO] A unified platform for anti-censorship.
+2026-02-22 15:12:47.1560-INFO [INFO] 2026/02/22 15:12:47.155265 [Info] infra/conf/serial: Reading config: &{Name:config.json Format:json}
+2026-02-22 15:12:47.2118-INFO [INFO] 2026/02/22 15:12:47.211678 [Warning] core: Xray 26.1.23 started
+2026-02-22 15:12:48.3144-INFO 已接受 已接受 48.306358
+2026-02-22 15:13:02.2499-INFO [INFO] Xray 26.1.23 (Xray, Penetrates Everything.) 0a42dba (go1.25.6 windows/amd64)
+2026-02-22 15:13:02.2499-INFO [INFO] A unified platform for anti-censorship.
+2026-02-22 15:13:02.2499-INFO [INFO] 2026/02/22 15:13:02.249567 [Info] infra/conf/serial: Reading config: &{Name:config.json Format:json}
+2026-02-22 15:13:02.2967-INFO [INFO] 2026/02/22 15:13:02.296188 [Warning] core: Xray 26.1.23 started
+2026-02-22 15:13:03.2288-INFO 已接受 已接受 03.225366
+2026-02-22 15:13:03.5687-INFO 已接受 已接受 03.568287
+2026-02-22 15:13:04.2723-INFO 已接受 已接受 04.269368
+2026-02-22 15:13:04.2723-INFO 已接受 已接受 04.269398
+2026-02-22 15:13:04.4934-INFO 已接受 已接受 04.492889
+2026-02-22 15:13:04.8267-INFO 已接受 已接受 04.826127
+2026-02-22 15:13:05.4237-INFO 已接受 已接受 05.423377
+2026-02-22 15:13:05.6433-INFO 已接受 已接受 05.640879
+2026-02-22 15:13:05.9417-INFO 已接受 已接受 05.941303
+2026-02-22 15:13:05.9417-INFO 已接受 已接受 05.941303
+2026-02-22 15:13:05.9417-INFO 已接受 已接受 05.942088
+2026-02-22 15:13:06.0595-INFO 已接受 已接受 06.059248
+2026-02-22 15:13:06.1662-INFO 已接受 已接受 06.162505
+2026-02-22 15:13:06.9563-INFO 已接受 已接受 06.955743
+2026-02-22 15:13:07.4106-INFO 已接受 已接受 07.410198
+2026-02-22 15:13:07.7432-INFO 已接受 已接受 07.739347
+2026-02-22 15:13:07.8211-INFO 已接受 已接受 07.820360
+2026-02-22 15:13:07.8211-INFO 已接受 已接受 07.820360
+2026-02-22 15:13:07.9178-INFO 已接受 已接受 07.917433
+2026-02-22 15:13:08.0193-INFO 已接受 已接受 08.018695
+2026-02-22 15:13:08.0280-INFO 已接受 已接受 08.027356
+2026-02-22 15:13:08.1913-INFO 已接受 已接受 08.190463
+2026-02-22 15:13:09.6785-INFO 已接受 已接受 09.677764
+2026-02-22 15:13:09.7148-INFO 已接受 已接受 09.714563
+2026-02-22 15:13:09.7945-INFO 已接受 已接受 09.794133
+2026-02-22 15:13:09.8975-INFO 已接受 已接受 09.896957
+2026-02-22 15:13:11.5559-INFO 已接受 已接受 11.555604
+2026-02-22 15:13:11.5939-INFO 已接受 已接受 11.593293
+2026-02-22 15:13:11.6989-INFO 已接受 已接受 11.698598
+2026-02-22 15:13:11.8601-INFO 已接受 已接受 11.859780
+2026-02-22 15:13:13.0897-INFO 已接受 已接受 13.088997
+2026-02-22 15:13:13.4930-INFO 已接受 已接受 13.492350
+2026-02-22 15:13:13.4930-INFO 已接受 已接受 13.492350
+2026-02-22 15:13:13.6257-INFO 已接受 已接受 13.625319
+2026-02-22 15:13:13.7312-INFO 已接受 已接受 13.730516
+2026-02-22 15:13:19.5568-INFO 已接受 已接受 19.556523
+2026-02-22 15:13:29.5481-INFO 已接受 已接受 29.547722
+2026-02-22 15:13:34.3316-INFO 已关闭 已关闭 28.37s
+2026-02-22 15:13:34.3316-INFO 已关闭 已关闭 4.77s
+2026-02-22 15:13:34.3316-INFO 已关闭 已关闭 27.36s
+2026-02-22 15:13:34.3316-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:13:34.3316-INFO 错误 错误 43.163.180.5:443
+2026-02-22 15:13:34.3316-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:13:34.3316-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:13:34.3316-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:13:34.3316-INFO 错误 错误 43.163.180.61:14000
+2026-02-22 15:13:34.3316-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:13:34.3316-INFO 错误 错误 183.47.126.26:8080
+2026-02-22 15:13:34.3316-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:13:34.3316-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:13:34.3316-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:13:34.3316-INFO 错误 错误 60.29.242.161:14000
+2026-02-22 15:13:34.3316-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:13:34.3408-INFO 错误 错误 36.155.187.225:443
+2026-02-22 15:13:34.3408-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:13:34.3408-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:13:34.3408-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:13:34.3408-INFO 失败 失败 msfwifi.3g.qq.com
+2026-02-22 15:13:34.3408-INFO 错误 +0800 2026-02-22 15:13:34 错误 [205052071 2ms] router: process DNS packet: dial tcp 127.0.0.1:10808: connectex: No connection could be made because the target machine actively refused it.
+2026-02-22 15:15:16.1560-INFO [INFO] Language changed to: en-US (English)
+2026-02-22 15:15:25.5477-INFO [INFO] Xray 26.1.23 (Xray, Penetrates Everything.) 0a42dba (go1.25.6 windows/amd64)
+2026-02-22 15:15:25.5477-INFO [INFO] A unified platform for anti-censorship.
+2026-02-22 15:15:25.5628-INFO [INFO] 2026/02/22 15:15:25.547761 [Info] infra/conf/serial: Reading config: &{Name:config.json Format:json}
+2026-02-22 15:15:25.6058-INFO [INFO] 2026/02/22 15:15:25.604845 [Warning] core: Xray 26.1.23 started
+2026-02-22 15:15:26.3328-INFO 已接受 已接受 26.329939
+2026-02-22 15:15:26.7377-INFO 已接受 已接受 26.737593
+2026-02-22 15:15:27.3113-INFO 已接受 已接受 27.310300
+2026-02-22 15:15:27.3113-INFO 已接受 已接受 27.311273
+2026-02-22 15:15:27.8049-INFO 已接受 已接受 27.804500
+2026-02-22 15:15:27.9180-INFO 已接受 已接受 27.917243
+2026-02-22 15:15:28.5497-INFO 已接受 已接受 28.549580
+2026-02-22 15:15:29.0316-INFO 已接受 已接受 29.031424
+2026-02-22 15:15:29.3611-INFO 已接受 已接受 29.360608
+2026-02-22 15:15:29.3611-INFO 已接受 已接受 29.365445
+2026-02-22 15:15:29.3611-INFO 已接受 已接受 29.365962
+2026-02-22 15:15:29.4635-INFO 已接受 已接受 29.463390
+2026-02-22 15:15:29.4635-INFO 已接受 已接受 29.463390
+2026-02-22 15:15:29.8815-INFO 已接受 已接受 29.880870
+2026-02-22 15:15:30.7304-INFO 已接受 已接受 30.729714
+2026-02-22 15:15:30.9214-INFO 已接受 已接受 30.920807
+2026-02-22 15:15:31.0838-INFO 已接受 已接受 31.083285
+2026-02-22 15:15:31.2562-INFO 已接受 已接受 31.255464
+2026-02-22 15:15:31.2788-INFO 已接受 已接受 31.278436
+2026-02-22 15:15:31.3348-INFO 已接受 已接受 31.334329
+2026-02-22 15:15:31.3348-INFO 已接受 已接受 31.338869
+2026-02-22 15:15:31.5141-INFO 已接受 已接受 31.513390
+2026-02-22 15:15:31.8836-INFO 已关闭 已关闭 连接已关闭
+2026-02-22 15:15:31.8836-INFO 已关闭 已关闭 1.97s
+2026-02-22 15:15:31.8836-INFO 已关闭 已关闭 连接已关闭
+2026-02-22 15:15:31.8836-INFO 已关闭 已关闭 连接已关闭
+2026-02-22 15:15:31.8836-INFO 已关闭 已关闭 连接已关闭
+2026-02-22 15:15:31.8836-INFO 已关闭 已关闭 连接已关闭
+2026-02-22 15:15:31.8836-INFO 已关闭 已关闭 1.12s
+2026-02-22 15:15:31.8836-INFO 已关闭 已关闭 连接已关闭
+2026-02-22 15:15:31.8836-INFO 已关闭 已关闭 2.49s
+2026-02-22 15:15:31.8836-INFO 已关闭 已关闭 连接已关闭
+2026-02-22 15:15:31.8836-INFO 已关闭 已关闭 4.5s
+2026-02-22 15:15:31.8836-INFO 已关闭 已关闭 2.82s
+2026-02-22 15:15:31.8836-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:15:31.8836-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:15:31.8836-INFO 错误 错误 23.210.216.165:443
+2026-02-22 15:15:31.8836-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:15:31.8836-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:15:31.8836-INFO 错误 错误 14.22.9.53:14000
+2026-02-22 15:15:31.8836-INFO 错误 错误 23.210.216.165:443
+2026-02-22 15:15:31.8836-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:15:31.8836-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:15:31.8836-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:15:31.8836-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:15:31.8836-INFO 错误 错误 23.210.216.165:443
+2026-02-22 15:15:31.8836-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:15:31.8836-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:15:31.8836-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:15:31.8836-INFO 错误 错误 121.229.94.199:14000
+2026-02-22 15:15:31.8836-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:15:31.8836-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:15:31.8836-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:15:31.8836-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:15:31.8836-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:15:31.8836-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:15:31.8836-INFO 错误 错误 183.47.107.174:14000
+2026-02-22 15:15:31.8836-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:15:31.8836-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:15:31.8836-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:15:31.8934-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:15:31.8934-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:15:31.8934-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:15:31.8934-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:15:31.8934-INFO 错误 错误 49.7.253.58:14000
+2026-02-22 15:15:31.8934-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:15:31.8934-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:15:31.8934-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:15:31.8934-INFO 错误 错误 117.62.242.155:8080
+2026-02-22 15:15:31.8934-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:15:31.8934-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:15:31.8934-INFO 错误 错误 49.7.253.58:8080
+2026-02-22 15:15:31.8934-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:15:31.8934-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:15:31.8934-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:15:31.9064-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:15:31.9064-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:15:31.9064-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:15:31.9064-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:15:31.9064-INFO 错误 错误 42.81.184.206:8080
+2026-02-22 15:15:31.9064-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:15:31.9064-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:15:31.9064-INFO 错误 错误 180.101.246.123:8080
+2026-02-22 15:15:31.9064-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:15:31.9064-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:15:31.9064-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:15:31.9064-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:15:31.9064-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:15:31.9064-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:15:31.9064-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:15:31.9064-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:15:31.9186-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:15:31.9186-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:15:31.9186-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:15:31.9186-INFO 错误 错误 101.33.47.68:8081
+2026-02-22 15:15:31.9186-INFO 失败 失败 msfwifi.3g.qq.com
+2026-02-22 15:15:31.9186-INFO 错误 +0800 2026-02-22 15:15:31 错误 [4044679185 1ms] router: process DNS packet: dial tcp 127.0.0.1:10808: connectex: No connection could be made because the target machine actively refused it.
+2026-02-22 15:15:46.4898-INFO [INFO] Language changed to: zh-CN (简体中文)
+2026-02-22 15:18:34.4115-INFO [INFO] AppExitAsync Begin
+2026-02-22 15:18:34.4976-INFO [INFO] AppExitAsync End
+2026-02-22 15:18:34.4976-INFO [INFO] OnExit
+2026-02-22 17:45:30.1040-INFO String_Log_Info Language changed to: zh-CN (简体中文)
+2026-02-22 17:45:30.1219-INFO [信息] v2rayN start up | v2rayN - V7.18.0 - X64 | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\ | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\v2rayN.exe | Microsoft Windows NT 10.0.19044.0
+2026-02-22 17:45:30.1495-INFO [信息] MigrateProfileExtraGroup: No items to migrate.
+2026-02-22 17:45:32.7187-INFO [信息] Setup Scheduled Tasks
+2026-02-22 17:45:33.5144-INFO [信息] Xray 26.1.23 (Xray, Penetrates Everything.) 0a42dba (go1.25.6 windows/amd64)
+2026-02-22 17:45:33.5144-INFO [信息] A unified platform for anti-censorship.
+2026-02-22 17:45:33.5286-INFO [信息] 2026/02/22 17:45:33.513461 [Info] infra/conf/serial: Reading config: &{Name:config.json Format:json}
+2026-02-22 17:45:33.5719-INFO [信息] 2026/02/22 17:45:33.571409 [Warning] core: Xray 26.1.23 started
+2026-02-22 17:45:34.5482-INFO String_Log_Accepted 34.542423
+2026-02-22 17:45:34.9078-INFO String_Log_Accepted 34.903087
+2026-02-22 17:45:35.5306-INFO String_Log_Accepted 35.529774
+2026-02-22 17:45:36.8479-INFO String_Log_Accepted 36.847448
+2026-02-22 17:45:36.9350-INFO String_Log_Accepted 36.934641
+2026-02-22 17:45:36.9350-INFO String_Log_Accepted 36.934641
+2026-02-22 17:45:36.9644-INFO String_Log_Accepted 36.964093
+2026-02-22 17:45:37.1692-INFO String_Log_Accepted 37.168908
+2026-02-22 17:45:37.1692-INFO String_Log_Accepted 37.170741
+2026-02-22 17:45:37.1692-INFO String_Log_Accepted 37.170741
+2026-02-22 17:45:38.0303-INFO String_Log_Accepted 38.029981
+2026-02-22 17:45:38.0303-INFO String_Log_Accepted 38.029981
+2026-02-22 17:45:39.2356-INFO String_Log_Accepted 39.232043
+2026-02-22 17:45:39.4482-INFO String_Log_Accepted 39.447696
+2026-02-22 17:45:40.8157-INFO String_Log_Accepted 40.815060
+2026-02-22 17:45:40.8157-INFO String_Log_Accepted 40.815060
+2026-02-22 17:45:40.8157-INFO String_Log_Accepted 40.816649
+2026-02-22 17:45:41.8345-INFO String_Log_Accepted 41.833739
+2026-02-22 17:45:46.1730-INFO String_Log_Accepted 46.172574
+2026-02-22 17:45:48.0271-INFO String_Log_Accepted 48.026748
+2026-02-22 17:45:48.2231-INFO String_Log_Accepted 48.222443
+2026-02-22 17:45:56.5293-INFO String_Log_Accepted 56.528677
+2026-02-22 17:45:58.0632-INFO String_Log_Accepted 58.062801
+2026-02-22 17:45:59.8510-INFO String_Log_Accepted 59.850394
+2026-02-22 17:46:00.3716-INFO String_Log_Accepted 00.371297
+2026-02-22 17:46:01.9796-INFO String_Log_Accepted 01.979119
+2026-02-22 17:46:01.9907-INFO String_Log_Accepted 01.990093
+2026-02-22 17:46:02.0272-INFO String_Log_Accepted 02.026885
+2026-02-22 17:46:02.3257-INFO String_Log_Accepted 02.325450
+2026-02-22 17:46:02.3257-INFO String_Log_Accepted 02.325485
+2026-02-22 17:46:02.7757-INFO String_Log_Accepted 02.775282
+2026-02-22 17:46:03.9078-INFO String_Log_Accepted 03.907608
+2026-02-22 17:46:03.9423-INFO String_Log_Accepted 03.941772
+2026-02-22 17:46:03.9423-INFO String_Log_Accepted 03.941772
+2026-02-22 17:46:04.7508-INFO String_Log_Accepted 04.750669
+2026-02-22 17:46:04.7693-INFO String_Log_Accepted 04.768759
+2026-02-22 17:46:04.7876-INFO String_Log_Accepted 04.787368
+2026-02-22 17:46:15.3745-INFO String_Log_Accepted 15.373902
+2026-02-22 17:46:16.1801-INFO String_Log_Accepted 16.179575
+2026-02-22 17:46:16.3872-INFO String_Log_Accepted 16.386918
+2026-02-22 17:46:18.8980-INFO String_Log_Accepted 18.897763
+2026-02-22 17:46:21.8467-INFO String_Log_Accepted 21.846391
+2026-02-22 17:46:21.8802-INFO String_Log_Accepted 21.879588
+2026-02-22 17:46:22.1880-INFO String_Log_Accepted 22.187618
+2026-02-22 17:46:24.0915-INFO String_Log_Accepted 24.090881
+2026-02-22 17:46:24.2750-INFO String_Log_Accepted 24.274612
+2026-02-22 17:46:25.4714-INFO String_Log_Accepted 25.471210
+2026-02-22 17:46:27.8603-INFO String_Log_Accepted 27.859716
+2026-02-22 17:46:30.0675-INFO String_Log_Accepted 30.067046
+2026-02-22 17:46:30.2587-INFO String_Log_Accepted 30.258019
+2026-02-22 17:46:30.2587-INFO String_Log_Accepted 30.258789
+2026-02-22 17:46:30.2587-INFO String_Log_Accepted 30.261480
+2026-02-22 17:46:30.3968-INFO String_Log_Accepted 30.396299
+2026-02-22 17:46:30.3968-INFO String_Log_Accepted 30.396846
+2026-02-22 17:46:30.3968-INFO String_Log_Accepted 30.397928
+2026-02-22 17:46:30.3968-INFO String_Log_Accepted 30.398522
+2026-02-22 17:46:30.4964-INFO String_Log_Accepted 30.495824
+2026-02-22 17:46:30.8453-INFO String_Log_Accepted 30.844822
+2026-02-22 17:46:31.0698-INFO String_Log_Accepted 31.069658
+2026-02-22 17:46:31.0946-INFO String_Log_Accepted 31.094190
+2026-02-22 17:46:33.9130-INFO String_Log_Accepted 33.912435
+2026-02-22 17:46:34.4026-INFO String_Log_Accepted 34.402335
+2026-02-22 17:46:34.6800-INFO String_Log_Accepted 34.679446
+2026-02-22 17:46:34.7286-INFO String_Log_Accepted 34.728430
+2026-02-22 17:46:34.8060-INFO String_Log_Accepted 34.805765
+2026-02-22 17:46:34.8879-INFO String_Log_Accepted 34.887311
+2026-02-22 17:46:35.0943-INFO String_Log_Accepted 35.093961
+2026-02-22 17:46:35.4440-INFO String_Log_Accepted 35.443709
+2026-02-22 17:46:35.8210-INFO String_Log_Accepted 35.820618
+2026-02-22 17:46:36.1442-INFO String_Log_Accepted 36.143326
+2026-02-22 17:46:36.7743-INFO String_Log_Accepted 36.774148
+2026-02-22 17:46:37.0208-INFO String_Log_Accepted 37.020357
+2026-02-22 17:46:37.2375-INFO String_Log_Accepted 37.236543
+2026-02-22 17:46:37.3954-INFO String_Log_Accepted 37.395224
+2026-02-22 17:46:38.4492-INFO String_Log_Accepted 38.448706
+2026-02-22 17:46:39.6021-INFO String_Log_Accepted 39.601798
+2026-02-22 17:46:39.6021-INFO String_Log_Accepted 39.601798
+2026-02-22 17:46:39.7586-INFO String_Log_Accepted 39.758101
+2026-02-22 17:46:40.5479-INFO String_Log_Accepted 40.547774
+2026-02-22 17:46:41.5717-INFO String_Log_Accepted 41.571485
+2026-02-22 17:46:41.5752-INFO String_Log_Accepted 41.574524
+2026-02-22 17:46:41.5752-INFO String_Log_Accepted 41.576795
+2026-02-22 17:46:41.5752-INFO String_Log_Accepted 41.578774
+2026-02-22 17:46:41.5752-INFO String_Log_Accepted 41.579282
+2026-02-22 17:46:41.5752-INFO String_Log_Accepted 41.581498
+2026-02-22 17:46:41.7605-INFO String_Log_Accepted 41.759811
+2026-02-22 17:46:43.8177-INFO String_Log_Accepted 43.817142
+2026-02-22 17:46:43.8177-INFO String_Log_Accepted 43.817692
+2026-02-22 17:46:43.8177-INFO String_Log_Accepted 43.818212
+2026-02-22 17:46:44.1600-INFO String_Log_Accepted 44.159779
+2026-02-22 17:46:45.0153-INFO String_Log_Accepted 45.015087
+2026-02-22 17:46:59.7425-INFO String_Log_Accepted 59.742136
+2026-02-22 17:47:16.1917-INFO [Info] Language changed to: en-US (English)
+2026-02-22 17:47:38.5575-INFO [Info] Xray 26.1.23 (Xray, Penetrates Everything.) 0a42dba (go1.25.6 windows/amd64)
+2026-02-22 17:47:38.5575-INFO [Info] A unified platform for anti-censorship.
+2026-02-22 17:47:38.5698-INFO [Info] 2026/02/22 17:47:38.557309 [Info] infra/conf/serial: Reading config: &{Name:configTest5548388075825675698.json Format:json}
+2026-02-22 17:47:38.5698-INFO [Info] 2026/02/22 17:47:38.560602 [Warning] core: Xray 26.1.23 started
+2026-02-22 17:47:39.6304-INFO Accepted 39.630282
+2026-02-22 17:47:40.9863-INFO Accepted 40.985889
+2026-02-22 17:47:41.9686-INFO Closed 192.168.1.101:50446
+2026-02-22 17:47:42.5565-INFO Closed 192.168.1.101:61266
+2026-02-22 17:47:48.3594-INFO Closed 192.168.1.101:56441
+2026-02-22 17:47:51.3749-INFO Accepted 51.374834
+2026-02-22 17:47:59.8888-INFO [信息] Language changed to: zh-CN (简体中文)
+2026-02-22 17:48:01.3684-INFO String_Log_Accepted 01.367808
+2026-02-22 17:48:17.7489-INFO String_Log_Accepted 17.745725
+2026-02-22 17:48:17.7489-INFO String_Log_Accepted 17.746323
+2026-02-22 17:48:17.7637-INFO String_Log_Accepted 17.763094
+2026-02-22 17:48:17.7637-INFO String_Log_Accepted 17.763094
+2026-02-22 17:48:17.9135-INFO String_Log_Accepted 17.913185
+2026-02-22 17:48:17.9371-INFO String_Log_Accepted 17.936903
+2026-02-22 17:48:17.9884-INFO String_Log_Accepted 17.987909
+2026-02-22 17:48:18.0459-INFO String_Log_Accepted 18.045755
+2026-02-22 17:48:18.0930-INFO String_Log_Accepted 18.092774
+2026-02-22 17:48:18.2012-INFO String_Log_Accepted 18.201003
+2026-02-22 17:48:18.2509-INFO String_Log_Accepted 18.247130
+2026-02-22 17:48:18.2773-INFO String_Log_Accepted 18.277131
+2026-02-22 17:48:18.5632-INFO String_Log_Accepted 18.562946
+2026-02-22 17:48:18.7636-INFO String_Log_Accepted 18.763019
+2026-02-22 17:48:18.7636-INFO String_Log_Accepted 18.763645
+2026-02-22 17:48:18.8858-INFO String_Log_Accepted 18.885530
+2026-02-22 17:48:19.0905-INFO String_Log_Accepted 19.090141
+2026-02-22 17:48:19.3224-INFO String_Log_Accepted 19.321991
+2026-02-22 17:48:19.8651-INFO String_Log_Accepted 19.864717
+2026-02-22 17:48:20.1701-INFO String_Log_Accepted 20.169523
+2026-02-22 17:48:20.1701-INFO String_Log_Accepted 20.177994
+2026-02-22 17:48:20.1970-INFO String_Log_Accepted 20.196831
+2026-02-22 17:48:20.2862-INFO String_Log_Accepted 20.285612
+2026-02-22 17:48:20.3937-INFO String_Log_Accepted 20.393543
+2026-02-22 17:48:20.8085-INFO String_Log_Accepted 20.808069
+2026-02-22 17:48:20.9170-INFO String_Log_Accepted 20.916877
+2026-02-22 17:48:20.9750-INFO String_Log_Accepted 20.974864
+2026-02-22 17:48:20.9897-INFO String_Log_Accepted 20.989509
+2026-02-22 17:48:20.9897-INFO String_Log_Accepted 20.992308
+2026-02-22 17:48:21.0546-INFO String_Log_Accepted 21.054468
+2026-02-22 17:48:21.0832-INFO String_Log_Accepted 21.082954
+2026-02-22 17:48:21.4524-INFO String_Log_Accepted 21.451630
+2026-02-22 17:48:22.2491-INFO String_Log_Accepted 22.248425
+2026-02-22 17:48:24.2821-INFO String_Log_Accepted 24.281970
+2026-02-22 17:48:25.1355-INFO String_Log_Accepted 25.135061
+2026-02-22 17:48:25.1405-INFO String_Log_Accepted 25.140063
+2026-02-22 17:48:25.1405-INFO String_Log_Accepted 25.140063
+2026-02-22 17:48:25.2079-INFO String_Log_Accepted 25.207153
+2026-02-22 17:48:25.8744-INFO String_Log_Accepted 25.874219
+2026-02-22 17:48:27.7396-INFO String_Log_Accepted 27.739415
+2026-02-22 17:48:34.5930-INFO String_Log_Accepted 34.592495
+2026-02-22 17:48:34.8995-INFO String_Log_Accepted 34.895999
+2026-02-22 17:48:42.8910-INFO [信息] Xray 26.1.23 (Xray, Penetrates Everything.) 0a42dba (go1.25.6 windows/amd64)
+2026-02-22 17:48:42.8910-INFO [信息] A unified platform for anti-censorship.
+2026-02-22 17:48:42.9042-INFO [信息] 2026/02/22 17:48:42.891121 [Info] infra/conf/serial: Reading config: &{Name:configTest5652847384382449436.json Format:json}
+2026-02-22 17:48:42.9042-INFO [信息] 2026/02/22 17:48:42.894412 [Warning] core: Xray 26.1.23 started
+2026-02-22 17:48:43.9595-INFO String_Log_Accepted 43.959257
+2026-02-22 17:48:45.2733-INFO String_Log_Accepted 45.273125
+2026-02-22 17:48:48.9471-INFO String_Log_Closed 192.168.1.101:62379
+2026-02-22 17:48:48.9503-INFO String_Log_Closed 192.168.1.101:62351
+2026-02-22 17:48:48.9503-INFO String_Log_Closed 192.168.1.101:62470
+2026-02-22 17:48:51.7162-INFO String_Log_Accepted 51.715752
+2026-02-22 17:48:57.1872-INFO String_Log_Accepted 57.186965
+2026-02-22 17:48:57.1872-INFO String_Log_Accepted 57.191431
+2026-02-22 17:48:57.3590-INFO String_Log_Accepted 57.358740
+2026-02-22 17:48:57.3793-INFO String_Log_Accepted 57.379128
+2026-02-22 17:48:57.5448-INFO String_Log_Accepted 57.544532
+2026-02-22 17:48:57.5664-INFO String_Log_Accepted 57.565888
+2026-02-22 17:48:57.7326-INFO String_Log_Accepted 57.732461
+2026-02-22 17:48:57.7529-INFO String_Log_Accepted 57.752369
+2026-02-22 17:48:57.9429-INFO String_Log_Accepted 57.942448
+2026-02-22 17:48:57.9429-INFO String_Log_Accepted 57.943093
+2026-02-22 17:48:57.9429-INFO String_Log_Accepted 57.944868
+2026-02-22 17:48:57.9429-INFO String_Log_Accepted 57.944868
+2026-02-22 17:48:57.9429-INFO String_Log_Accepted 57.945865
+2026-02-22 17:48:57.9429-INFO String_Log_Accepted 57.946386
+2026-02-22 17:48:57.9429-INFO String_Log_Accepted 57.946810
+2026-02-22 17:48:57.9429-INFO String_Log_Accepted 57.946810
+2026-02-22 17:48:57.9429-INFO String_Log_Accepted 57.946810
+2026-02-22 17:48:58.0666-INFO String_Log_Accepted 58.066502
+2026-02-22 17:48:58.0666-INFO String_Log_Accepted 58.066502
+2026-02-22 17:48:58.0666-INFO String_Log_Accepted 58.066502
+2026-02-22 17:49:04.5945-INFO String_Log_Accepted 04.594231
+2026-02-22 17:49:08.4217-INFO String_Log_Accepted 08.421109
+2026-02-22 17:49:12.6057-INFO String_Log_Accepted 12.605423
+2026-02-22 17:49:17.5263-INFO String_Log_Accepted 17.526011
+2026-02-22 17:49:17.7288-INFO String_Log_Accepted 17.728550
+2026-02-22 17:49:17.7581-INFO String_Log_Accepted 17.757868
+2026-02-22 17:49:21.0342-INFO String_Log_Accepted 21.033677
+2026-02-22 17:49:25.7622-INFO String_Log_Accepted 25.761688
+2026-02-22 17:49:39.8247-INFO String_Log_Accepted 39.824375
+2026-02-22 17:49:48.2749-INFO String_Log_Accepted 48.270172
+2026-02-22 17:49:49.7752-INFO String_Log_Accepted 49.774872
+2026-02-22 17:49:50.5876-INFO String_Log_Accepted 50.587405
+2026-02-22 17:49:50.5876-INFO String_Log_Accepted 50.587405
+2026-02-22 17:49:50.7732-INFO String_Log_Accepted 50.772958
+2026-02-22 17:49:59.0082-INFO String_Log_Accepted 59.007690
+2026-02-22 17:49:59.9375-INFO String_Log_Accepted 59.936994
+2026-02-22 17:50:04.9401-INFO String_Log_Timeout 5.0s
+2026-02-22 17:50:06.7739-INFO String_Log_Accepted 06.773728
+2026-02-22 17:50:12.7126-INFO String_Log_Accepted 12.712143
+2026-02-22 17:50:13.7945-INFO String_Log_Accepted 13.794101
+2026-02-22 17:50:14.1638-INFO String_Log_Accepted 14.163050
+2026-02-22 17:50:26.0620-INFO String_Log_Accepted 26.061712
+2026-02-22 17:50:34.9692-INFO String_Log_Accepted 34.968985
+2026-02-22 17:50:35.0012-INFO String_Log_Accepted 35.001019
+2026-02-22 17:50:40.9290-INFO String_Log_Accepted 40.928428
+2026-02-22 17:50:45.6673-INFO String_Log_Accepted 45.666855
+2026-02-22 17:50:46.7304-INFO String_Log_Accepted 46.729794
+2026-02-22 17:50:49.8762-INFO [信息] AppExitAsync Begin
+2026-02-22 17:50:49.9817-INFO String_Log_Closed 连接已关闭
+2026-02-22 17:50:49.9817-INFO String_Log_Closed 50.97s
+2026-02-22 17:50:49.9817-INFO String_Log_Closed 4.33s
+2026-02-22 17:50:49.9817-INFO String_Log_Closed 连接已关闭
+2026-02-22 17:50:49.9817-INFO String_Log_Closed 连接已关闭
+2026-02-22 17:50:49.9817-INFO String_Log_Closed 连接已关闭
+2026-02-22 17:50:49.9817-INFO String_Log_Closed 连接已关闭
+2026-02-22 17:50:49.9817-INFO String_Log_Closed 连接已关闭
+2026-02-22 17:50:49.9817-INFO String_Log_Closed 连接已关闭
+2026-02-22 17:50:50.0293-INFO String_Log_Failed oth.eve.mdt.qq.com
+2026-02-22 17:50:50.0293-INFO [错误]
+2026-02-22 17:50:50.0293-INFO [错误] 43.163.181.43:443
+2026-02-22 17:50:50.0449-INFO [错误] 43.154.240.21:8080
+2026-02-22 17:50:50.0594-INFO [错误] 14.22.9.53:80
+2026-02-22 17:50:50.0594-INFO [错误] 123.125.0.194:443
+2026-02-22 17:50:50.1850-INFO [信息] AppExitAsync End
+2026-02-22 17:50:50.1850-INFO [信息] OnExit
+2026-02-22 17:52:12.4134-INFO String_Log_Info Language changed to: zh-CN (简体中文)
+2026-02-22 17:52:12.4347-INFO [信息] v2rayN start up | v2rayN - V7.18.0 - X64 | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\ | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\v2rayN.exe | Microsoft Windows NT 10.0.19044.0
+2026-02-22 17:52:12.4566-INFO [信息] MigrateProfileExtraGroup: No items to migrate.
+2026-02-22 17:52:15.0049-INFO [信息] Setup Scheduled Tasks
+2026-02-22 17:52:15.7190-INFO [信息] Xray 26.1.23 (Xray, Penetrates Everything.) 0a42dba (go1.25.6 windows/amd64)
+2026-02-22 17:52:15.7190-INFO [信息] A unified platform for anti-censorship.
+2026-02-22 17:52:15.7312-INFO [信息] 2026/02/22 17:52:15.718506 [Info] infra/conf/serial: Reading config: &{Name:config.json Format:json}
+2026-02-22 17:52:15.7675-INFO [信息] 2026/02/22 17:52:15.766504 [Warning] core: Xray 26.1.23 started
+2026-02-22 17:52:16.3893-INFO String_Log_Accepted 16.384281
+2026-02-22 17:52:17.0720-INFO String_Log_Accepted 17.069033
+2026-02-22 17:52:17.3493-INFO String_Log_Accepted 17.348816
+2026-02-22 17:52:17.3493-INFO String_Log_Accepted 17.348816
+2026-02-22 17:52:19.1709-INFO String_Log_Accepted 19.170302
+2026-02-22 17:52:20.2610-INFO String_Log_Accepted 20.258079
+2026-02-22 17:52:20.5765-INFO String_Log_Accepted 20.574012
+2026-02-22 17:52:20.5765-INFO String_Log_Accepted 20.574567
+2026-02-22 17:52:20.5765-INFO String_Log_Accepted 20.574567
+2026-02-22 17:52:20.6814-INFO String_Log_Accepted 20.680867
+2026-02-22 17:52:20.6814-INFO String_Log_Accepted 20.680867
+2026-02-22 17:52:22.4466-INFO String_Log_Accepted 22.446053
+2026-02-22 17:52:22.4657-INFO String_Log_Accepted 22.465394
+2026-02-22 17:52:22.5591-INFO String_Log_Accepted 22.558717
+2026-02-22 17:52:22.5612-INFO String_Log_Accepted 22.560465
+2026-02-22 17:52:23.3183-INFO String_Log_Accepted 23.317400
+2026-02-22 17:52:24.3043-INFO String_Log_Accepted 24.303690
+2026-02-22 17:52:24.3662-INFO String_Log_Accepted 24.365838
+2026-02-22 17:52:24.4388-INFO String_Log_Accepted 24.438521
+2026-02-22 17:52:24.4388-INFO String_Log_Accepted 24.445581
+2026-02-22 17:52:24.6012-INFO String_Log_Accepted 24.600928
+2026-02-22 17:52:25.9925-INFO [Info] Language changed to: en-US (English)
+2026-02-22 17:52:26.1809-INFO Accepted 26.180805
+2026-02-22 17:52:26.2758-INFO Accepted 26.275660
+2026-02-22 17:52:26.3190-INFO Accepted 26.318428
+2026-02-22 17:52:26.3390-INFO Accepted 26.338745
+2026-02-22 17:52:28.0708-INFO Accepted 28.070377
+2026-02-22 17:52:28.1590-INFO Accepted 28.158907
+2026-02-22 17:52:28.1880-INFO Accepted 28.187799
+2026-02-22 17:52:28.2173-INFO Accepted 28.216907
+2026-02-22 17:52:29.9274-INFO Accepted 29.926918
+2026-02-22 17:52:30.0426-INFO Accepted 30.041986
+2026-02-22 17:52:30.0702-INFO Closed 1.87s
+2026-02-22 17:52:31.6791-INFO [信息] Language changed to: zh-CN (简体中文)
+2026-02-22 17:52:53.9063-INFO String_Log_Accepted 53.902219
+2026-02-22 17:52:56.6337-INFO String_Log_Accepted 56.633339
+2026-02-22 17:52:59.5311-INFO String_Log_Accepted 59.530533
+2026-02-22 17:53:00.1791-INFO String_Log_Accepted 00.178894
+2026-02-22 17:53:01.5349-INFO String_Log_Accepted 01.534684
+2026-02-22 17:53:02.1907-INFO String_Log_Accepted 02.189946
+2026-02-22 17:53:07.4873-INFO String_Log_Accepted 07.486984
+2026-02-22 17:53:09.7864-INFO String_Log_Accepted 09.785723
+2026-02-22 17:53:15.8196-INFO String_Log_Accepted 15.818955
+2026-02-22 17:53:16.5082-INFO [信息] AppExitAsync Begin
+2026-02-22 17:53:16.5909-INFO String_Log_Closed 56.33s
+2026-02-22 17:53:16.5909-INFO String_Log_Closed 17.5s
+2026-02-22 17:53:16.5909-INFO String_Log_Closed 16.40s
+2026-02-22 17:53:16.5909-INFO String_Log_Closed 22.68s
+2026-02-22 17:53:16.5909-INFO String_Log_Closed 56.1s
+2026-02-22 17:53:16.5909-INFO String_Log_Closed 53.27s
+2026-02-22 17:53:16.5909-INFO String_Log_Closed 连接已关闭
+2026-02-22 17:53:16.5909-INFO String_Log_Closed 14.40s
+2026-02-22 17:53:16.5909-INFO String_Log_Closed 15.5s
+2026-02-22 17:53:16.5909-INFO String_Log_Closed 6.80s
+2026-02-22 17:53:16.5909-INFO String_Log_Closed 9.10s
+2026-02-22 17:53:16.5909-INFO String_Log_Failed oth.eve.mdt.qq.com
+2026-02-22 17:53:16.5909-INFO [错误]
+2026-02-22 17:53:16.6162-INFO [错误] 43.163.181.201:80
+2026-02-22 17:53:16.6162-INFO [错误] 124.156.190.226:443
+2026-02-22 17:53:16.6247-INFO [错误] 183.47.103.84:8080
+2026-02-22 17:53:16.6247-INFO [错误] 111.206.149.85:443
+2026-02-22 17:53:16.6247-INFO [错误] 36.155.163.66:80
+2026-02-22 17:53:16.6467-INFO String_Log_Failed msfwifi.3g.qq.com
+2026-02-22 17:53:16.6467-INFO [错误]
+2026-02-22 17:53:16.7959-INFO [信息] AppExitAsync End
+2026-02-22 17:53:16.7959-INFO [信息] OnExit
+2026-02-22 17:54:53.3048-INFO [Info] Language changed to: zh-CN (简体中文)
+2026-02-22 17:54:53.3275-INFO [信息] v2rayN start up | v2rayN - V7.18.0 - X64 | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\ | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\v2rayN.exe | Microsoft Windows NT 10.0.19044.0
+2026-02-22 17:54:53.3479-INFO [信息] MigrateProfileExtraGroup: No items to migrate.
+2026-02-22 17:54:55.8761-INFO [信息] Setup Scheduled Tasks
+2026-02-22 17:54:56.5983-INFO [信息] Xray 26.1.23 (Xray, Penetrates Everything.) 0a42dba (go1.25.6 windows/amd64)
+2026-02-22 17:54:56.5983-INFO [信息] A unified platform for anti-censorship.
+2026-02-22 17:54:56.6110-INFO [信息] 2026/02/22 17:54:56.597697 [Info] infra/conf/serial: Reading config: &{Name:config.json Format:json}
+2026-02-22 17:54:56.6502-INFO [信息] 2026/02/22 17:54:56.649838 [Warning] core: Xray 26.1.23 started
+2026-02-22 17:54:57.5042-INFO [Accepted] 57.497884
+2026-02-22 17:54:57.9706-INFO [Accepted] 57.967545
+2026-02-22 17:54:58.4952-INFO [Accepted] 58.494688
+2026-02-22 17:54:58.4952-INFO [Accepted] 58.494688
+2026-02-22 17:54:59.0647-INFO [Accepted] 59.063961
+2026-02-22 17:54:59.7379-INFO [Accepted] 59.737296
+2026-02-22 17:54:59.7379-INFO [Accepted] 59.742307
+2026-02-22 17:55:00.1318-INFO [Accepted] 00.131384
+2026-02-22 17:55:00.4578-INFO [Accepted] 00.454963
+2026-02-22 17:55:00.4578-INFO [Accepted] 00.460486
+2026-02-22 17:55:00.4578-INFO [Accepted] 00.460486
+2026-02-22 17:55:00.5591-INFO [Accepted] 00.558344
+2026-02-22 17:55:00.5633-INFO [Accepted] 00.558853
+2026-02-22 17:55:01.1291-INFO [Accepted] 01.128356
+2026-02-22 17:55:02.3738-INFO [Accepted] 02.373338
+2026-02-22 17:55:02.3738-INFO [Accepted] 02.376712
+2026-02-22 17:55:02.3897-INFO [Accepted] 02.389452
+2026-02-22 17:55:02.4551-INFO [Accepted] 02.454702
+2026-02-22 17:55:02.4792-INFO [Accepted] 02.478651
+2026-02-22 17:55:04.2439-INFO [Accepted] 04.243510
+2026-02-22 17:55:04.2805-INFO [Accepted] 04.279896
+2026-02-22 17:55:04.3293-INFO [Accepted] 04.328774
+2026-02-22 17:55:04.3540-INFO [Accepted] 04.353769
+2026-02-22 17:55:04.3647-INFO [Accepted] 04.364249
+2026-02-22 17:55:04.3743-INFO [Closed] 1.88s
+2026-02-22 17:55:06.0956-INFO [Accepted] 06.094972
+2026-02-22 17:55:06.1736-INFO [Accepted] 06.173358
+2026-02-22 17:55:06.2173-INFO [Accepted] 06.216730
+2026-02-22 17:55:06.2173-INFO [Accepted] 06.218446
+2026-02-22 17:55:06.3052-INFO [Accepted] 06.304792
+2026-02-22 17:55:07.6030-INFO [Accepted] 07.602745
+2026-02-22 17:55:07.9939-INFO [Accepted] 07.993383
+2026-02-22 17:55:08.0784-INFO [Accepted] 08.077276
+2026-02-22 17:55:08.0930-INFO [Closed] 1.87s
+2026-02-22 17:55:08.0930-INFO [Accepted] 08.101198
+2026-02-22 17:55:08.1384-INFO [Accepted] 08.137744
+2026-02-22 17:55:09.3797-INFO [Accepted] 09.379356
+2026-02-22 17:55:09.3797-INFO [Accepted] 09.379356
+2026-02-22 17:55:09.8516-INFO [Accepted] 09.851015
+2026-02-22 17:55:09.9514-INFO [Accepted] 09.951160
+2026-02-22 17:55:11.8733-INFO [Accepted] 11.872216
+2026-02-22 17:55:18.1993-INFO [Accepted] 18.198607
+2026-02-22 17:55:26.4739-INFO [Accepted] 26.473273
+2026-02-22 17:55:36.5989-INFO [Accepted] 36.598718
+2026-02-22 17:55:36.8439-INFO [信息] AppExitAsync Begin
+2026-02-22 17:55:36.9329-INFO [Closed] 27.55s
+2026-02-22 17:55:36.9329-INFO [Closed] 30.62s
+2026-02-22 17:55:36.9329-INFO [Closed] 36.79s
+2026-02-22 17:55:36.9356-INFO [Closed] 连接已关闭
+2026-02-22 17:55:36.9356-INFO [Closed] 35.80s
+2026-02-22 17:55:36.9356-INFO [Closed] 32.60s
+2026-02-22 17:55:36.9356-INFO [Closed] 18.73s
+2026-02-22 17:55:36.9356-INFO [Closed] 27.55s
+2026-02-22 17:55:36.9356-INFO [Closed] 36.47s
+2026-02-22 17:55:36.9356-INFO [错误] 43.173.131.185:8081
+2026-02-22 17:55:36.9356-INFO [错误] 124.156.190.17:80
+2026-02-22 17:55:36.9356-INFO [错误] 43.173.131.185:8081
+2026-02-22 17:55:36.9356-INFO [错误] 43.173.131.185:8081
+2026-02-22 17:55:36.9575-INFO [错误] 43.173.131.185:8081
+2026-02-22 17:55:36.9575-INFO [错误] 43.173.131.185:8081
+2026-02-22 17:55:36.9575-INFO [错误] 43.135.106.161:80
+2026-02-22 17:55:36.9575-INFO [错误] 183.2.144.33:443
+2026-02-22 17:55:36.9575-INFO [错误] 43.173.131.185:8081
+2026-02-22 17:55:36.9575-INFO [错误] 43.173.131.185:8081
+2026-02-22 17:55:36.9575-INFO [错误] 43.173.131.185:8081
+2026-02-22 17:55:36.9575-INFO [错误] 220.194.118.236:14000
+2026-02-22 17:55:36.9683-INFO [错误] 43.173.131.185:8081
+2026-02-22 17:55:36.9683-INFO [错误] 43.173.131.185:8081
+2026-02-22 17:55:36.9683-INFO [错误] 36.155.166.28:8080
+2026-02-22 17:55:36.9683-INFO [错误] 43.173.131.185:8081
+2026-02-22 17:55:36.9683-INFO [错误] 43.173.131.185:8081
+2026-02-22 17:55:36.9827-INFO [Failed] msfwifi.3g.qq.com
+2026-02-22 17:55:36.9827-INFO [错误]
+2026-02-22 17:55:37.1483-INFO [信息] AppExitAsync End
+2026-02-22 17:55:37.1483-INFO [信息] OnExit
+2026-02-22 17:56:30.3785-INFO [Info] Language changed to: zh-CN (简体中文)
+2026-02-22 17:56:30.3944-INFO [信息] v2rayN start up | v2rayN - V7.18.0 - X64 | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\ | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\v2rayN.exe | Microsoft Windows NT 10.0.19044.0
+2026-02-22 17:56:30.4221-INFO [信息] MigrateProfileExtraGroup: No items to migrate.
+2026-02-22 17:56:33.1295-INFO [信息] Setup Scheduled Tasks
+2026-02-22 17:56:33.8386-INFO [信息] Xray 26.1.23 (Xray, Penetrates Everything.) 0a42dba (go1.25.6 windows/amd64)
+2026-02-22 17:56:33.8386-INFO [信息] A unified platform for anti-censorship.
+2026-02-22 17:56:33.8512-INFO [信息] 2026/02/22 17:56:33.837864 [Info] infra/conf/serial: Reading config: &{Name:config.json Format:json}
+2026-02-22 17:56:33.9403-INFO [信息] 2026/02/22 17:56:33.940110 [Warning] core: Xray 26.1.23 started
+2026-02-22 17:56:34.5644-INFO [Accepted] 34.560089
+2026-02-22 17:56:35.2076-INFO [Accepted] 35.204838
+2026-02-22 17:56:35.5202-INFO [Accepted] 35.519643
+2026-02-22 17:56:35.5202-INFO [Accepted] 35.520040
+2026-02-22 17:56:35.5202-INFO [Accepted] 35.520550
+2026-02-22 17:56:35.5202-INFO [Accepted] 35.520550
+2026-02-22 17:56:35.5202-INFO [Accepted] 35.520550
+2026-02-22 17:56:36.6058-INFO [Accepted] 36.605324
+2026-02-22 17:56:36.7216-INFO [Accepted] 36.721277
+2026-02-22 17:56:36.9211-INFO [Accepted] 36.920796
+2026-02-22 17:56:36.9211-INFO [Accepted] 36.920796
+2026-02-22 17:56:36.9211-INFO [Accepted] 36.921330
+2026-02-22 17:56:37.0273-INFO [Accepted] 37.026888
+2026-02-22 17:56:37.4448-INFO [Accepted] 37.444453
+2026-02-22 17:56:38.1357-INFO [Accepted] 38.135130
+2026-02-22 17:56:38.8097-INFO [Accepted] 38.806893
+2026-02-22 17:56:38.8097-INFO [Accepted] 38.806994
+2026-02-22 17:56:38.8097-INFO [Closed] 1.88s
+2026-02-22 17:56:38.9173-INFO [Accepted] 38.916558
+2026-02-22 17:56:39.2125-INFO [Accepted] 39.211793
+2026-02-22 17:56:39.3579-INFO [Accepted] 39.357141
+2026-02-22 17:56:40.7070-INFO [Accepted] 40.706376
+2026-02-22 17:56:40.7070-INFO [Accepted] 40.712640
+2026-02-22 17:56:40.8109-INFO [Accepted] 40.810676
+2026-02-22 17:56:41.2314-INFO [Accepted] 41.231018
+2026-02-22 17:56:42.6108-INFO [Accepted] 42.606686
+2026-02-22 17:56:42.6229-INFO [Accepted] 42.622363
+2026-02-22 17:56:42.6685-INFO [Accepted] 42.667873
+2026-02-22 17:56:43.0966-INFO [Accepted] 43.095922
+2026-02-22 17:56:44.1458-INFO [Accepted] 44.145378
+2026-02-22 17:56:44.4946-INFO [Accepted] 44.493885
+2026-02-22 17:56:44.5252-INFO [Accepted] 44.524677
+2026-02-22 17:56:44.5326-INFO [Accepted] 44.532048
+2026-02-22 17:56:44.9958-INFO [Accepted] 44.995220
+2026-02-22 17:56:46.3536-INFO [Closed] 1.85s
+2026-02-22 17:56:58.2210-INFO [Accepted] 58.220525
+2026-02-22 17:56:58.2210-INFO [Accepted] 58.221119
+2026-02-22 17:57:09.7384-INFO [Accepted] 09.737895
+2026-02-22 17:57:11.6493-INFO [Info] Language changed to: en-US (English)
+2026-02-22 17:57:14.4956-INFO Accepted 14.495233
+2026-02-22 17:57:16.1204-INFO Accepted 16.119858
+2026-02-22 17:57:45.0629-INFO [信息] Language changed to: zh-CN (简体中文)
+2026-02-22 17:57:55.5218-INFO [Accepted] 55.519282
+2026-02-22 17:58:11.2511-INFO [Accepted] 11.250328
+2026-02-22 17:58:18.5956-INFO [Accepted] 18.595145
+2026-02-22 17:58:19.4705-INFO [Accepted] 19.470197
+2026-02-22 17:58:29.7182-INFO [Accepted] 29.717780
+2026-02-22 17:58:51.9199-INFO [Info] Language changed to: en-US (English)
+2026-02-22 17:58:56.6738-INFO Accepted 56.673544
+2026-02-22 17:59:07.6305-INFO Accepted 07.630294
+2026-02-22 17:59:13.5893-INFO Accepted 13.588681
+2026-02-22 17:59:13.6054-INFO Accepted 13.605104
+2026-02-22 17:59:13.7872-INFO Accepted 13.786887
+2026-02-22 17:59:13.7986-INFO Accepted 13.798116
+2026-02-22 17:59:13.9812-INFO Accepted 13.980793
+2026-02-22 17:59:13.9907-INFO Accepted 13.990529
+2026-02-22 17:59:14.1765-INFO Accepted 14.176396
+2026-02-22 17:59:14.3267-INFO Accepted 14.326440
+2026-02-22 17:59:14.3708-INFO Accepted 14.370748
+2026-02-22 17:59:17.0273-INFO Accepted 17.026943
+2026-02-22 17:59:18.4674-INFO [Info] AppExitAsync Begin
+2026-02-22 17:59:18.5470-INFO Closed 连接已关闭
+2026-02-22 17:59:18.5470-INFO Closed 4.94s
+2026-02-22 17:59:18.5470-INFO Closed 连接已关闭
+2026-02-22 17:59:18.5470-INFO Closed 连接已关闭
+2026-02-22 17:59:18.5470-INFO Closed 4.96s
+2026-02-22 17:59:18.5470-INFO Closed 连接已关闭
+2026-02-22 17:59:18.5470-INFO Closed 连接已关闭
+2026-02-22 17:59:18.5470-INFO Closed 连接已关闭
+2026-02-22 17:59:18.5470-INFO Closed 连接已关闭
+2026-02-22 17:59:18.5470-INFO Closed 10.92s
+2026-02-22 17:59:18.5470-INFO Closed 1.52s
+2026-02-22 17:59:18.5470-INFO Failed oth.eve.mdt.qq.com
+2026-02-22 17:59:18.5470-INFO [Error]
+2026-02-22 17:59:18.5631-INFO [Error] 43.163.181.201:14000
+2026-02-22 17:59:18.5631-INFO [Error] 43.163.180.5:14000
+2026-02-22 17:59:18.5631-INFO [Error] 123.125.0.195:8080
+2026-02-22 17:59:18.5631-INFO [Error] 36.155.163.66:443
+2026-02-22 17:59:18.5831-INFO Failed msfwifi.3g.qq.com
+2026-02-22 17:59:18.5831-INFO [Error]
+2026-02-22 17:59:18.7830-INFO [Info] AppExitAsync End
+2026-02-22 17:59:18.7830-INFO [Info] OnExit
+2026-02-22 18:00:24.9061-INFO [Info] Language changed to: en-US (English)
+2026-02-22 18:00:24.9221-INFO [Info] v2rayN start up | v2rayN - V7.18.0 - X64 | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\ | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\v2rayN.exe | Microsoft Windows NT 10.0.19044.0
+2026-02-22 18:00:24.9521-INFO [Info] MigrateProfileExtraGroup: No items to migrate.
+2026-02-22 18:00:27.6907-INFO [Info] Setup Scheduled Tasks
+2026-02-22 18:00:28.4233-INFO [Info] Xray 26.1.23 (Xray, Penetrates Everything.) 0a42dba (go1.25.6 windows/amd64)
+2026-02-22 18:00:28.4233-INFO [Info] A unified platform for anti-censorship.
+2026-02-22 18:00:28.4356-INFO [Info] 2026/02/22 18:00:28.422630 [Info] infra/conf/serial: Reading config: &{Name:config.json Format:json}
+2026-02-22 18:00:28.4720-INFO [Info] 2026/02/22 18:00:28.471264 [Warning] core: Xray 26.1.23 started
+2026-02-22 18:00:29.5642-INFO Accepted 29.561008
+2026-02-22 18:00:29.8030-INFO Accepted 29.802805
+2026-02-22 18:00:30.5780-INFO Accepted 30.577515
+2026-02-22 18:00:30.5780-INFO Accepted 30.579141
+2026-02-22 18:00:31.9528-INFO Accepted 31.952228
+2026-02-22 18:00:33.0409-INFO Accepted 33.040207
+2026-02-22 18:00:33.3481-INFO Accepted 33.347870
+2026-02-22 18:00:33.3481-INFO Accepted 33.348943
+2026-02-22 18:00:33.3481-INFO Accepted 33.348943
+2026-02-22 18:00:33.4537-INFO Accepted 33.453335
+2026-02-22 18:00:33.4537-INFO Accepted 33.453335
+2026-02-22 18:00:34.5436-INFO Accepted 34.542970
+2026-02-22 18:00:35.1883-INFO Accepted 35.188085
+2026-02-22 18:00:35.2590-INFO Accepted 35.258886
+2026-02-22 18:00:35.2662-INFO Closed 1.90s
+2026-02-22 18:00:35.3403-INFO Accepted 35.339850
+2026-02-22 18:00:35.3403-INFO Closed 1.89s
+2026-02-22 18:00:35.3403-INFO Accepted 35.350942
+2026-02-22 18:00:35.3797-INFO Accepted 35.379362
+2026-02-22 18:00:37.1555-INFO Accepted 37.152102
+2026-02-22 18:00:37.1996-INFO [信息] Language changed to: zh-CN (简体中文)
+2026-02-22 18:00:37.2289-INFO [Closed] 1.88s
+2026-02-22 18:00:37.2289-INFO [Accepted] 37.230252
+2026-02-22 18:00:37.2764-INFO [Accepted] 37.275609
+2026-02-22 18:00:37.3744-INFO [Accepted] 37.374152
+2026-02-22 18:00:39.1509-INFO [Accepted] 39.148465
+2026-02-22 18:00:39.1509-INFO [Accepted] 39.148465
+2026-02-22 18:00:39.3223-INFO [Accepted] 39.322083
+2026-02-22 18:00:39.4716-INFO [Accepted] 39.470847
+2026-02-22 18:00:41.2925-INFO [Accepted] 41.291907
+2026-02-22 18:00:41.4559-INFO [Accepted] 41.452945
+2026-02-22 18:00:42.1660-INFO [Accepted] 42.165370
+2026-02-22 18:00:42.6055-INFO [Accepted] 42.604712
+2026-02-22 18:00:43.1970-INFO [Accepted] 43.196682
+2026-02-22 18:00:44.3698-INFO [Accepted] 44.369459
+2026-02-22 18:00:44.3729-INFO [Accepted] 44.369459
+2026-02-22 18:00:55.0346-INFO [Accepted] 55.034417
+2026-02-22 18:01:01.5422-INFO [Accepted] 01.541300
+2026-02-22 18:01:03.0993-INFO [Accepted] 03.098795
+2026-02-22 18:01:10.1695-INFO [Accepted] 10.168933
+2026-02-22 18:01:11.4556-INFO [Accepted] 11.454926
+2026-02-22 18:01:13.3296-INFO [Accepted] 13.329138
+2026-02-22 18:01:13.6437-INFO [信息] AppExitAsync Begin
+2026-02-22 18:01:13.7333-INFO [Closed] 2.27s
+2026-02-22 18:01:13.7333-INFO [Failed] oth.eve.mdt.qq.com
+2026-02-22 18:01:13.7333-INFO [错误]
+2026-02-22 18:01:13.7333-INFO [Closed] 连接已关闭
+2026-02-22 18:01:13.7333-INFO [Closed] 40.39s
+2026-02-22 18:01:13.7333-INFO [错误] 23.210.216.165:443
+2026-02-22 18:01:13.7333-INFO [Closed] 39.19s
+2026-02-22 18:01:13.7333-INFO [Closed] 29.36s
+2026-02-22 18:01:13.7333-INFO [Closed] 29.36s
+2026-02-22 18:01:13.7333-INFO [Closed] 40.69s
+2026-02-22 18:01:13.7333-INFO [Closed] 18.70s
+2026-02-22 18:01:13.7333-INFO [Closed] 3.57s
+2026-02-22 18:01:13.7333-INFO [Closed] 12.19s
+2026-02-22 18:01:13.7333-INFO [错误] 23.210.216.165:443
+2026-02-22 18:01:13.7498-INFO [错误] 43.154.240.21:80
+2026-02-22 18:01:13.7498-INFO [错误] 183.2.134.190:14000
+2026-02-22 18:01:13.7498-INFO [错误] 116.130.229.191:8080
+2026-02-22 18:01:13.7650-INFO [错误] 36.155.245.16:80
+2026-02-22 18:01:13.7650-INFO [Failed] msfwifi.3g.qq.com
+2026-02-22 18:01:13.7786-INFO [错误]
+2026-02-22 18:01:13.9368-INFO [信息] AppExitAsync End
+2026-02-22 18:01:13.9368-INFO [信息] OnExit
+2026-02-22 18:04:52.9895-INFO [Info] Language changed to: zh-CN (简体中文)
+2026-02-22 18:04:53.0209-INFO [信息] v2rayN start up | v2rayN - V7.18.0 - X64 | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\ | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\v2rayN.exe | Microsoft Windows NT 10.0.19044.0
+2026-02-22 18:04:53.0466-INFO [信息] MigrateProfileExtraGroup: No items to migrate.
+2026-02-22 18:04:55.9775-INFO [信息] Setup Scheduled Tasks
+2026-02-22 18:04:56.8353-INFO [信息] Xray 26.1.23 (Xray, Penetrates Everything.) 0a42dba (go1.25.6 windows/amd64)
+2026-02-22 18:04:56.8353-INFO [信息] A unified platform for anti-censorship.
+2026-02-22 18:04:56.8508-INFO [信息] 2026/02/22 18:04:56.834414 [Info] infra/conf/serial: Reading config: &{Name:config.json Format:json}
+2026-02-22 18:04:56.8986-INFO [信息] 2026/02/22 18:04:56.898176 [Warning] core: Xray 26.1.23 started
+2026-02-22 18:04:57.8000-INFO [Accepted] 57.792443
+2026-02-22 18:04:58.2109-INFO [Accepted] 58.210332
+2026-02-22 18:04:58.8160-INFO [Accepted] 58.812264
+2026-02-22 18:04:58.8160-INFO [Accepted] 58.812264
+2026-02-22 18:04:58.8160-INFO [Accepted] 58.812264
+2026-02-22 18:04:59.7359-INFO [Accepted] 59.735161
+2026-02-22 18:04:59.9434-INFO [Accepted] 59.937120
+2026-02-22 18:05:00.1260-INFO [Accepted] 00.125765
+2026-02-22 18:05:00.2469-INFO [Accepted] 00.246127
+2026-02-22 18:05:00.2469-INFO [Accepted] 00.246775
+2026-02-22 18:05:00.2469-INFO [Accepted] 00.247624
+2026-02-22 18:05:00.3496-INFO [Accepted] 00.348826
+2026-02-22 18:05:00.7143-INFO [Accepted] 00.713810
+2026-02-22 18:05:01.4855-INFO [Accepted] 01.482178
+2026-02-22 18:05:02.1362-INFO [Accepted] 02.135869
+2026-02-22 18:05:02.1806-INFO [Accepted] 02.180179
+2026-02-22 18:05:02.5472-INFO [Accepted] 02.546551
+2026-02-22 18:05:02.5977-INFO [Accepted] 02.597216
+2026-02-22 18:05:02.8756-INFO [信息] AppExitAsync Begin
+2026-02-22 18:05:03.0171-INFO [Closed] 连接已关闭
+2026-02-22 18:05:03.0171-INFO [Closed] 3.2s
+2026-02-22 18:05:03.0171-INFO [Closed] 连接已关闭
+2026-02-22 18:05:03.0171-INFO [Closed] 1.48s
+2026-02-22 18:05:03.0171-INFO [Closed] 2.72s
+2026-02-22 18:05:03.0171-INFO [Closed] 连接已关闭
+2026-02-22 18:05:03.0171-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:05:03.0171-INFO [Closed] 连接已关闭
+2026-02-22 18:05:03.0171-INFO [错误] 23.210.216.165:443
+2026-02-22 18:05:03.0171-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:05:03.0171-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:05:03.0290-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:05:03.0290-INFO [Closed] 2.62s
+2026-02-22 18:05:03.0290-INFO [错误] 23.210.216.165:443
+2026-02-22 18:05:03.0290-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:05:03.0290-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:05:03.0290-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:05:03.0290-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:05:03.0290-INFO [错误] 183.2.144.33:14000
+2026-02-22 18:05:03.0290-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:05:03.0290-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:05:03.0290-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:05:03.0290-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:05:03.0290-INFO [错误] 117.62.242.155:14000
+2026-02-22 18:05:03.0290-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:05:03.0290-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:05:03.0290-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:05:03.0290-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:05:03.0290-INFO [错误] 183.47.99.24:80
+2026-02-22 18:05:03.0290-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:05:03.0290-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:05:03.0290-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:05:03.0290-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:05:03.0290-INFO [错误] 42.81.184.206:14000
+2026-02-22 18:05:03.0290-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:05:03.0290-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:05:03.0290-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:05:03.0290-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:05:03.0290-INFO [错误] 180.109.192.57:14000
+2026-02-22 18:05:03.0290-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:05:03.0290-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:05:03.0290-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:05:03.0290-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:05:03.0290-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:05:03.0290-INFO [错误] 183.2.134.190:8080
+2026-02-22 18:05:03.0290-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:05:03.0290-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:05:03.0290-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:05:03.0290-INFO [错误] 42.81.179.212:443
+2026-02-22 18:05:03.0290-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:05:03.0290-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:05:03.0290-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:05:03.0290-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:05:03.0290-INFO [错误] 121.229.94.199:8080
+2026-02-22 18:05:03.0454-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:05:03.0454-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:05:03.0454-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:05:03.0454-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:05:03.0454-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:05:03.0454-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:05:03.0454-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:05:03.0454-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:05:03.0454-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:05:03.0454-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:05:03.0594-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:05:03.0594-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:05:03.0594-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:05:03.0594-INFO [Failed] msfwifi.3g.qq.com
+2026-02-22 18:05:03.0594-INFO [错误]
+2026-02-22 18:05:03.1821-INFO [信息] AppExitAsync End
+2026-02-22 18:05:03.1821-INFO [信息] OnExit
+2026-02-22 18:07:40.4052-INFO [Info] Language changed to: zh-CN (简体中文)
+2026-02-22 18:07:40.4226-INFO [信息] v2rayN start up | v2rayN - V7.18.0 - X64 | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\ | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\v2rayN.exe | Microsoft Windows NT 10.0.19044.0
+2026-02-22 18:07:40.4538-INFO [信息] MigrateProfileExtraGroup: No items to migrate.
+2026-02-22 18:07:43.5648-INFO [信息] Setup Scheduled Tasks
+2026-02-22 18:07:44.3841-INFO [信息] Xray 26.1.23 (Xray, Penetrates Everything.) 0a42dba (go1.25.6 windows/amd64)
+2026-02-22 18:07:44.3841-INFO [信息] A unified platform for anti-censorship.
+2026-02-22 18:07:44.3968-INFO [信息] 2026/02/22 18:07:44.383519 [Info] infra/conf/serial: Reading config: &{Name:config.json Format:json}
+2026-02-22 18:07:44.4633-INFO [信息] 2026/02/22 18:07:44.463090 [Warning] core: Xray 26.1.23 started
+2026-02-22 18:07:45.3271-INFO [Accepted] 45.321841
+2026-02-22 18:07:45.8391-INFO [Accepted] 45.836617
+2026-02-22 18:07:46.3449-INFO [Accepted] 46.344448
+2026-02-22 18:07:46.3449-INFO [Accepted] 46.344448
+2026-02-22 18:07:46.3449-INFO [Accepted] 46.344958
+2026-02-22 18:07:47.4621-INFO [Accepted] 47.461384
+2026-02-22 18:07:47.7267-INFO [Accepted] 47.726068
+2026-02-22 18:07:47.7714-INFO [Accepted] 47.770721
+2026-02-22 18:07:47.7714-INFO [Accepted] 47.770721
+2026-02-22 18:07:47.7714-INFO [Accepted] 47.771820
+2026-02-22 18:07:47.8731-INFO [Accepted] 47.872320
+2026-02-22 18:07:48.2403-INFO [Accepted] 48.239925
+2026-02-22 18:07:49.0388-INFO [Accepted] 49.035349
+2026-02-22 18:07:49.6733-INFO [Accepted] 49.670404
+2026-02-22 18:07:49.6733-INFO [Accepted] 49.681290
+2026-02-22 18:07:49.6733-INFO [Closed] 1.89s
+2026-02-22 18:07:49.7420-INFO [Accepted] 49.741496
+2026-02-22 18:07:49.7699-INFO [Accepted] 49.769314
+2026-02-22 18:07:50.1254-INFO [Accepted] 50.124617
+2026-02-22 18:07:50.4395-INFO [Accepted] 50.439089
+2026-02-22 18:07:51.5325-INFO [Accepted] 51.531915
+2026-02-22 18:07:51.5734-INFO [Accepted] 51.573111
+2026-02-22 18:07:51.6527-INFO [Accepted] 51.652270
+2026-02-22 18:07:51.8562-INFO [Accepted] 51.855860
+2026-02-22 18:07:52.0210-INFO [Accepted] 52.020276
+2026-02-22 18:07:53.3875-INFO [Accepted] 53.386782
+2026-02-22 18:07:53.3875-INFO [Accepted] 53.387379
+2026-02-22 18:07:53.4182-INFO [Accepted] 53.417615
+2026-02-22 18:07:53.4809-INFO [Accepted] 53.480527
+2026-02-22 18:07:53.5594-INFO [Accepted] 53.559029
+2026-02-22 18:07:53.9039-INFO [Accepted] 53.903421
+2026-02-22 18:07:55.3352-INFO [Accepted] 55.334479
+2026-02-22 18:07:55.3573-INFO [Accepted] 55.356661
+2026-02-22 18:07:55.4221-INFO [Accepted] 55.421828
+2026-02-22 18:07:55.4568-INFO [Accepted] 55.456263
+2026-02-22 18:07:55.7749-INFO [Accepted] 55.774459
+2026-02-22 18:07:57.4186-INFO [Accepted] 57.418356
+2026-02-22 18:07:59.7011-INFO [Info] Language changed to: en-US (English)
+2026-02-22 18:08:03.8928-INFO [信息] Language changed to: zh-CN (简体中文)
+2026-02-22 18:08:04.8148-INFO [Accepted] 04.814303
+2026-02-22 18:08:21.5964-INFO [Accepted] 21.596183
+2026-02-22 18:08:21.6398-INFO [Accepted] 21.639565
+2026-02-22 18:08:21.6542-INFO [Accepted] 21.653690
+2026-02-22 18:08:21.6542-INFO [Accepted] 21.654225
+2026-02-22 18:08:21.6710-INFO [Accepted] 21.670892
+2026-02-22 18:08:21.6710-INFO [Accepted] 21.671892
+2026-02-22 18:08:21.6974-INFO [Accepted] 21.696695
+2026-02-22 18:08:21.7352-INFO [Accepted] 21.734587
+2026-02-22 18:08:21.7611-INFO [Accepted] 21.760754
+2026-02-22 18:08:21.8020-INFO [Accepted] 21.801278
+2026-02-22 18:08:21.8545-INFO [Accepted] 21.853966
+2026-02-22 18:08:21.9451-INFO [Accepted] 21.944793
+2026-02-22 18:08:21.9451-INFO [Accepted] 21.944793
+2026-02-22 18:08:22.0573-INFO [Accepted] 22.056890
+2026-02-22 18:08:22.0573-INFO [Accepted] 22.057530
+2026-02-22 18:08:22.0573-INFO [Accepted] 22.058261
+2026-02-22 18:08:22.0573-INFO [Accepted] 22.058780
+2026-02-22 18:08:22.0610-INFO [Accepted] 22.060620
+2026-02-22 18:08:22.1564-INFO [Accepted] 22.155958
+2026-02-22 18:08:22.1564-INFO [Accepted] 22.155958
+2026-02-22 18:08:22.1736-INFO [Accepted] 22.173183
+2026-02-22 18:08:22.1736-INFO [Accepted] 22.173780
+2026-02-22 18:08:22.1736-INFO [Accepted] 22.174313
+2026-02-22 18:08:22.6703-INFO [Accepted] 22.669999
+2026-02-22 18:08:22.8536-INFO [Accepted] 22.853049
+2026-02-22 18:08:22.8707-INFO [Accepted] 22.870477
+2026-02-22 18:08:26.3079-INFO [Accepted] 26.307427
+2026-02-22 18:08:26.9365-INFO [Accepted] 26.936079
+2026-02-22 18:08:26.9365-INFO [Accepted] 26.937401
+2026-02-22 18:08:26.9365-INFO [Accepted] 26.937401
+2026-02-22 18:08:26.9644-INFO [Accepted] 26.964115
+2026-02-22 18:08:27.0435-INFO [Accepted] 27.043108
+2026-02-22 18:08:27.0439-INFO [Accepted] 27.043652
+2026-02-22 18:08:27.0439-INFO [Accepted] 27.044224
+2026-02-22 18:08:27.0439-INFO [Accepted] 27.045017
+2026-02-22 18:08:27.1325-INFO [Accepted] 27.131981
+2026-02-22 18:08:27.1325-INFO [Accepted] 27.131981
+2026-02-22 18:08:27.2190-INFO [Accepted] 27.218724
+2026-02-22 18:08:27.2190-INFO [Accepted] 27.218724
+2026-02-22 18:08:27.4466-INFO [Accepted] 27.446314
+2026-02-22 18:08:28.9406-INFO [Accepted] 28.940203
+2026-02-22 18:08:28.9406-INFO [Accepted] 28.940203
+2026-02-22 18:08:36.9833-INFO [Accepted] 36.982731
+2026-02-22 18:08:43.2157-INFO [Accepted] 43.215452
+2026-02-22 18:08:45.0764-INFO [Accepted] 45.076260
+2026-02-22 18:08:45.2412-INFO [Accepted] 45.240992
+2026-02-22 18:08:45.2664-INFO [Accepted] 45.266182
+2026-02-22 18:08:46.2760-INFO [Accepted] 46.275785
+2026-02-22 18:08:47.4581-INFO [Accepted] 47.457970
+2026-02-22 18:08:47.4581-INFO [Accepted] 47.457993
+2026-02-22 18:08:47.4581-INFO [Accepted] 47.459626
+2026-02-22 18:08:47.6304-INFO [Accepted] 47.629768
+2026-02-22 18:08:47.6304-INFO [Accepted] 47.630838
+2026-02-22 18:08:47.6304-INFO [Accepted] 47.634725
+2026-02-22 18:08:47.6304-INFO [Accepted] 47.635289
+2026-02-22 18:08:47.6304-INFO [Accepted] 47.635289
+2026-02-22 18:08:47.6549-INFO [Accepted] 47.654401
+2026-02-22 18:08:48.0054-INFO [Accepted] 48.005138
+2026-02-22 18:08:48.3329-INFO [Accepted] 48.332717
+2026-02-22 18:08:48.4149-INFO [Accepted] 48.414547
+2026-02-22 18:08:51.2457-INFO [Accepted] 51.245342
+2026-02-22 18:08:56.9847-INFO [Accepted] 56.984512
+2026-02-22 18:08:57.3994-INFO [Accepted] 57.398711
+2026-02-22 18:09:02.7579-INFO [Accepted] 02.757411
+2026-02-22 18:09:11.0619-INFO [Accepted] 11.061659
+2026-02-22 18:09:26.8842-INFO [Accepted] 26.883884
+2026-02-22 18:09:27.0774-INFO [Accepted] 27.076729
+2026-02-22 18:09:30.2208-INFO [Accepted] 30.220495
+2026-02-22 18:09:46.7320-INFO [Accepted] 46.731503
+2026-02-22 18:09:46.7645-INFO [Accepted] 46.764420
+2026-02-22 18:09:46.9419-INFO [Accepted] 46.941400
+2026-02-22 18:09:46.9586-INFO [Accepted] 46.957970
+2026-02-22 18:09:47.1421-INFO [Accepted] 47.141700
+2026-02-22 18:09:47.1421-INFO [Accepted] 47.151924
+2026-02-22 18:09:47.3854-INFO [Accepted] 47.384889
+2026-02-22 18:09:47.3882-INFO [Accepted] 47.388013
+2026-02-22 18:09:47.5975-INFO [Accepted] 47.596965
+2026-02-22 18:09:47.7458-INFO [Accepted] 47.745537
+2026-02-22 18:09:48.2041-INFO [Accepted] 48.203578
+2026-02-22 18:09:56.3720-INFO [Accepted] 56.371577
+2026-02-22 18:10:08.5085-INFO [Accepted] 08.507993
+2026-02-22 18:10:16.9321-INFO [信息] AppExitAsync Begin
+2026-02-22 18:10:17.0048-INFO [Closed] 连接已关闭
+2026-02-22 18:10:17.0048-INFO [Closed] 连接已关闭
+2026-02-22 18:10:17.0048-INFO [Closed] 连接已关闭
+2026-02-22 18:10:17.0048-INFO [Closed] 连接已关闭
+2026-02-22 18:10:17.0048-INFO [Closed] 连接已关闭
+2026-02-22 18:10:17.0048-INFO [Closed] 连接已关闭
+2026-02-22 18:10:17.0048-INFO [Closed] 连接已关闭
+2026-02-22 18:10:17.0048-INFO [Closed] 连接已关闭
+2026-02-22 18:10:17.0048-INFO [Closed] 连接已关闭
+2026-02-22 18:10:17.0048-INFO [Closed] 连接已关闭
+2026-02-22 18:10:17.0048-INFO [Closed] 连接已关闭
+2026-02-22 18:10:17.0048-INFO [Closed] 连接已关闭
+2026-02-22 18:10:17.0048-INFO [Closed] 连接已关闭
+2026-02-22 18:10:17.0048-INFO [Closed] 连接已关闭
+2026-02-22 18:10:17.0048-INFO [Closed] 50.12s
+2026-02-22 18:10:17.0048-INFO [Closed] 连接已关闭
+2026-02-22 18:10:17.0048-INFO [Closed] 49.93s
+2026-02-22 18:10:17.0048-INFO [Closed] 连接已关闭
+2026-02-22 18:10:17.0048-INFO [Closed] 连接已关闭
+2026-02-22 18:10:17.0048-INFO [Closed] 连接已关闭
+2026-02-22 18:10:17.0048-INFO [Closed] 连接已关闭
+2026-02-22 18:10:17.0048-INFO [Closed] 连接已关闭
+2026-02-22 18:10:17.0048-INFO [Closed] 连接已关闭
+2026-02-22 18:10:17.0048-INFO [Closed] 连接已关闭
+2026-02-22 18:10:17.0048-INFO [Closed] 连接已关闭
+2026-02-22 18:10:17.0048-INFO [Closed] 连接已关闭
+2026-02-22 18:10:17.0048-INFO [Closed] 连接已关闭
+2026-02-22 18:10:17.0048-INFO [Closed] 连接已关闭
+2026-02-22 18:10:17.0048-INFO [Closed] 连接已关闭
+2026-02-22 18:10:17.0048-INFO [Closed] 连接已关闭
+2026-02-22 18:10:17.0048-INFO [Closed] 连接已关闭
+2026-02-22 18:10:17.0048-INFO [Closed] 46.78s
+2026-02-22 18:10:17.0048-INFO [Closed] 连接已关闭
+2026-02-22 18:10:17.0048-INFO [Failed] oth.eve.mdt.qq.com
+2026-02-22 18:10:17.0048-INFO [错误]
+2026-02-22 18:10:17.0179-INFO [错误] 43.163.178.177:8080
+2026-02-22 18:10:17.0179-INFO [错误] 43.154.240.13:443
+2026-02-22 18:10:17.0283-INFO [错误] 14.22.9.53:443
+2026-02-22 18:10:17.0283-INFO [错误] 111.206.149.85:80
+2026-02-22 18:10:17.0283-INFO [错误] 36.155.187.225:80
+2026-02-22 18:10:17.0455-INFO [Failed] msfwifi.3g.qq.com
+2026-02-22 18:10:17.0455-INFO [错误]
+2026-02-22 18:10:17.2156-INFO [信息] AppExitAsync End
+2026-02-22 18:10:17.2156-INFO [信息] OnExit
+2026-02-22 18:20:12.8263-INFO [Info] Language changed to: zh-CN (简体中文)
+2026-02-22 18:20:12.8421-INFO [信息] Key='String_Log_Accepted', Found=True, Value='[已接受]'
+2026-02-22 18:20:12.8421-INFO [信息] Key='String_Log_Closed', Found=True, Value='[已关闭]'
+2026-02-22 18:20:12.8421-INFO [信息] Key='String_Log_Info', Found=True, Value='[信息]'
+2026-02-22 18:20:22.6635-INFO [信息] v2rayN start up | v2rayN - V7.18.0 - X64 | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\ | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\v2rayN.exe | Microsoft Windows NT 10.0.19044.0
+2026-02-22 18:20:22.6927-INFO [信息] MigrateProfileExtraGroup: No items to migrate.
+2026-02-22 18:20:25.4402-INFO [信息] Setup Scheduled Tasks
+2026-02-22 18:20:26.1677-INFO [信息] Xray 26.1.23 (Xray, Penetrates Everything.) 0a42dba (go1.25.6 windows/amd64)
+2026-02-22 18:20:26.1677-INFO [信息] A unified platform for anti-censorship.
+2026-02-22 18:20:26.1795-INFO [信息] 2026/02/22 18:20:26.166819 [Info] infra/conf/serial: Reading config: &{Name:config.json Format:json}
+2026-02-22 18:20:26.2159-INFO [信息] 2026/02/22 18:20:26.215300 [Warning] core: Xray 26.1.23 started
+2026-02-22 18:20:27.0834-INFO [已接受] 27.079020
+2026-02-22 18:20:27.5272-INFO [已接受] 27.526923
+2026-02-22 18:20:28.0761-INFO [已接受] 28.075713
+2026-02-22 18:20:28.0761-INFO [已接受] 28.075713
+2026-02-22 18:20:28.6804-INFO [已接受] 28.680072
+2026-02-22 18:20:29.3748-INFO [已接受] 29.374256
+2026-02-22 18:20:29.7439-INFO [已接受] 29.743731
+2026-02-22 18:20:29.7439-INFO [已接受] 29.745926
+2026-02-22 18:20:30.0591-INFO [已接受] 30.058801
+2026-02-22 18:20:30.0635-INFO [已接受] 30.063110
+2026-02-22 18:20:30.0635-INFO [已接受] 30.063110
+2026-02-22 18:20:30.1641-INFO [已接受] 30.163507
+2026-02-22 18:20:30.1641-INFO [已接受] 30.164049
+2026-02-22 18:20:30.6440-INFO [已接受] 30.643727
+2026-02-22 18:20:31.7158-INFO [已接受] 31.715429
+2026-02-22 18:20:31.9514-INFO [已接受] 31.951073
+2026-02-22 18:20:31.9514-INFO [已接受] 31.954959
+2026-02-22 18:20:32.0189-INFO [已接受] 32.018201
+2026-02-22 18:20:32.0498-INFO [已接受] 32.049723
+2026-02-22 18:20:33.8499-INFO [已接受] 33.849209
+2026-02-22 18:20:33.8728-INFO [已接受] 33.872234
+2026-02-22 18:20:33.8728-INFO [已接受] 33.881064
+2026-02-22 18:20:33.8988-INFO [已接受] 33.898140
+2026-02-22 18:20:34.0768-INFO [已接受] 34.076441
+2026-02-22 18:20:35.5412-INFO [已关闭] 1.62s
+2026-02-22 18:20:35.5412-INFO [已关闭] 1.44s
+2026-02-22 18:20:35.5412-INFO [已关闭] 1.67s
+2026-02-22 18:20:35.5412-INFO [已关闭] 5.46s
+2026-02-22 18:20:35.5412-INFO [已关闭] 5.78s
+2026-02-22 18:20:35.5412-INFO [已关闭] 1.64s
+2026-02-22 18:20:35.5412-INFO [已关闭] 4.88s
+2026-02-22 18:20:35.5412-INFO [已关闭] 1.65s
+2026-02-22 18:20:35.5412-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:20:35.5412-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:20:35.5412-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:20:35.5412-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:20:35.5412-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:20:35.5412-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:20:35.5412-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:20:35.5412-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:20:35.5412-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:20:35.5412-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:20:35.5412-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:20:35.5438-INFO [错误] 124.156.190.226:443
+2026-02-22 18:20:35.5438-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:20:35.5438-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:20:35.5438-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:20:35.5438-INFO [错误] 43.163.180.61:8080
+2026-02-22 18:20:35.5438-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:20:35.5438-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:20:35.5438-INFO [错误] 183.47.103.84:14000
+2026-02-22 18:20:35.5438-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:20:35.5438-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:20:35.5438-INFO [错误] 60.29.242.161:443
+2026-02-22 18:20:35.5438-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:20:35.5438-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:20:35.5438-INFO [错误] 36.155.205.252:80
+2026-02-22 18:20:35.5438-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:20:35.5438-INFO [错误] 101.33.47.206:8081
+2026-02-22 18:20:35.5606-INFO [失败] msfwifi.3g.qq.com
+2026-02-22 18:20:35.5606-INFO [错误]
+2026-02-22 18:20:36.0027-INFO [信息] Xray 26.1.23 (Xray, Penetrates Everything.) 0a42dba (go1.25.6 windows/amd64)
+2026-02-22 18:20:36.0027-INFO [信息] A unified platform for anti-censorship.
+2026-02-22 18:20:36.0209-INFO [信息] 2026/02/22 18:20:36.002672 [Info] infra/conf/serial: Reading config: &{Name:config.json Format:json}
+2026-02-22 18:20:36.0682-INFO [信息] 2026/02/22 18:20:36.067296 [Warning] core: Xray 26.1.23 started
+2026-02-22 18:20:36.5655-INFO [已接受] 36.565363
+2026-02-22 18:20:37.2145-INFO [已接受] 37.214190
+2026-02-22 18:20:37.5087-INFO [已接受] 37.508562
+2026-02-22 18:20:37.5087-INFO [已接受] 37.509100
+2026-02-22 18:20:37.5203-INFO [错误]
+2026-02-22 18:20:37.5203-INFO [已接受] 37.521349
+2026-02-22 18:20:37.5203-INFO [已接受] 37.521897
+2026-02-22 18:20:37.6963-INFO [已接受] 37.695760
+2026-02-22 18:20:37.6963-INFO [已接受] 37.695760
+2026-02-22 18:20:37.6963-INFO [已接受] 37.695760
+2026-02-22 18:20:37.6963-INFO [已接受] 37.696284
+2026-02-22 18:20:38.2769-INFO [已接受] 38.276572
+2026-02-22 18:20:38.9981-INFO [已接受] 38.997787
+2026-02-22 18:20:39.5408-INFO [已接受] 39.540395
+2026-02-22 18:20:39.5572-INFO [已接受] 39.556661
+2026-02-22 18:20:41.4308-INFO [已关闭] 1.88s
+2026-02-22 18:20:43.6306-INFO [已接受] 43.630504
+2026-02-22 18:20:44.8404-INFO [已接受] 44.839961
+2026-02-22 18:20:54.7300-INFO [已接受] 54.729648
+2026-02-22 18:20:55.0050-INFO [已接受] 55.004700
+2026-02-22 18:20:55.0050-INFO [已接受] 55.004700
+2026-02-22 18:20:55.1250-INFO [已接受] 55.124733
+2026-02-22 18:20:55.1767-INFO [已接受] 55.176581
+2026-02-22 18:20:55.8919-INFO [已接受] 55.891795
+2026-02-22 18:21:16.8528-INFO [已接受] 16.852631
+2026-02-22 18:21:24.3674-INFO [已接受] 24.367227
+2026-02-22 18:21:24.6765-INFO [信息] AppExitAsync Begin
+2026-02-22 18:21:24.7564-INFO [已关闭] 47.23s
+2026-02-22 18:21:24.7564-INFO [已关闭] 连接已关闭
+2026-02-22 18:21:24.7564-INFO [已关闭] 29.75s
+2026-02-22 18:21:24.7564-INFO [已关闭] 46.48s
+2026-02-22 18:21:24.7564-INFO [已关闭] 30.3s
+2026-02-22 18:21:24.7564-INFO [已关闭] 29.58s
+2026-02-22 18:21:24.7564-INFO [已关闭] 41.13s
+2026-02-22 18:21:24.7564-INFO [错误] 101.33.47.68:8081
+2026-02-22 18:21:24.7746-INFO [错误] 43.135.106.161:80
+2026-02-22 18:21:24.7746-INFO [错误] 101.33.47.68:8081
+2026-02-22 18:21:24.7746-INFO [错误] 101.33.47.68:8081
+2026-02-22 18:21:24.7746-INFO [错误] 101.33.47.68:8081
+2026-02-22 18:21:24.7780-INFO [错误] 124.156.190.226:8080
+2026-02-22 18:21:24.7780-INFO [错误] 101.33.47.68:8081
+2026-02-22 18:21:24.7780-INFO [错误] 183.2.144.33:443
+2026-02-22 18:21:24.7780-INFO [错误] 101.33.47.68:8081
+2026-02-22 18:21:24.7780-INFO [错误] 101.33.47.68:8081
+2026-02-22 18:21:24.7780-INFO [错误] 101.33.47.68:8081
+2026-02-22 18:21:24.7780-INFO [错误] 220.194.118.230:443
+2026-02-22 18:21:24.7780-INFO [错误] 101.33.47.68:8081
+2026-02-22 18:21:24.7780-INFO [错误] 101.33.47.68:8081
+2026-02-22 18:21:24.7780-INFO [错误] 36.155.207.230:8080
+2026-02-22 18:21:24.7937-INFO [错误] 101.33.47.68:8081
+2026-02-22 18:21:24.7937-INFO [错误] 101.33.47.68:8081
+2026-02-22 18:21:24.7937-INFO [错误] 43.135.106.161:8080
+2026-02-22 18:21:24.7937-INFO [错误] 101.33.47.68:8081
+2026-02-22 18:21:24.8095-INFO [错误] 101.33.47.68:8081
+2026-02-22 18:21:24.8095-INFO [错误] 101.33.47.68:8081
+2026-02-22 18:21:24.8095-INFO [错误] 101.33.47.68:8081
+2026-02-22 18:21:24.9694-INFO [信息] AppExitAsync End
+2026-02-22 18:21:24.9694-INFO [信息] OnExit
+2026-02-22 18:23:25.1069-INFO [Info] Language changed to: zh-CN (简体中文)
+2026-02-22 18:23:25.1276-INFO [信息] v2rayN start up | v2rayN - V7.18.0 - X64 | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\ | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\v2rayN.exe | Microsoft Windows NT 10.0.19044.0
+2026-02-22 18:23:25.1584-INFO [信息] MigrateProfileExtraGroup: No items to migrate.
+2026-02-22 18:23:27.9513-INFO [信息] Setup Scheduled Tasks
+2026-02-22 18:23:28.6900-INFO [信息] Xray 26.1.23 (Xray, Penetrates Everything.) 0a42dba (go1.25.6 windows/amd64)
+2026-02-22 18:23:28.6900-INFO [信息] A unified platform for anti-censorship.
+2026-02-22 18:23:28.7043-INFO [信息] 2026/02/22 18:23:28.689022 [Info] infra/conf/serial: Reading config: &{Name:config.json Format:json}
+2026-02-22 18:23:28.7461-INFO [信息] 2026/02/22 18:23:28.745299 [Warning] core: Xray 26.1.23 started
+2026-02-22 18:23:29.5999-INFO [已接受] 29.595504
+2026-02-22 18:23:30.0543-INFO [已接受] 30.053917
+2026-02-22 18:23:30.5494-INFO [已接受] 30.548806
+2026-02-22 18:23:30.5494-INFO [已接受] 30.548806
+2026-02-22 18:23:31.1821-INFO [已接受] 31.181824
+2026-02-22 18:23:31.9168-INFO [已接受] 31.916447
+2026-02-22 18:23:32.2759-INFO [已接受] 32.275710
+2026-02-22 18:23:32.5925-INFO [已接受] 32.591859
+2026-02-22 18:23:32.5925-INFO [已接受] 32.597930
+2026-02-22 18:23:32.5925-INFO [已接受] 32.597930
+2026-02-22 18:23:32.7112-INFO [已接受] 32.710693
+2026-02-22 18:23:32.7112-INFO [已接受] 32.711326
+2026-02-22 18:23:33.2819-INFO [已接受] 33.281565
+2026-02-22 18:23:34.4844-INFO [已接受] 34.483577
+2026-02-22 18:23:34.4844-INFO [已接受] 34.485203
+2026-02-22 18:23:34.5819-INFO [已接受] 34.581712
+2026-02-22 18:23:34.5909-INFO [已接受] 34.590662
+2026-02-22 18:23:34.5909-INFO [已接受] 34.590662
+2026-02-22 18:23:36.3663-INFO [已接受] 36.366095
+2026-02-22 18:23:36.3885-INFO [已接受] 36.388130
+2026-02-22 18:23:36.4754-INFO [已接受] 36.474777
+2026-02-22 18:23:36.5357-INFO [已接受] 36.535179
+2026-02-22 18:23:37.1160-INFO [已接受] 37.115488
+2026-02-22 18:23:37.1861-INFO [已接受] 37.185507
+2026-02-22 18:23:37.2458-INFO [已接受] 37.245425
+2026-02-22 18:23:38.2457-INFO [已接受] 38.245183
+2026-02-22 18:23:38.2532-INFO [已接受] 38.252641
+2026-02-22 18:23:38.4374-INFO [已接受] 38.437261
+2026-02-22 18:23:38.4374-INFO [已接受] 38.444149
+2026-02-22 18:23:39.7230-INFO [已接受] 39.722591
+2026-02-22 18:23:40.0131-INFO [已接受] 40.012914
+2026-02-22 18:23:40.1110-INFO [已接受] 40.110808
+2026-02-22 18:23:40.1433-INFO [已接受] 40.143257
+2026-02-22 18:23:40.3159-INFO [已接受] 40.315762
+2026-02-22 18:23:40.3654-INFO [已接受] 40.340721
+2026-02-22 18:23:42.0061-INFO [已接受] 42.005826
+2026-02-22 18:23:42.0498-INFO [已接受] 42.049318
+2026-02-22 18:23:42.1805-INFO [已接受] 42.180106
+2026-02-22 18:23:42.2170-INFO [已接受] 42.216923
+2026-02-22 18:23:43.9086-INFO [已接受] 43.908414
+2026-02-22 18:23:43.9256-INFO [已接受] 43.925005
+2026-02-22 18:23:44.0373-INFO [已接受] 44.036904
+2026-02-22 18:23:44.0980-INFO [已接受] 44.097560
+2026-02-22 18:23:44.9191-INFO [已接受] 44.918716
+2026-02-22 18:23:45.8098-INFO [已接受] 45.809741
+2026-02-22 18:23:45.8098-INFO [已接受] 45.820346
+2026-02-22 18:23:45.9215-INFO [已接受] 45.921317
+2026-02-22 18:23:45.9856-INFO [已接受] 45.985335
+2026-02-22 18:23:47.0496-INFO [已接受] 47.049414
+2026-02-22 18:23:47.7047-INFO [已接受] 47.704555
+2026-02-22 18:23:47.7047-INFO [已接受] 47.712843
+2026-02-22 18:23:47.8377-INFO [已接受] 47.837646
+2026-02-22 18:23:47.8534-INFO [已接受] 47.853025
+2026-02-22 18:23:49.0394-INFO [已接受] 49.039102
+2026-02-22 18:23:49.5933-INFO [已接受] 49.592703
+2026-02-22 18:23:49.5933-INFO [已接受] 49.593791
+2026-02-22 18:23:49.7266-INFO [已接受] 49.726472
+2026-02-22 18:23:49.7266-INFO [已接受] 49.726472
+2026-02-22 18:23:50.2838-INFO [已接受] 50.283529
+2026-02-22 18:23:51.4869-INFO [已接受] 51.486660
+2026-02-22 18:23:51.6101-INFO [已接受] 51.609871
+2026-02-22 18:23:51.6101-INFO [已接受] 51.609871
+2026-02-22 18:23:51.6101-INFO [已接受] 51.609871
+2026-02-22 18:23:53.4010-INFO [已接受] 53.400753
+2026-02-22 18:23:53.4105-INFO [已关闭] 1.90s
+2026-02-22 18:23:53.4846-INFO [已接受] 53.484067
+2026-02-22 18:23:53.4846-INFO [已接受] 53.494148
+2026-02-22 18:23:53.5087-INFO [已接受] 53.508414
+2026-02-22 18:23:55.2796-INFO [已接受] 55.279504
+2026-02-22 18:23:55.3750-INFO [已接受] 55.374909
+2026-02-22 18:23:55.3750-INFO [已接受] 55.382570
+2026-02-22 18:23:55.3886-INFO [已接受] 55.388337
+2026-02-22 18:23:57.1769-INFO [已接受] 57.176629
+2026-02-22 18:23:57.2470-INFO [已接受] 57.246813
+2026-02-22 18:23:57.2688-INFO [已接受] 57.268548
+2026-02-22 18:23:57.2688-INFO [已接受] 57.276275
+2026-02-22 18:23:59.0529-INFO [已接受] 59.052505
+2026-02-22 18:23:59.1168-INFO [已接受] 59.116543
+2026-02-22 18:23:59.1534-INFO [已接受] 59.153161
+2026-02-22 18:23:59.1534-INFO [已接受] 59.153161
+2026-02-22 18:23:59.4939-INFO [已接受] 59.493733
+2026-02-22 18:24:01.0074-INFO [已接受] 01.007317
+2026-02-22 18:24:01.0274-INFO [已接受] 01.027060
+2026-02-22 18:24:01.0409-INFO [已接受] 01.040771
+2026-02-22 18:24:01.0549-INFO [已接受] 01.054585
+2026-02-22 18:24:01.7652-INFO [已接受] 01.765108
+2026-02-22 18:24:02.8744-INFO [已接受] 02.873945
+2026-02-22 18:24:02.9182-INFO [已接受] 02.917671
+2026-02-22 18:24:02.9241-INFO [已接受] 02.923565
+2026-02-22 18:24:02.9241-INFO [已接受] 02.933840
+2026-02-22 18:24:04.7272-INFO [已接受] 04.727066
+2026-02-22 18:24:04.7861-INFO [已接受] 04.785526
+2026-02-22 18:24:04.8101-INFO [已接受] 04.810045
+2026-02-22 18:24:04.8101-INFO [已接受] 04.816782
+2026-02-22 18:24:05.1824-INFO [已接受] 05.181942
+2026-02-22 18:24:06.6286-INFO [已接受] 06.628470
+2026-02-22 18:24:06.6935-INFO [已接受] 06.693113
+2026-02-22 18:24:06.6997-INFO [已接受] 06.699110
+2026-02-22 18:24:06.7325-INFO [已接受] 06.732498
+2026-02-22 18:24:08.5473-INFO [已关闭] 1.91s
+2026-02-22 18:24:08.5473-INFO [已接受] 08.550184
+2026-02-22 18:24:08.5811-INFO [已接受] 08.580535
+2026-02-22 18:24:08.6357-INFO [已接受] 08.635663
+2026-02-22 18:24:08.6646-INFO [已接受] 08.664275
+2026-02-22 18:24:10.4408-INFO [已接受] 10.440326
+2026-02-22 18:24:10.4681-INFO [已接受] 10.467699
+2026-02-22 18:24:10.5034-INFO [已关闭] 1.86s
+2026-02-22 18:24:10.5034-INFO [已接受] 10.508075
+2026-02-22 18:24:10.5497-INFO [已接受] 10.549262
+2026-02-22 18:24:11.8826-INFO [已接受] 11.882139
+2026-02-22 18:24:12.2658-INFO [已接受] 12.265323
+2026-02-22 18:24:12.3253-INFO [已接受] 12.324862
+2026-02-22 18:24:12.3415-INFO [已接受] 12.341110
+2026-02-22 18:24:12.3716-INFO [已接受] 12.371042
+2026-02-22 18:24:12.4410-INFO [已接受] 12.440490
+2026-02-22 18:24:14.3490-INFO [已接受] 14.348937
+2026-02-22 18:24:14.3490-INFO [已接受] 14.348961
+2026-02-22 18:24:14.3572-INFO [已接受] 14.356968
+2026-02-22 18:24:14.4251-INFO [已接受] 14.424628
+2026-02-22 18:24:14.4251-INFO [已接受] 14.424628
+2026-02-22 18:24:14.4251-INFO [已接受] 14.425179
+2026-02-22 18:24:14.4251-INFO [已接受] 14.425721
+2026-02-22 18:24:14.8015-INFO [已接受] 14.801463
+2026-02-22 18:24:16.2916-INFO [已接受] 16.291519
+2026-02-22 18:24:16.3146-INFO [已接受] 16.314527
+2026-02-22 18:24:16.3146-INFO [已接受] 16.322579
+2026-02-22 18:24:16.3328-INFO [已接受] 16.332390
+2026-02-22 18:24:18.1720-INFO [已接受] 18.171571
+2026-02-22 18:24:18.2048-INFO [已接受] 18.204738
+2026-02-22 18:24:18.2048-INFO [已接受] 18.210393
+2026-02-22 18:24:18.2915-INFO [已接受] 18.291255
+2026-02-22 18:24:20.0813-INFO [已接受] 20.080793
+2026-02-22 18:24:20.1039-INFO [已接受] 20.103385
+2026-02-22 18:24:20.1107-INFO [已接受] 20.110197
+2026-02-22 18:24:20.1949-INFO [已接受] 20.194324
+2026-02-22 18:24:21.9508-INFO [已接受] 21.950683
+2026-02-22 18:24:21.9878-INFO [已接受] 21.987728
+2026-02-22 18:24:21.9878-INFO [已接受] 21.987728
+2026-02-22 18:24:22.0500-INFO [已接受] 22.049731
+2026-02-22 18:24:23.8262-INFO [已接受] 23.825649
+2026-02-22 18:24:23.8690-INFO [已接受] 23.868554
+2026-02-22 18:24:23.9155-INFO [已接受] 23.915475
+2026-02-22 18:24:23.9284-INFO [已接受] 23.927912
+2026-02-22 18:24:24.2227-INFO [Info] Language changed to: en-US (English)
+2026-02-22 18:24:25.7126-INFO Accepted 25.712231
+2026-02-22 18:24:25.7616-INFO Accepted 25.761201
+2026-02-22 18:24:25.8177-INFO Accepted 25.817232
+2026-02-22 18:24:25.8587-INFO Accepted 25.858505
+2026-02-22 18:24:27.5818-INFO Accepted 27.581589
+2026-02-22 18:24:27.6945-INFO Accepted 27.694138
+2026-02-22 18:24:27.7541-INFO Accepted 27.753553
+2026-02-22 18:24:27.7541-INFO Accepted 27.760423
+2026-02-22 18:24:29.5422-INFO Accepted 29.541759
+2026-02-22 18:24:29.5684-INFO Accepted 29.568168
+2026-02-22 18:24:29.6352-INFO Accepted 29.634601
+2026-02-22 18:24:29.6455-INFO Accepted 29.645228
+2026-02-22 18:24:31.4132-INFO Accepted 31.412645
+2026-02-22 18:24:31.4408-INFO Accepted 31.440603
+2026-02-22 18:24:31.5160-INFO Accepted 31.515584
+2026-02-22 18:24:31.5544-INFO Accepted 31.554365
+2026-02-22 18:24:33.2958-INFO Closed 连接已关闭
+2026-02-22 18:24:33.2958-INFO Closed 56.18s
+2026-02-22 18:24:33.2958-INFO Closed 43.1s
+2026-02-22 18:24:33.2958-INFO Closed 56.11s
+2026-02-22 18:24:33.2958-INFO Closed 连接已关闭
+2026-02-22 18:24:33.2958-INFO Closed 31.53s
+2026-02-22 18:24:33.2958-INFO Closed 1.88s
+2026-02-22 18:24:33.2958-INFO Closed 48.37s
+2026-02-22 18:24:33.2958-INFO Closed 1.85s
+2026-02-22 18:24:33.2958-INFO Closed 21.3s
+2026-02-22 18:24:33.2958-INFO Closed 1.74s
+2026-02-22 18:24:33.2958-INFO Closed 1.78s
+2026-02-22 18:24:33.2958-INFO [Error] 101.33.47.68:8081
+2026-02-22 18:24:33.2958-INFO [Error] 101.33.47.68:8081
+2026-02-22 18:24:33.2958-INFO [Error] 101.33.47.68:8081
+2026-02-22 18:24:33.3101-INFO [Error] 43.163.181.201:14000
+2026-02-22 18:24:33.3101-INFO [Error] 101.33.47.68:8081
+2026-02-22 18:24:33.3101-INFO [Error] 101.33.47.68:8081
+2026-02-22 18:24:33.3101-INFO [Error] 101.33.47.68:8081
+2026-02-22 18:24:33.3101-INFO [Error] 101.33.47.68:8081
+2026-02-22 18:24:33.3101-INFO [Error] 101.33.47.68:8081
+2026-02-22 18:24:33.3101-INFO [Error] 101.33.47.68:8081
+2026-02-22 18:24:33.3101-INFO [Error] 43.163.181.43:443
+2026-02-22 18:24:33.3101-INFO [Error] 101.33.47.68:8081
+2026-02-22 18:24:33.3101-INFO [Error] 101.33.47.68:8081
+2026-02-22 18:24:33.3101-INFO [Error] 101.33.47.68:8081
+2026-02-22 18:24:33.3101-INFO [Error] 183.47.103.84:80
+2026-02-22 18:24:33.3101-INFO [Error] 101.33.47.68:8081
+2026-02-22 18:24:33.3101-INFO [Error] 101.33.47.68:8081
+2026-02-22 18:24:33.3101-INFO [Error] 60.29.242.161:80
+2026-02-22 18:24:33.3253-INFO [Error] 101.33.47.68:8081
+2026-02-22 18:24:33.3253-INFO [Error] 101.33.47.68:8081
+2026-02-22 18:24:33.3253-INFO [Error] 36.155.245.16:443
+2026-02-22 18:24:33.3253-INFO [Error] 101.33.47.68:8081
+2026-02-22 18:24:33.3253-INFO [Error] 101.33.47.68:8081
+2026-02-22 18:24:33.3253-INFO Failed msfwifi.3g.qq.com
+2026-02-22 18:24:33.3253-INFO [Error]
+2026-02-22 18:25:30.1810-INFO [信息] Language changed to: zh-CN (简体中文)
+2026-02-22 18:26:08.7318-INFO [Info] Language changed to: en-US (English)
+2026-02-22 18:26:12.0740-INFO [信息] Language changed to: zh-CN (简体中文)
+2026-02-22 18:27:27.3081-INFO [信息] AppExitAsync Begin
+2026-02-22 18:27:27.4031-INFO [信息] AppExitAsync End
+2026-02-22 18:27:27.4060-INFO [信息] OnExit
+2026-02-22 18:33:16.3189-INFO [Info] Language changed to: zh-CN (简体中文)
+2026-02-22 18:33:16.3463-INFO [信息] v2rayN start up | v2rayN - V7.18.0 - X64 | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\ | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\v2rayN.exe | Microsoft Windows NT 10.0.19044.0
+2026-02-22 18:33:16.3677-INFO [信息] MigrateProfileExtraGroup: No items to migrate.
+2026-02-22 18:33:18.9581-INFO [信息] Setup Scheduled Tasks
+2026-02-22 18:33:19.6833-INFO [信息] Xray 26.1.23 (Xray, Penetrates Everything.) 0a42dba (go1.25.6 windows/amd64)
+2026-02-22 18:33:19.6833-INFO [信息] A unified platform for anti-censorship.
+2026-02-22 18:33:19.6956-INFO [信息] 2026/02/22 18:33:19.682680 [Info] infra/conf/serial: Reading config: &{Name:config.json Format:json}
+2026-02-22 18:33:19.7365-INFO [信息] 2026/02/22 18:33:19.736114 [Warning] core: Xray 26.1.23 started
+2026-02-22 18:33:20.6120-INFO [已接受] 20.608925
+2026-02-22 18:33:21.0777-INFO [已接受] 21.077518
+2026-02-22 18:33:21.6417-INFO [已接受] 21.641172
+2026-02-22 18:33:21.6417-INFO [已接受] 21.641172
+2026-02-22 18:33:22.2364-INFO [已接受] 22.236041
+2026-02-22 18:33:22.9368-INFO [已接受] 22.936235
+2026-02-22 18:33:23.3525-INFO [已接受] 23.351954
+2026-02-22 18:33:23.6412-INFO [已接受] 23.640621
+2026-02-22 18:33:23.6412-INFO [已接受] 23.645103
+2026-02-22 18:33:23.6412-INFO [已接受] 23.645103
+2026-02-22 18:33:23.7460-INFO [已接受] 23.745849
+2026-02-22 18:33:23.7460-INFO [已接受] 23.745849
+2026-02-22 18:33:24.3742-INFO [已接受] 24.367973
+2026-02-22 18:33:25.4866-INFO [已接受] 25.486146
+2026-02-22 18:33:25.5323-INFO [已接受] 25.531733
+2026-02-22 18:33:25.5780-INFO [已接受] 25.577819
+2026-02-22 18:33:25.5969-INFO [已接受] 25.596626
+2026-02-22 18:33:25.6410-INFO [已接受] 25.640661
+2026-02-22 18:33:27.4414-INFO [已接受] 27.440746
+2026-02-22 18:33:27.4760-INFO [已接受] 27.475884
+2026-02-22 18:33:27.4843-INFO [已接受] 27.483883
+2026-02-22 18:33:27.5158-INFO [已接受] 27.515420
+2026-02-22 18:33:28.2673-INFO [Info] Language changed to: en-US (English)
+2026-02-22 18:33:29.3470-INFO Accepted 29.346819
+2026-02-22 18:33:29.3470-INFO Accepted 29.347361
+2026-02-22 18:33:29.3831-INFO Accepted 29.382875
+2026-02-22 18:33:29.4000-INFO Accepted 29.399885
+2026-02-22 18:33:30.4354-INFO Accepted 30.434825
+2026-02-22 18:33:31.2332-INFO Accepted 31.232680
+2026-02-22 18:33:31.2332-INFO Accepted 31.234974
+2026-02-22 18:33:31.3110-INFO Accepted 31.309947
+2026-02-22 18:33:31.3110-INFO Accepted 31.311941
+2026-02-22 18:33:32.5850-INFO Accepted 32.584014
+2026-02-22 18:33:33.1236-INFO Accepted 33.123070
+2026-02-22 18:33:33.1782-INFO Accepted 33.177965
+2026-02-22 18:33:33.1782-INFO Accepted 33.179111
+2026-02-22 18:33:36.2276-INFO [Info] AppExitAsync Begin
+2026-02-22 18:33:36.3579-INFO Closed 11.94s
+2026-02-22 18:33:36.3579-INFO Closed 12.67s
+2026-02-22 18:33:36.3579-INFO Closed 12.96s
+2026-02-22 18:33:36.3579-INFO [Error] 43.173.131.185:8081
+2026-02-22 18:33:36.3579-INFO Closed 3.72s
+2026-02-22 18:33:36.3579-INFO Closed 3.13s
+2026-02-22 18:33:36.3579-INFO [Error] 43.173.131.185:8081
+2026-02-22 18:33:36.3579-INFO [Error] 183.2.144.33:14000
+2026-02-22 18:33:36.3579-INFO [Error] 43.173.131.185:8081
+2026-02-22 18:33:36.3579-INFO [Error] 43.173.131.185:8081
+2026-02-22 18:33:36.3579-INFO [Error] 117.62.242.155:80
+2026-02-22 18:33:36.3579-INFO [Error] 43.173.131.185:8081
+2026-02-22 18:33:36.3579-INFO [Error] 43.173.131.185:8081
+2026-02-22 18:33:36.3579-INFO [Error] 43.173.131.185:8081
+2026-02-22 18:33:36.3579-INFO [Error] 43.173.131.185:8081
+2026-02-22 18:33:36.3579-INFO [Error] 43.173.131.185:8081
+2026-02-22 18:33:36.3579-INFO [Error] 43.173.131.185:8081
+2026-02-22 18:33:36.3579-INFO [Error] 43.173.131.185:8081
+2026-02-22 18:33:36.3579-INFO [Error] 43.173.131.185:8081
+2026-02-22 18:33:36.3579-INFO [Error] 183.47.99.24:14000
+2026-02-22 18:33:36.3579-INFO [Error] 43.173.131.185:8081
+2026-02-22 18:33:36.3579-INFO [Error] 43.173.131.185:8081
+2026-02-22 18:33:36.3579-INFO [Error] 43.173.131.185:8081
+2026-02-22 18:33:36.3579-INFO [Error] 43.173.131.185:8081
+2026-02-22 18:33:36.3579-INFO [Error] 43.173.131.185:8081
+2026-02-22 18:33:36.3579-INFO [Error] 43.173.131.185:8081
+2026-02-22 18:33:36.3579-INFO [Error] 43.173.131.185:8081
+2026-02-22 18:33:36.3579-INFO [Error] 42.81.184.206:14000
+2026-02-22 18:33:36.3579-INFO [Error] 43.173.131.185:8081
+2026-02-22 18:33:36.3579-INFO [Error] 43.173.131.185:8081
+2026-02-22 18:33:36.3579-INFO [Error] 43.173.131.185:8081
+2026-02-22 18:33:36.3579-INFO [Error] 43.173.131.185:8081
+2026-02-22 18:33:36.3579-INFO [Error] 43.173.131.185:8081
+2026-02-22 18:33:36.3579-INFO [Error] 180.109.192.57:80
+2026-02-22 18:33:36.3579-INFO [Error] 43.173.131.185:8081
+2026-02-22 18:33:36.3579-INFO [Error] 43.173.131.185:8081
+2026-02-22 18:33:36.3579-INFO [Error] 43.173.131.185:8081
+2026-02-22 18:33:36.3579-INFO [Error] 43.173.131.185:8081
+2026-02-22 18:33:36.3722-INFO [Error] 43.173.131.185:8081
+2026-02-22 18:33:36.3722-INFO [Error] 183.2.134.190:14000
+2026-02-22 18:33:36.3722-INFO [Error] 43.173.131.185:8081
+2026-02-22 18:33:36.3722-INFO [Error] 43.173.131.185:8081
+2026-02-22 18:33:36.3722-INFO [Error] 43.173.131.185:8081
+2026-02-22 18:33:36.3722-INFO [Error] 42.81.179.212:14000
+2026-02-22 18:33:36.3722-INFO [Error] 43.173.131.185:8081
+2026-02-22 18:33:36.3722-INFO [Error] 43.173.131.185:8081
+2026-02-22 18:33:36.3722-INFO [Error] 43.173.131.185:8081
+2026-02-22 18:33:36.3722-INFO [Error] 121.229.94.199:80
+2026-02-22 18:33:36.3722-INFO [Error] 43.173.131.185:8081
+2026-02-22 18:33:36.3876-INFO [Error] 43.173.131.185:8081
+2026-02-22 18:33:36.3876-INFO Failed msfwifi.3g.qq.com
+2026-02-22 18:33:36.3876-INFO [Error]
+2026-02-22 18:33:36.5333-INFO [Info] AppExitAsync End
+2026-02-22 18:33:36.5333-INFO [Info] OnExit
+2026-02-22 18:35:31.1928-INFO [Info] Language changed to: en-US (English)
+2026-02-22 18:35:31.2232-INFO [Info] v2rayN start up | v2rayN - V7.18.0 - X64 | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\ | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\v2rayN.exe | Microsoft Windows NT 10.0.19044.0
+2026-02-22 18:35:31.2487-INFO [Info] MigrateProfileExtraGroup: No items to migrate.
+2026-02-22 18:35:34.2206-INFO [Info] Setup Scheduled Tasks
+2026-02-22 18:35:34.9870-INFO [Info] Xray 26.1.23 (Xray, Penetrates Everything.) 0a42dba (go1.25.6 windows/amd64)
+2026-02-22 18:35:34.9870-INFO [Info] A unified platform for anti-censorship.
+2026-02-22 18:35:35.0018-INFO [Info] 2026/02/22 18:35:34.986130 [Info] infra/conf/serial: Reading config: &{Name:config.json Format:json}
+2026-02-22 18:35:35.0411-INFO [Info] 2026/02/22 18:35:35.040704 [Warning] core: Xray 26.1.23 started
+2026-02-22 18:35:35.8804-INFO Accepted 35.867090
+2026-02-22 18:35:36.3730-INFO Accepted 36.372718
+2026-02-22 18:35:36.8238-INFO Accepted 36.823574
+2026-02-22 18:35:36.8238-INFO Accepted 36.823686
+2026-02-22 18:35:36.8251-INFO Accepted 36.824870
+2026-02-22 18:35:37.9206-INFO Accepted 37.920451
+2026-02-22 18:35:38.1345-INFO Accepted 38.134173
+2026-02-22 18:35:38.2633-INFO Accepted 38.262794
+2026-02-22 18:35:38.2633-INFO Accepted 38.265653
+2026-02-22 18:35:38.2633-INFO Accepted 38.266162
+2026-02-22 18:35:38.3658-INFO Accepted 38.365214
+2026-02-22 18:35:38.4686-INFO Accepted 38.468254
+2026-02-22 18:35:38.4686-INFO Accepted 38.477306
+2026-02-22 18:35:38.6306-INFO Accepted 38.630067
+2026-02-22 18:35:38.6682-INFO Accepted 38.667705
+2026-02-22 18:35:38.7539-INFO Accepted 38.753552
+2026-02-22 18:35:38.8181-INFO Accepted 38.817586
+2026-02-22 18:35:38.8600-INFO Accepted 38.859871
+2026-02-22 18:35:39.0083-INFO Accepted 39.007963
+2026-02-22 18:35:39.2026-INFO Accepted 39.202082
+2026-02-22 18:35:39.2196-INFO Accepted 39.219029
+2026-02-22 18:35:39.5584-INFO Accepted 39.558277
+2026-02-22 18:35:40.0231-INFO [信息] Language changed to: zh-CN (简体中文)
+2026-02-22 18:35:40.1463-INFO [已接受] 40.145676
+2026-02-22 18:35:40.1750-INFO [已接受] 40.174622
+2026-02-22 18:35:40.2854-INFO [已接受] 40.284859
+2026-02-22 18:35:40.3648-INFO [已接受] 40.364352
+2026-02-22 18:35:40.6402-INFO [已接受] 40.640097
+2026-02-22 18:35:40.9963-INFO [已接受] 40.995829
+2026-02-22 18:35:41.8974-INFO [已接受] 41.896883
+2026-02-22 18:35:42.0403-INFO [已接受] 42.039866
+2026-02-22 18:35:42.0874-INFO [已接受] 42.086858
+2026-02-22 18:35:42.2301-INFO [已接受] 42.229810
+2026-02-22 18:35:42.5533-INFO [已接受] 42.552954
+2026-02-22 18:35:43.0718-INFO [已接受] 43.071204
+2026-02-22 18:35:43.9661-INFO [已接受] 43.965472
+2026-02-22 18:35:44.0122-INFO [已接受] 44.011573
+2026-02-22 18:35:44.2746-INFO [已接受] 44.274495
+2026-02-22 18:35:44.6845-INFO [已接受] 44.684345
+2026-02-22 18:35:45.8871-INFO [已接受] 45.886639
+2026-02-22 18:35:45.9796-INFO [已接受] 45.978949
+2026-02-22 18:35:46.1636-INFO [已接受] 46.163121
+2026-02-22 18:35:46.2516-INFO [已接受] 46.251003
+2026-02-22 18:35:46.6997-INFO [已接受] 46.699306
+2026-02-22 18:35:47.9623-INFO [已接受] 47.961805
+2026-02-22 18:35:49.1768-INFO [已接受] 49.176596
+2026-02-22 18:35:49.5479-INFO [已接受] 49.547742
+2026-02-22 18:35:51.1761-INFO [超时] 5.0s
+2026-02-22 18:35:58.9776-INFO [已接受] 58.977460
+2026-02-22 18:36:18.2529-INFO [已接受] 18.252363
+2026-02-22 18:36:51.0316-INFO [已接受] 51.031038
+2026-02-22 18:36:54.9519-INFO [已接受] 54.951386
+2026-02-22 18:36:55.0579-INFO [已接受] 55.057394
+2026-02-22 18:36:57.0670-INFO [已接受] 57.066864
+2026-02-22 18:37:02.9175-INFO [已接受] 02.916959
+2026-02-22 18:37:07.5219-INFO [已接受] 07.521541
+2026-02-22 18:37:08.7972-INFO [已接受] 08.796921
+2026-02-22 18:37:17.4742-INFO [已接受] 17.473832
+2026-02-22 18:37:30.0293-INFO [已接受] 30.029127
+2026-02-22 18:37:46.8246-INFO [已接受] 46.824169
+2026-02-22 18:38:00.9085-INFO [已接受] 00.908208
+2026-02-22 18:38:05.8272-INFO [已接受] 05.826382
+2026-02-22 18:38:07.9562-INFO [已接受] 07.956014
+2026-02-22 18:38:14.1736-INFO [已接受] 14.173278
+2026-02-22 18:38:18.6399-INFO [已接受] 18.639790
+2026-02-22 18:38:29.7406-INFO [已接受] 29.740097
+2026-02-22 18:38:35.3803-INFO [已接受] 35.380195
+2026-02-22 18:38:59.3794-INFO [已接受] 59.378806
+2026-02-22 18:38:59.3794-INFO [已接受] 59.380256
+2026-02-22 18:39:11.3171-INFO [已接受] 11.316757
+2026-02-22 18:39:11.3171-INFO [已接受] 11.317051
+2026-02-22 18:39:11.3323-INFO [已接受] 11.331917
+2026-02-22 18:39:11.3323-INFO [已接受] 11.336819
+2026-02-22 18:39:11.4210-INFO [已接受] 11.420444
+2026-02-22 18:39:11.6165-INFO [已接受] 11.616325
+2026-02-22 18:39:11.6475-INFO [已接受] 11.647414
+2026-02-22 18:39:11.6626-INFO [已接受] 11.662438
+2026-02-22 18:39:11.7100-INFO [已接受] 11.709833
+2026-02-22 18:39:12.4946-INFO [已接受] 12.494530
+2026-02-22 18:39:12.6785-INFO [已接受] 12.678415
+2026-02-22 18:39:12.7031-INFO [已接受] 12.702931
+2026-02-22 18:39:12.7031-INFO [已接受] 12.703505
+2026-02-22 18:39:12.9280-INFO [已接受] 12.927731
+2026-02-22 18:39:13.0069-INFO [已接受] 13.004514
+2026-02-22 18:39:13.0069-INFO [已接受] 13.005047
+2026-02-22 18:39:13.4535-INFO [已接受] 13.452923
+2026-02-22 18:39:13.9614-INFO [已接受] 13.961156
+2026-02-22 18:39:13.9614-INFO [已接受] 13.961703
+2026-02-22 18:39:14.3238-INFO [已接受] 14.323724
+2026-02-22 18:39:14.3848-INFO [已接受] 14.384675
+2026-02-22 18:39:15.2058-INFO [已接受] 15.205230
+2026-02-22 18:39:15.3796-INFO [已接受] 15.379460
+2026-02-22 18:39:15.4217-INFO [已接受] 15.421585
+2026-02-22 18:39:16.1956-INFO [已接受] 16.195142
+2026-02-22 18:39:17.9583-INFO [已接受] 17.958301
+2026-02-22 18:39:18.2741-INFO [已接受] 18.274001
+2026-02-22 18:39:18.5878-INFO [已接受] 18.587762
+2026-02-22 18:39:19.2162-INFO [已接受] 19.216181
+2026-02-22 18:39:19.5379-INFO [已接受] 19.537375
+2026-02-22 18:39:20.3025-INFO [已接受] 20.302071
+2026-02-22 18:39:21.1292-INFO [已接受] 21.128680
+2026-02-22 18:39:25.5397-INFO [信息] AppExitAsync Begin
+2026-02-22 18:39:25.6076-INFO [已关闭] 连接已关闭
+2026-02-22 18:39:25.6076-INFO [已关闭] 连接已关闭
+2026-02-22 18:39:25.6076-INFO [已关闭] 连接已关闭
+2026-02-22 18:39:25.6076-INFO [已关闭] 连接已关闭
+2026-02-22 18:39:25.6076-INFO [已关闭] 连接已关闭
+2026-02-22 18:39:25.6076-INFO [已关闭] 连接已关闭
+2026-02-22 18:39:25.6076-INFO [已关闭] 26.23s
+2026-02-22 18:39:25.6076-INFO [已关闭] 26.23s
+2026-02-22 18:39:25.6076-INFO [已关闭] 连接已关闭
+2026-02-22 18:39:25.6076-INFO [失败] oth.eve.mdt.qq.com
+2026-02-22 18:39:25.6076-INFO [错误]
+2026-02-22 18:39:25.6223-INFO [错误] 124.156.190.17:14000
+2026-02-22 18:39:25.6223-INFO [错误] 43.154.240.21:8080
+2026-02-22 18:39:25.6223-INFO [错误] 183.47.126.26:8080
+2026-02-22 18:39:25.6223-INFO [错误] 111.206.149.85:80
+2026-02-22 18:39:25.6404-INFO [错误] 36.155.163.51:443
+2026-02-22 18:39:25.6404-INFO [失败] msfwifi.3g.qq.com
+2026-02-22 18:39:25.6404-INFO [错误]
+2026-02-22 18:39:25.8188-INFO [信息] AppExitAsync End
+2026-02-22 18:39:25.8188-INFO [信息] OnExit
+2026-02-22 18:44:27.6424-INFO [Info] Language changed to: zh-CN (简体中文)
+2026-02-22 18:44:27.6576-INFO [信息] v2rayN start up | v2rayN - V7.18.0 - X64 | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\ | C:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN\bin\Release\net8.0-windows10.0.17763\v2rayN.exe | Microsoft Windows NT 10.0.19044.0
+2026-02-22 18:44:27.6879-INFO [信息] MigrateProfileExtraGroup: No items to migrate.
+2026-02-22 18:44:30.1466-INFO [信息] Setup Scheduled Tasks
+2026-02-22 18:44:30.8930-INFO [信息] Xray 26.1.23 (Xray, Penetrates Everything.) 0a42dba (go1.25.6 windows/amd64)
+2026-02-22 18:44:30.8930-INFO [信息] A unified platform for anti-censorship.
+2026-02-22 18:44:30.9058-INFO [信息] 2026/02/22 18:44:30.892013 [Info] infra/conf/serial: Reading config: &{Name:config.json Format:json}
+2026-02-22 18:44:30.9472-INFO [信息] 2026/02/22 18:44:30.947010 [Warning] core: Xray 26.1.23 started
+2026-02-22 18:44:32.1764-INFO [已接受] 32.172212
+2026-02-22 18:44:32.2760-INFO [已接受] 32.275725
+2026-02-22 18:44:34.1694-INFO [失败] mtalk.google.com
+2026-02-22 18:44:34.1694-INFO [错误]
+2026-02-22 18:44:34.6024-INFO [已接受] 34.602023
+2026-02-22 18:44:35.2466-INFO [已接受] 35.246236
+2026-02-22 18:44:37.3041-INFO [Info] Language changed to: en-US (English)
+2026-02-22 18:44:43.2743-INFO [信息] Language changed to: zh-CN (简体中文)
+2026-02-22 18:44:43.9521-INFO [已接受] 43.951932
+2026-02-22 18:44:56.9400-INFO [已接受] 56.939513
+2026-02-22 18:44:58.9569-INFO [已接受] 58.956369
+2026-02-22 18:45:02.2728-INFO [已接受] 02.272553
+2026-02-22 18:45:05.4152-INFO [已接受] 05.414762
+2026-02-22 18:45:09.5569-INFO [失败] us.i.posthog.com
+2026-02-22 18:45:09.5569-INFO [错误]
+2026-02-22 18:45:10.3417-INFO [已接受] 10.341513
+2026-02-22 18:45:13.9956-INFO [信息] AppExitAsync Begin
+2026-02-22 18:45:14.0623-INFO [已关闭] 8.64s
+2026-02-22 18:45:14.0623-INFO [错误] 43.154.240.191:443
+2026-02-22 18:45:14.0775-INFO [错误] 124.156.190.226:14000
+2026-02-22 18:45:14.2638-INFO [信息] AppExitAsync End
+2026-02-22 18:45:14.2638-INFO [信息] OnExit

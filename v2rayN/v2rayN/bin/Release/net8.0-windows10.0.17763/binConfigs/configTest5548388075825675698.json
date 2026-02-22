@@ -1,0 +1,64 @@
+{
+  "log": {
+    "loglevel": "warning"
+  },
+  "inbounds": [
+    {
+      "tag": "socks10829",
+      "port": 10829,
+      "listen": "127.0.0.1",
+      "protocol": "mixed"
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "proxy",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "216.36.124.101",
+            "port": 55555,
+            "users": [
+              {
+                "id": "8aaf1b06-09bb-4c39-b017-2c00beb5fae8",
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "mlkem768x25519plus.native.0rtt.3uG9gmKwWd57J144Al_NruoSaUdHqo-y5GUjQ0dMnEw",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "www.microsoft.com",
+          "fingerprint": "chrome",
+          "show": false,
+          "publicKey": "yBW_CPNnowdr9zWa1a4nwrnX49Xz9xkT42zL4_4ntG4",
+          "shortId": "6e1f3f",
+          "spiderX": "/",
+          "mldsa65Verify": "JCvAuHD4h2_kFMDC680DNrqhaOMUeX5h-sfLIZYiedFR5IujAVtc1EdfTLDgt8mTMAT7WXFoIxvyQtmIPC6atC4GZJCByqV8IE2BleoNqZ26dUzbzTCWkB_C6xi368dUQnTvkDLO34s4-Dyh7Vxpiwztg6ugPIXrXf8IxsnAFyNTzpKZb6PFjEVim9XDaQCC5FfFWuQLLX1DiVQdSE5ptEbznMXXwGm2pdOruliEkveN78dtaLRW1QKcx-OtOL1OftA75TnW0IepW2Pr_KxE0ImNUAQLr91jDfJT-T0FFaDG4ZvqEyXqnqOKlQqetS1sTToEeSVdf35kC38RiJBXxiG9FzAm1afCVOE_crKzC90gaORwaXw-vI0kCJRsjpP5B-ZIx8Cuv_dUEdu7elO7-_aCiHp0TolLCfH2f16rI0yaEAO963XPiL-ISxNZfhLyZifjwWB4cVCuDFMEhAVVazpbyPbDTS9Q2pirqZQ2ranh5AMFLZaxcl18x7KpVeLYBLgSUhZmJ8iQcWAcflzcbjjpI-ImHPCu85dLx26NOjJ8_PhOJnP63F0yjGI7YrThWC5VNvhM4Ypbk-0HWI29j3jE2g_Bufo22efXhQ-vV7i6rnEewH1iOoBNt85L7hmAxXpEbj3zxveHkyFY-iCxfajSDRoV5byCvll7qJ6E_zk-aAWS9wzvtL-HzR5uxgjaxFCEHDjHzE8wi_TVz1TahsR2L3jo95uzX2JXFgvzKMCX3akZOFYcAVeyreCfQIE8q_1r2p_vBnxOr9pucmUTYZ-8seVi0Np8_tzmgTJZHqPy2-p9TUh-NC7inHjpPvDeZiB68_idmHU63CoTV0X5kkwJzOH5D0GXvrjLO_Lwhls3PCd9DKcJCf7ZS45up6c8K1C8XIw5JfVBPFS_I_JxfVPLm1aMbA_gsnirjiyV61sDdi81ZPQ8Mcz2Z5HZgEEQunnINBSt5Zaq1Mp0_KwP4PLHzIZfPtoqLhLPcRIA3_3VtptAFww5VhU3SRYtnEtc2Pm3OObCmWLhpyNGB6nAbDXMibJp2XxxWUg-jfZzTW9S-K-oVkCS8gM2Vr1FdzFwz2USeYjc7ICAIbTdq7Cfc4t8hMAHsqd81g2Dw0kA4ws858OsnbjHt0bA-nu0-lXCFzduD13tLu9cjdvUs_T0IJ3WlNV0Zwqp_Xl8EXEffwyshzvMuLld6xRXYLHUZuyuvfFcj98_SFaso4x1oOk0yQWVrbmrHl2UTO8KVWf2RuSjVjjGI7gD8-OL_nMNK6nhGDVBmFdvCLKh7ihRAFIUbnB_3tdqGYF_XnK52xOY5pwaiLSNv_jkUWOCV2Mmku7umghxR64zG8wZ6dwpz18FzIS4XW7eBYUvxUEj1L8zPmS-OHhGHbjhdvNr9VjEGAxQ9fifiH-616a7Hrkc7lxGXOB7X7VjIqjO4DGRK5QMPNSI_tPX0wrcBhpLERe6ispWgz27UEqO7IJl-SadBo8ttxH98w4VbUA4psNBdx5nVFUk8j_7TBx2H17LmmrG-WDkVGDbU9mXJvtvwaJpLekifYfpWb5vtXWxrapfqAT-vh1odrbBVG0vahr8Xpiqnw6lwJk1A3vFej1mXUMMWwYGe7NouURwMuBfhlJtj6FdBm7skk_4WNZe8oPl1YJ5xNGchoyGj-7DUgllXkqr2ANQcDfaKDFojX3AzNRn4MDicPoh7x_TCVxNiLVl14OhVCHx-woNdaLh0yRgxEBc5vPmn1d4C3xqAUFC-_zc1F7aKn_gV_3pNNHJsHEku2LUCmNtCgYa8_KwMEyqy6dUJ8z8x8sLdkXuqEnxYdfdfjBXBOsiOvD9sd7h5m2CERRiRW-h7-1DZQ1Kb7tZJ52Nwz5IjvMSCqOpdGFhrdyQ0WBkROJNttVMlzYvFDdXdXNoh5hLD5EGVXhgUr3IVibeccaAtT5CwM_7iMRhXoEwz_pnZjWAZtWiuajGIqjLcpVqW1NH8j2FiGYJSSn4wVewJqdx-ZlvVA3Gb3w4CrYE1Wn_cE1ibFJxLf2d5wHfKP-2M1JgbceLooKIa_R7o7zYOtd0dsBrMjLyBeeKhdN2QrXKOsZ7ENokbA66jIIlklC3rUEQ5lrRJ3Ze4U_J-Y3jkcNoD-MeqMPIU3bfARee12TpIcClLgKV9AoKduVZL-1a4I9O-vBscyl-4qIKOriOaYA1G2nLFNkVwykdNv0J5nykMfSPXjuCkM52Kqv1D2qA7anL_PflPZSQcJG5UsydBVlIZCJE1EIflFO3C4x2KFkTZFoW6Amda4gBBMdFiGdtfvXcHgVsAZp_jhB0nllfI-Aqq63vBtxZEFJdfio7ITvowAXuGBM2RjXks6LvUJ3hmoOrelOm0lmuipEglIiMiGU6vkNZ_q3I7eQibDe2yIOKLu6aJW-hJLEbnJu1RvykT55aQK6O4SpR7YGyniPHMYrf8qvzcvPrD4LY9A7G1M5onGnJDXmTh_1N_OlKaoDsNQQeFUCbrZYu9ZSBq_5Io6bsWopo1Y3v989jsCtg3f_AOTOqI5vqCS6on-HMptUss2Tn-bzLOv2j6ZpB2sTJLoBYDUelH82OzKl2fqmvEHB6jeo"
+        }
+      },
+      "mux": {
+        "enabled": false
+      }
+    },
+    {
+      "tag": "direct",
+      "protocol": "freedom"
+    },
+    {
+      "tag": "block",
+      "protocol": "blackhole"
+    }
+  ],
+  "routing": {
+    "domainStrategy": "IPIfNonMatch",
+    "rules": []
+  }
+}

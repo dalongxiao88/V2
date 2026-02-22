@@ -1,0 +1,10 @@
+c:\Users\Administrator\Desktop\v2rayN-master\v2rayN\GlobalHotKeys\src\GlobalHotKeys\bin\Release\net8.0\GlobalHotKeys.deps.json
+c:\Users\Administrator\Desktop\v2rayN-master\v2rayN\GlobalHotKeys\src\GlobalHotKeys\bin\Release\net8.0\GlobalHotKeys.dll
+c:\Users\Administrator\Desktop\v2rayN-master\v2rayN\GlobalHotKeys\src\GlobalHotKeys\obj\Release\net8.0\GlobalHotKeys.csproj.AssemblyReference.cache
+c:\Users\Administrator\Desktop\v2rayN-master\v2rayN\GlobalHotKeys\src\GlobalHotKeys\obj\Release\net8.0\GlobalHotKeys.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Administrator\Desktop\v2rayN-master\v2rayN\GlobalHotKeys\src\GlobalHotKeys\obj\Release\net8.0\GlobalHotKeys.AssemblyInfoInputs.cache
+c:\Users\Administrator\Desktop\v2rayN-master\v2rayN\GlobalHotKeys\src\GlobalHotKeys\obj\Release\net8.0\GlobalHotKeys.AssemblyInfo.cs
+c:\Users\Administrator\Desktop\v2rayN-master\v2rayN\GlobalHotKeys\src\GlobalHotKeys\obj\Release\net8.0\GlobalHotKeys.csproj.CoreCompileInputs.cache
+c:\Users\Administrator\Desktop\v2rayN-master\v2rayN\GlobalHotKeys\src\GlobalHotKeys\obj\Release\net8.0\GlobalHotKeys.dll
+c:\Users\Administrator\Desktop\v2rayN-master\v2rayN\GlobalHotKeys\src\GlobalHotKeys\obj\Release\net8.0\refint\GlobalHotKeys.dll
+c:\Users\Administrator\Desktop\v2rayN-master\v2rayN\GlobalHotKeys\src\GlobalHotKeys\obj\Release\net8.0\ref\GlobalHotKeys.dll

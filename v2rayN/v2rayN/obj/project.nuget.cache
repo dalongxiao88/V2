@@ -1,0 +1,80 @@
+{
+  "version": 2,
+  "dgSpecHash": "mL+CyOqmz3U=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Administrator\\Desktop\\v2rayN-master\\v2rayN\\v2rayN\\v2rayN.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\cliwrap\\3.10.0\\cliwrap.3.10.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\downloader\\4.0.3\\downloader.4.0.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\dynamicdata\\9.4.1\\dynamicdata.9.4.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\fody\\6.8.0\\fody.6.8.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\h.generatedicons.system.drawing\\2.4.1\\h.generatedicons.system.drawing.2.4.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\h.notifyicon\\2.4.1\\h.notifyicon.2.4.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\h.notifyicon.wpf\\2.4.1\\h.notifyicon.wpf.2.4.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\materialdesigncolors\\5.3.0\\materialdesigncolors.5.3.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\materialdesignthemes\\5.3.0\\materialdesignthemes.5.3.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.3\\microsoft.extensions.logging.abstractions.8.0.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.23\\microsoft.net.illink.tasks.8.0.23.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.win32.systemevents\\10.0.0\\microsoft.win32.systemevents.10.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.77\\microsoft.xaml.behaviors.wpf.1.1.77.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\nlog\\6.1.0\\nlog.6.1.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\qrcoder\\1.7.0\\qrcoder.1.7.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\reactiveui\\22.3.1\\reactiveui.22.3.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\reactiveui.fody\\19.5.41\\reactiveui.fody.19.5.41.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\reactiveui.wpf\\22.3.1\\reactiveui.wpf.22.3.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\skiasharp\\2.88.7\\skiasharp.2.88.7.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.7\\skiasharp.nativeassets.macos.2.88.7.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.7\\skiasharp.nativeassets.win32.2.88.7.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\splat\\17.1.1\\splat.17.1.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\splat.builder\\17.1.1\\splat.builder.17.1.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\splat.core\\17.1.1\\splat.core.17.1.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\splat.logging\\17.1.1\\splat.logging.17.1.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\sqlite-net-pcl\\1.9.172\\sqlite-net-pcl.1.9.172.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.1.2\\sqlitepclraw.bundle_green.2.1.2.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\sqlitepclraw.core\\2.1.2\\sqlitepclraw.core.2.1.2.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.2\\sqlitepclraw.lib.e_sqlite3.2.1.2.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.2\\sqlitepclraw.provider.e_sqlite3.2.1.2.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.1\\system.diagnostics.eventlog.8.0.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.drawing.common\\10.0.0\\system.drawing.common.10.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.io.pipelines\\9.0.11\\system.io.pipelines.9.0.11.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.memory\\4.6.0\\system.memory.4.6.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.reactive\\6.1.0\\system.reactive.6.1.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.1.0\\system.runtime.compilerservices.unsafe.6.1.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.security.accesscontrol\\6.0.1\\system.security.accesscontrol.6.0.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.text.encodings.web\\9.0.11\\system.text.encodings.web.9.0.11.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.text.json\\9.0.11\\system.text.json.9.0.11.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.valuetuple\\4.6.1\\system.valuetuple.4.6.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\taskscheduler\\2.12.2\\taskscheduler.2.12.2.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\webdav.client\\2.9.0\\webdav.client.2.9.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\yamldotnet\\16.3.0\\yamldotnet.16.3.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\zxing.net\\0.16.9\\zxing.net.0.16.9.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\zxing.net.bindings.skiasharp\\0.16.14\\zxing.net.bindings.skiasharp.0.16.14.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.17763.56\\microsoft.windows.sdk.net.ref.10.0.17763.56.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'H.NotifyIcon.Wpf 2.4.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows10.0.17763'. This package may not be fully compatible with your project.",
+      "libraryId": "H.NotifyIcon.Wpf",
+      "targetGraphs": [
+        "net8.0-windows10.0.17763"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'ReactiveUI.WPF 22.3.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows10.0.17763'. This package may not be fully compatible with your project.",
+      "libraryId": "ReactiveUI.WPF",
+      "targetGraphs": [
+        "net8.0-windows10.0.17763"
+      ]
+    }
+  ]
+}

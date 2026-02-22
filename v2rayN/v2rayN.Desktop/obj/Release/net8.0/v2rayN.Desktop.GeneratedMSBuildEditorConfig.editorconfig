@@ -1,0 +1,105 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property.AvaloniaNameGeneratorIsEnabled = true
+build_property.AvaloniaNameGeneratorBehavior = InitializeComponent
+build_property.AvaloniaNameGeneratorDefaultFieldModifier = internal
+build_property.AvaloniaNameGeneratorFilterByPath = *
+build_property.AvaloniaNameGeneratorFilterByNamespace = *
+build_property.AvaloniaNameGeneratorViewFileNamingStrategy = NamespaceAndClassName
+build_property.AvaloniaNameGeneratorAttachDevTools = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = v2rayN.Desktop
+build_property.ProjectDir = c:\Users\Administrator\Desktop\v2rayN-master\v2rayN\v2rayN.Desktop\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[c:/Users/Administrator/Desktop/v2rayN-master/v2rayN/v2rayN.Desktop/App.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[c:/Users/Administrator/Desktop/v2rayN-master/v2rayN/v2rayN.Desktop/Assets/GlobalResources.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[c:/Users/Administrator/Desktop/v2rayN-master/v2rayN/v2rayN.Desktop/Assets/GlobalStyles.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[c:/Users/Administrator/Desktop/v2rayN-master/v2rayN/v2rayN.Desktop/Views/AddGroupServerWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[c:/Users/Administrator/Desktop/v2rayN-master/v2rayN/v2rayN.Desktop/Views/AddServer2Window.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[c:/Users/Administrator/Desktop/v2rayN-master/v2rayN/v2rayN.Desktop/Views/AddServerWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[c:/Users/Administrator/Desktop/v2rayN-master/v2rayN/v2rayN.Desktop/Views/BackupAndRestoreView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[c:/Users/Administrator/Desktop/v2rayN-master/v2rayN/v2rayN.Desktop/Views/CheckUpdateView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[c:/Users/Administrator/Desktop/v2rayN-master/v2rayN/v2rayN.Desktop/Views/ClashConnectionsView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[c:/Users/Administrator/Desktop/v2rayN-master/v2rayN/v2rayN.Desktop/Views/ClashProxiesView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[c:/Users/Administrator/Desktop/v2rayN-master/v2rayN/v2rayN.Desktop/Views/DNSSettingWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[c:/Users/Administrator/Desktop/v2rayN-master/v2rayN/v2rayN.Desktop/Views/FullConfigTemplateWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[c:/Users/Administrator/Desktop/v2rayN-master/v2rayN/v2rayN.Desktop/Views/GlobalHotkeySettingWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[c:/Users/Administrator/Desktop/v2rayN-master/v2rayN/v2rayN.Desktop/Views/MainWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[c:/Users/Administrator/Desktop/v2rayN-master/v2rayN/v2rayN.Desktop/Views/MsgView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[c:/Users/Administrator/Desktop/v2rayN-master/v2rayN/v2rayN.Desktop/Views/OptionSettingWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[c:/Users/Administrator/Desktop/v2rayN-master/v2rayN/v2rayN.Desktop/Views/ProfilesSelectWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[c:/Users/Administrator/Desktop/v2rayN-master/v2rayN/v2rayN.Desktop/Views/ProfilesView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[c:/Users/Administrator/Desktop/v2rayN-master/v2rayN/v2rayN.Desktop/Views/QrcodeView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[c:/Users/Administrator/Desktop/v2rayN-master/v2rayN/v2rayN.Desktop/Views/RoutingRuleDetailsWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[c:/Users/Administrator/Desktop/v2rayN-master/v2rayN/v2rayN.Desktop/Views/RoutingRuleSettingWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[c:/Users/Administrator/Desktop/v2rayN-master/v2rayN/v2rayN.Desktop/Views/RoutingSettingWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[c:/Users/Administrator/Desktop/v2rayN-master/v2rayN/v2rayN.Desktop/Views/StatusBarView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[c:/Users/Administrator/Desktop/v2rayN-master/v2rayN/v2rayN.Desktop/Views/SubEditWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[c:/Users/Administrator/Desktop/v2rayN-master/v2rayN/v2rayN.Desktop/Views/SubSettingWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[c:/Users/Administrator/Desktop/v2rayN-master/v2rayN/v2rayN.Desktop/Views/SudoPasswordInputView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[c:/Users/Administrator/Desktop/v2rayN-master/v2rayN/v2rayN.Desktop/Views/ThemeSettingView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
