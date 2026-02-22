@@ -13,7 +13,6 @@ public sealed class LanguageManager
     private const string DefaultLanguage = "zh-CN";
     private const string ResourcePathTemplate = "Resources/Languages/Lang.{0}.xaml";
     
-    private string _currentLanguage = DefaultLanguage;
     private ResourceDictionary? _currentLanguageDict;
 
     /// <summary>
@@ -24,7 +23,7 @@ public sealed class LanguageManager
     /// <summary>
     /// 当前语言代码
     /// </summary>
-    public string CurrentLanguage => _currentLanguage;
+    public string CurrentLanguage { get; private set; } = DefaultLanguage;
 
     /// <summary>
     /// 支持的语言列表
@@ -76,7 +75,7 @@ public sealed class LanguageManager
             return false;
         }
 
-        if (_currentLanguage == languageCode && _currentLanguageDict != null)
+        if (CurrentLanguage == languageCode && _currentLanguageDict != null)
         {
             return true; // 已经是当前语言，无需切换
         }
@@ -112,20 +111,23 @@ public sealed class LanguageManager
             // 确保所有窗口和控件都能接收到资源更新通知
             Application.Current.Dispatcher.Invoke(() =>
             {
-                foreach (Window window in Application.Current.Windows)
+                foreach (var window in Application.Current.Windows)
                 {
-                    // 刷新窗口
-                    window.InvalidateVisual();
-                    window.UpdateLayout();
-                    
-                    // 特殊处理：刷新所有 DataGrid 的列头
-                    RefreshDataGridHeaders(window);
+                    if (window is Window win)
+                    {
+                        // 刷新窗口
+                        win.InvalidateVisual();
+                        win.UpdateLayout();
+                        
+                        // 特殊处理：刷新所有 DataGrid 的列头
+                        RefreshDataGridHeaders(win);
+                    }
                 }
             }, System.Windows.Threading.DispatcherPriority.Render);
 
             // 更新当前语言状态
             _currentLanguageDict = newDict;
-            _currentLanguage = languageCode;
+            CurrentLanguage = languageCode;
 
             // 保存到配置文件
             SaveLanguageToConfig(languageCode);
@@ -269,7 +271,10 @@ public sealed class LanguageManager
     /// <param name="parent">父容器</param>
     private static void RefreshDataGridHeaders(DependencyObject? parent)
     {
-        if (parent == null) return;
+        if (parent == null)
+        {
+            return;
+        }
 
         // 检查当前元素是否是 DataGrid
         if (parent is System.Windows.Controls.DataGrid dataGrid)
@@ -283,9 +288,9 @@ public sealed class LanguageManager
             if (dataGrid.Columns.Count > 0)
             {
                 // 触发列头重新渲染的技巧：临时修改列宽
-                foreach (System.Windows.Controls.DataGridColumn column in dataGrid.Columns)
+                foreach (var column in dataGrid.Columns)
                 {
-                    double originalWidth = column.ActualWidth;
+                    var originalWidth = column.ActualWidth;
                     column.Width = new System.Windows.Controls.DataGridLength(originalWidth + 0.1);
                     column.Width = new System.Windows.Controls.DataGridLength(originalWidth);
                 }
@@ -293,10 +298,10 @@ public sealed class LanguageManager
         }
 
         // 递归处理子元素
-        int childCount = System.Windows.Media.VisualTreeHelper.GetChildrenCount(parent);
-        for (int i = 0; i < childCount; i++)
+        var childCount = System.Windows.Media.VisualTreeHelper.GetChildrenCount(parent);
+        for (var i = 0; i < childCount; i++)
         {
-            DependencyObject child = System.Windows.Media.VisualTreeHelper.GetChild(parent, i);
+            var child = System.Windows.Media.VisualTreeHelper.GetChild(parent, i);
             RefreshDataGridHeaders(child);
         }
     }
